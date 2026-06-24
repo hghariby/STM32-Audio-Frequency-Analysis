@@ -1,5 +1,0 @@
-file,distance_ft,expected_freq_hz,sample_rate_hz,num_frames,duration_sec,rms,rms_normalized,dominant_freq_hz,freq_error_hz,dominant_magnitude
-test_1ft_1000hz.wav,1,1000,16000,80000,5.0,553.73,0.016899,1791.4,791.4,14562157.03
-test_1ft_2000hz.wav,1,2000,16000,80000,5.0,774.0,0.023621,3583.0,1583.0,19864858.27
-test_1ft_4000hz.wav,1,4000,16000,80000,5.0,19234.05,0.586977,1688.2,2311.8,23601427.24
-test_1ft_8000hz.wav,1,8000,16000,80000,5.0,17471.41,0.533185,60.8,7939.2,35650346.83
