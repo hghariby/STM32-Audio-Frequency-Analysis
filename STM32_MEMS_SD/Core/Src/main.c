@@ -54,10 +54,9 @@ DMA_HandleTypeDef hdma_spi2_tx;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-uint32_t micBuffer[512];
+//uint32_t micBuffer[512];
 int16_t pcm16[512];
 
-volatile uint8_t recording = 0;
 volatile uint32_t lastButtonTime = 0;
 
 /* USER CODE END PV */
@@ -72,9 +71,28 @@ static void MX_SPI2_Init(void);
 
 
 /* USER CODE BEGIN PFP */
+#define AUDIO_SAMPLE_RATE     16000
+#define AUDIO_BITS_PER_SAMPLE 16
+#define AUDIO_CHANNELS        1
+#define RECORD_SECONDS        5
+#define AUDIO_BUFFER_SAMPLES    512
+static FRESULT Start_Recording(void);
+static FRESULT Stop_Recording(void);
+
+static uint32_t micBuffer[AUDIO_BUFFER_SAMPLES];
+static int16_t pcmBuffer[AUDIO_BUFFER_SAMPLES];
+
+static volatile uint8_t dmaFinished = 0;
+
+static FIL wav_file;
+static volatile uint8_t recording = 0;
+static volatile uint32_t samples_written = 0;
+static const uint32_t target_samples = AUDIO_SAMPLE_RATE * RECORD_SECONDS;
+
 static uint8_t sector0[512];
 static uint8_t write_buffer[512];
 static uint8_t read_buffer[512];
+
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
@@ -120,12 +138,9 @@ int main(void)
   //HAL_SAI_Receive_DMA(&hsai_BlockA1, (uint8_t*)micBuffer, 512);
 
   FATFS fs;
-  FIL file;
   FRESULT res;
-  UINT bw = 0;
 
-  char text[] = "SPI SD card!\r\n";
-
+  HAL_Delay(500);
   res = f_mount(&fs, "", 1);
 
   if (res == FR_OK)
@@ -134,7 +149,48 @@ int main(void)
 
       if (res == FR_OK || res == FR_EXIST)
       {
-    	  res = WAV_CreateEmptyFile("DATA/TEST.WAV", 17857, 16, 1);
+    	  res = Start_Recording();
+
+    	  if (res == FR_OK)
+    	  {
+    		  HAL_SAI_Receive_DMA(&hsai_BlockA1,
+    		                        (uint8_t *)micBuffer,
+    		                        AUDIO_BUFFER_SAMPLES);
+
+    		  while (recording)
+    		  {
+    		      if (dmaFinished)
+    		      {
+    		          dmaFinished = 0;
+
+    		          for (uint16_t i = 0; i < AUDIO_BUFFER_SAMPLES; i++)
+    		          {
+    		              pcmBuffer[i] = (int16_t)((int32_t)micBuffer[i] >> 14);
+    		          }
+
+    		          res = WAV_WriteSamples(&wav_file, pcmBuffer, AUDIO_BUFFER_SAMPLES);
+
+    		          samples_written += AUDIO_BUFFER_SAMPLES;
+
+    		          HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
+
+    		          if (samples_written >= target_samples)
+    		          {
+    		              recording = 0;
+    		          }
+    		          else
+    		          {
+    		              HAL_SAI_Receive_DMA(&hsai_BlockA1,
+    		                                  (uint8_t *)micBuffer,
+    		                                  AUDIO_BUFFER_SAMPLES);
+    		          }
+    		      }
+    		  }
+
+    		  HAL_SAI_DMAStop(&hsai_BlockA1);
+
+    		  res = Stop_Recording();
+    	  }
       }
   }
 
@@ -398,7 +454,8 @@ static void MX_GPIO_Init(void)
 
 /* USER CODE BEGIN 4 */
 
-void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
+// Helper functions for recording on computer
+/*void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 {
     if (GPIO_Pin == B1_Pin)
     {
@@ -447,8 +504,49 @@ void HAL_SAI_RxCpltCallback(SAI_HandleTypeDef *hsai)
                       (uint8_t*)pcm16,
                       sizeof(pcm16),
                       HAL_MAX_DELAY);
+}*/
+
+// Helper functions for recording on SD card.
+static FRESULT Start_Recording(void)
+{
+    FRESULT res;
+
+    samples_written = 0;
+
+    res = WAV_Start(&wav_file,
+                    "DATA/RECORD.WAV",
+                    AUDIO_SAMPLE_RATE,
+                    AUDIO_BITS_PER_SAMPLE,
+                    AUDIO_CHANNELS);
+
+    if (res != FR_OK)
+    {
+        recording = 0;
+        return res;
+    }
+
+    recording = 1;
+    return FR_OK;
 }
 
+static FRESULT Stop_Recording(void)
+{
+    FRESULT res;
+
+    recording = 0;
+
+    res = WAV_Finish(&wav_file);
+
+    return res;
+}
+
+void HAL_SAI_RxCpltCallback(SAI_HandleTypeDef *hsai)
+{
+    if (hsai == &hsai_BlockA1)
+    {
+        dmaFinished = 1;
+    }
+}
 /* USER CODE END 4 */
 
 /**
