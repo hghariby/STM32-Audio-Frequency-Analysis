@@ -26,6 +26,7 @@
 #include "stdio.h"
 #include "sdcard.h"
 #include "sd_spi.h"
+#include "wav_writer.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -123,7 +124,7 @@ int main(void)
   FRESULT res;
   UINT bw = 0;
 
-  char text[] = "Hello from STM32 FatFs over SPI SD card!\r\n";
+  char text[] = "SPI SD card!\r\n";
 
   res = f_mount(&fs, "", 1);
 
@@ -133,25 +134,13 @@ int main(void)
 
       if (res == FR_OK || res == FR_EXIST)
       {
-          res = f_open(&file, "DATA/TEST.TXT", FA_CREATE_ALWAYS | FA_WRITE);
-
-          if (res == FR_OK)
-          {
-              res = f_write(&file, text, strlen(text), &bw);
-
-              if (res == FR_OK)
-              {
-                  res = f_sync(&file);
-              }
-
-              f_close(&file);
-          }
+    	  res = WAV_CreateEmptyFile("DATA/TEST.WAV", 17857, 16, 1);
       }
   }
 
   while (1)
   {
-      if (res == FR_OK && bw == strlen(text))
+      if (res == FR_OK)
       {
           HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_SET);
       }
@@ -159,8 +148,8 @@ int main(void)
       {
           HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
           HAL_Delay(300);
-   }
- }
+      }
+  }
   /* USER CODE END 2 */
 
   /* Infinite loop */
