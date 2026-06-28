@@ -9,7 +9,13 @@
 #include "sdcard.h"
 #include "sd_spi.h"
 
-uint8_t SD_SendCmd(uint8_t cmd, uint32_t arg, uint8_t crc)
+static uint8_t SD_SendCmd(uint8_t cmd, uint32_t arg, uint8_t crc);
+static uint8_t SD_Test_CMD0(void);
+static uint8_t SD_Test_CMD8(uint8_t *r7);
+static uint8_t SD_Init_ACMD41(void);
+static uint8_t SD_ReadOCR(uint8_t *ocr);
+
+static uint8_t SD_SendCmd(uint8_t cmd, uint32_t arg, uint8_t crc)
 {
     uint8_t response;
 
@@ -33,7 +39,7 @@ uint8_t SD_SendCmd(uint8_t cmd, uint32_t arg, uint8_t crc)
     return 0xFF;
 }
 
-uint8_t SD_Test_CMD0(void)
+static uint8_t SD_Test_CMD0(void)
 {
 	SD_SPI_Init();
 
@@ -46,7 +52,7 @@ uint8_t SD_Test_CMD0(void)
 	return r;
 }
 
-uint8_t SD_Test_CMD8(uint8_t *r7)
+static uint8_t SD_Test_CMD8(uint8_t *r7)
 {
     uint8_t r;
 
@@ -64,7 +70,7 @@ uint8_t SD_Test_CMD8(uint8_t *r7)
     return r;
 }
 
-uint8_t SD_Init_ACMD41(void)
+static uint8_t SD_Init_ACMD41(void)
 {
     uint8_t r;
     uint32_t timeout = 10000;
@@ -91,7 +97,7 @@ uint8_t SD_Init_ACMD41(void)
     return r;
 }
 
-uint8_t SD_ReadOCR(uint8_t *ocr)
+static uint8_t SD_ReadOCR(uint8_t *ocr)
 {
     uint8_t r;
 

@@ -117,18 +117,11 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   //HAL_SAI_Receive_DMA(&hsai_BlockA1, (uint8_t*)micBuffer, 512);
-  SD_SPI_Unselect();
-  HAL_Delay(10);
-
-  uint8_t sd_status = SD_Init();
-  uint8_t write_status = SD_ERROR;
-  uint8_t read_status = SD_ERROR;
-  uint8_t verify_status = SD_ERROR;
 
   FATFS fs;
   FIL file;
   FRESULT res;
-  UINT bw;
+  UINT bw = 0;
 
   char text[] = "Hello from STM32 FatFs over SPI SD card!\r\n";
 
@@ -136,21 +129,29 @@ int main(void)
 
   if (res == FR_OK)
   {
-      f_mkdir("DATA");
+      res = f_mkdir("DATA");
 
-      res = f_open(&file, "DATA/TEST.TXT", FA_CREATE_ALWAYS | FA_WRITE);
-
-      if (res == FR_OK)
+      if (res == FR_OK || res == FR_EXIST)
       {
-          res = f_write(&file, text, strlen(text), &bw);
-          f_sync(&file);
-          f_close(&file);
+          res = f_open(&file, "DATA/TEST.TXT", FA_CREATE_ALWAYS | FA_WRITE);
+
+          if (res == FR_OK)
+          {
+              res = f_write(&file, text, strlen(text), &bw);
+
+              if (res == FR_OK)
+              {
+                  res = f_sync(&file);
+              }
+
+              f_close(&file);
+          }
       }
   }
 
   while (1)
   {
-      if (res == FR_OK && bw > 0)
+      if (res == FR_OK && bw == strlen(text))
       {
           HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_SET);
       }
@@ -158,9 +159,8 @@ int main(void)
       {
           HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
           HAL_Delay(300);
-      }
-  }
-
+   }
+ }
   /* USER CODE END 2 */
 
   /* Infinite loop */
