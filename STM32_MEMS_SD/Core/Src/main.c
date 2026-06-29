@@ -54,11 +54,12 @@ DMA_HandleTypeDef hdma_spi2_tx;
 UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
-//uint32_t micBuffer[512];
+/*
+ * variables for recording on computer
+uint32_t micBuffer[512];
 int16_t pcm16[512];
-
 volatile uint32_t lastButtonTime = 0;
-
+*/
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -71,18 +72,28 @@ static void MX_SPI2_Init(void);
 
 
 /* USER CODE BEGIN PFP */
-#define AUDIO_SAMPLE_RATE     16000
+#define AUDIO_SAMPLE_RATE     17857
 #define AUDIO_BITS_PER_SAMPLE 16
 #define AUDIO_CHANNELS        1
 #define RECORD_SECONDS        5
-#define AUDIO_BUFFER_SAMPLES    512
+#define AUDIO_BUFFER_SAMPLES 4096
+
 static FRESULT Start_Recording(void);
 static FRESULT Stop_Recording(void);
+static void SD_SPI_SetFast(void);
+
+
+static volatile uint8_t startRequest = 0;
+static volatile uint8_t stopRequest = 0;
+static volatile uint32_t lastButtonTime = 0;
 
 static uint32_t micBuffer[AUDIO_BUFFER_SAMPLES];
 static int16_t pcmBuffer[AUDIO_BUFFER_SAMPLES];
 
 static volatile uint8_t dmaFinished = 0;
+static volatile uint8_t halfReady = 0;
+static volatile uint8_t fullReady = 0;
+static volatile uint8_t buttonToggle = 0;
 
 static FIL wav_file;
 static volatile uint8_t recording = 0;
@@ -143,83 +154,99 @@ int main(void)
   HAL_Delay(500);
   res = f_mount(&fs, "", 1);
 
+  HAL_Delay(500);
+  res = f_mount(&fs, "", 1);
+
+  if (res == FR_OK)
+  {
+      SD_SPI_SetFast();
+  }
+
   if (res == FR_OK)
   {
       res = f_mkdir("DATA");
 
-      if (res == FR_OK || res == FR_EXIST)
-      {
-    	  res = Start_Recording();
-
-    	  if (res == FR_OK)
-    	  {
-    		  HAL_SAI_Receive_DMA(&hsai_BlockA1,
-    		                        (uint8_t *)micBuffer,
-    		                        AUDIO_BUFFER_SAMPLES);
-
-    		  while (recording)
-    		  {
-    		      if (dmaFinished)
-    		      {
-    		          dmaFinished = 0;
-
-    		          for (uint16_t i = 0; i < AUDIO_BUFFER_SAMPLES; i++)
-    		          {
-    		              pcmBuffer[i] = (int16_t)((int32_t)micBuffer[i] >> 14);
-    		          }
-
-    		          res = WAV_WriteSamples(&wav_file, pcmBuffer, AUDIO_BUFFER_SAMPLES);
-
-    		          samples_written += AUDIO_BUFFER_SAMPLES;
-
-    		          HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
-
-    		          if (samples_written >= target_samples)
-    		          {
-    		              recording = 0;
-    		          }
-    		          else
-    		          {
-    		              HAL_SAI_Receive_DMA(&hsai_BlockA1,
-    		                                  (uint8_t *)micBuffer,
-    		                                  AUDIO_BUFFER_SAMPLES);
-    		          }
-    		      }
-    		  }
-
-    		  HAL_SAI_DMAStop(&hsai_BlockA1);
-
-    		  res = Stop_Recording();
-    	  }
-      }
+      if (res == FR_EXIST)
+          res = FR_OK;
   }
 
-  while (1)
-  {
-      if (res == FR_OK)
-      {
-          HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_SET);
-      }
-      else
-      {
-          HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
-          HAL_Delay(300);
-      }
-  }
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
-   {
- 	  HAL_Delay(100);
+  {
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+	  if (startRequest)
+	  {
+	      startRequest = 0;
+
+	      if (!recording && res == FR_OK)
+	      {
+	          res = Start_Recording();
+
+	          if (res == FR_OK)
+	          {
+	              halfReady = 0;
+	              fullReady = 0;
+
+	              HAL_SAI_Receive_DMA(&hsai_BlockA1,
+	                                  (uint8_t *)micBuffer,
+	                                  AUDIO_BUFFER_SAMPLES);
+
+	              HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_SET);
+	          }
+	      }
+	  }
+
+	  if (stopRequest)
+	  {
+	      stopRequest = 0;
+
+	      if (recording)
+	      {
+	          HAL_SAI_DMAStop(&hsai_BlockA1);
+	          res = Stop_Recording();
+
+	          HAL_GPIO_WritePin(LD2_GPIO_Port, LD2_Pin, GPIO_PIN_RESET);
+	      }
+	  }
+
+	  if (recording && halfReady)
+	  {
+	      halfReady = 0;
+
+	      for (uint16_t i = 0; i < AUDIO_BUFFER_SAMPLES / 2; i++)
+	      {
+	          pcmBuffer[i] = (int16_t)((int32_t)micBuffer[i] >> 14);
+	      }
+
+	      res = WAV_WriteSamples(&wav_file,
+	                             pcmBuffer,
+	                             AUDIO_BUFFER_SAMPLES / 2);
+	  }
+
+	  if (recording && fullReady)
+	  {
+	      fullReady = 0;
+
+	      for (uint16_t i = AUDIO_BUFFER_SAMPLES / 2; i < AUDIO_BUFFER_SAMPLES; i++)
+	      {
+	          pcmBuffer[i - AUDIO_BUFFER_SAMPLES / 2] =
+	              (int16_t)((int32_t)micBuffer[i] >> 14);
+	      }
+
+	      res = WAV_WriteSamples(&wav_file,
+	                             pcmBuffer,
+	                             AUDIO_BUFFER_SAMPLES / 2);
+	  }
+
   }
+
   /* USER CODE END 3 */
 }
-
 /**
   * @brief System Clock Configuration
   * @retval None
@@ -540,11 +567,46 @@ static FRESULT Stop_Recording(void)
     return res;
 }
 
+void HAL_SAI_RxHalfCpltCallback(SAI_HandleTypeDef *hsai)
+{
+    if (hsai == &hsai_BlockA1 && recording)
+        halfReady = 1;
+}
+
 void HAL_SAI_RxCpltCallback(SAI_HandleTypeDef *hsai)
 {
-    if (hsai == &hsai_BlockA1)
+    if (hsai == &hsai_BlockA1 && recording)
+        fullReady = 1;
+}
+
+void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
+{
+    if (GPIO_Pin == B1_Pin)
     {
-        dmaFinished = 1;
+        uint32_t now = HAL_GetTick();
+
+        if (now - lastButtonTime < 300)
+            return;
+
+        lastButtonTime = now;
+
+        buttonToggle ^= 1;
+
+        if (buttonToggle)
+            startRequest = 1;
+        else
+            stopRequest = 1;
+    }
+}
+static void SD_SPI_SetFast(void)
+{
+    HAL_SPI_DeInit(&hspi2);
+
+    hspi2.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_16;
+
+    if (HAL_SPI_Init(&hspi2) != HAL_OK)
+    {
+        Error_Handler();
     }
 }
 /* USER CODE END 4 */
