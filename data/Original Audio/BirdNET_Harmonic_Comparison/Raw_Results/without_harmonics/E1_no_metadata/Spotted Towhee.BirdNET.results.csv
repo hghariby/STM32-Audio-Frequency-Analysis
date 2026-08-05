@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.9700,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo chlorurus,Green-tailed Towhee,0.7695,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Junco phaeonotus,Yellow-eyed Junco,0.0296,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis virginiae,Virginia's Warbler,0.0107,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Emberiza schoeniclus,Reed Bunting,0.0062,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0039,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella atrogularis,Black-chinned Sparrow,0.0019,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo erythrophthalmus,Eastern Towhee,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Helopsaltes certhiola,Pallas's Grasshopper Warbler,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Chondestes grammacus,Lark Sparrow,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Passerina amoena,Lazuli Bunting,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Empidonax oberholseri,Dusky Flycatcher,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Turdus philomelos,Song Thrush,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella breweri,Brewer's Sparrow,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Melozone fusca,Canyon Towhee,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+0.0,3.0,Pooecetes gramineus,Vesper Sparrow,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+3.0,6.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.9388,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Pipilo chlorurus,Green-tailed Towhee,0.7908,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Junco phaeonotus,Yellow-eyed Junco,0.0363,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis virginiae,Virginia's Warbler,0.0307,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0093,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Emberiza schoeniclus,Reed Bunting,0.0063,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza lincolnii,Lincoln's Sparrow,0.0028,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Helopsaltes certhiola,Pallas's Grasshopper Warbler,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Passerella iliaca,Fox Sparrow,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis celata,Orange-crowned Warbler,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax oberholseri,Dusky Flycatcher,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella atrogularis,Black-chinned Sparrow,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Pipilo erythrophthalmus,Eastern Towhee,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Pooecetes gramineus,Vesper Sparrow,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Passerina amoena,Lazuli Bunting,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Piranga ludoviciana,Western Tanager,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga graciae,Grace's Warbler,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Spotted Towhee.wav,-1,-1,-1,0.01

@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Passer domesticus,House Sparrow,0.7496,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Sturnus vulgaris,European Starling,0.0014,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Eremophila alpestris,Horned Lark,0.0012,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus psaltria,Lesser Goldfinch,0.0011,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0007,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus lawrencei,Lawrence's Goldfinch,0.0005,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Auriparus flaviceps,Verdin,0.0005,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Tachycineta bicolor,Tree Swallow,0.0005,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Hirundo rustica,Barn Swallow,0.0004,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0003,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melozone aberti,Abert's Towhee,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus pinus,Pine Siskin,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Turdus migratorius,American Robin,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Icterus cucullatus,Hooded Oriole,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Zenaida asiatica,White-winged Dove,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Haemorhous cassinii,Cassin's Finch,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Molothrus ater,Brown-headed Cowbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.4617,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Tachycineta bicolor,Tree Swallow,0.0182,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.0012,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Auriparus flaviceps,Verdin,0.0009,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous purpureus,Purple Finch,0.0004,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0003,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Eremophila alpestris,Horned Lark,0.0003,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous cassinii,Cassin's Finch,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sturnus vulgaris,European Starling,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Pipilo chlorurus,Green-tailed Towhee,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Myadestes townsendi,Townsend's Solitaire,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Agelaius phoeniceus,Red-winged Blackbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Vireo gilvus,Warbling Vireo,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Turdus migratorius,American Robin,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Mimus polyglottos,Northern Mockingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Vireo huttoni,Hutton's Vireo,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spinus pinus,Pine Siskin,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.5491,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Tachycineta bicolor,Tree Swallow,0.0015,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sturnus vulgaris,European Starling,0.0007,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Auriparus flaviceps,Verdin,0.0006,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spinus pinus,Pine Siskin,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Zenaida asiatica,White-winged Dove,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spinus psaltria,Lesser Goldfinch,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Salpinctes obsoletus,Rock Wren,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Eremophila alpestris,Horned Lark,0.0001,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Agelaius tricolor,Tricolored Blackbird,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Phainopepla nitens,Phainopepla,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Myadestes townsendi,Townsend's Solitaire,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Melospiza lincolnii,Lincoln's Sparrow,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Molothrus ater,Brown-headed Cowbird,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Amphispiza bilineata,Black-throated Sparrow,0.0000,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passer domesticus,House Sparrow,0.4969,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0258,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous cassinii,Cassin's Finch,0.0012,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Turdus migratorius,American Robin,0.0011,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Chondestes grammacus,Lark Sparrow,0.0011,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Auriparus flaviceps,Verdin,0.0007,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Anthus rubescens,American Pipit,0.0005,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous purpureus,Purple Finch,0.0005,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus psaltria,Lesser Goldfinch,0.0005,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sturnus vulgaris,European Starling,0.0004,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sturnella neglecta,Western Meadowlark,0.0004,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Vireo cassinii,Cassin's Vireo,0.0004,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Phainopepla nitens,Phainopepla,0.0003,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Calidris mauri,Western Sandpiper,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Quiscalus mexicanus,Great-tailed Grackle,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Salpinctes obsoletus,Rock Wren,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Melozone crissalis,California Towhee,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus pinus,Pine Siskin,0.0002,Filtered_With_Harmonics\Normalized_Audio\House Sparrow.wav,34.0522,-118.2437,-1,0.01

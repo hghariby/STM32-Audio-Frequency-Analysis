@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Zenaida macroura,Mourning Dove,0.8992,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Zenaida asiatica,White-winged Dove,0.0354,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Gavia immer,Common Loon,0.0172,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0054,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Geococcyx californianus,Greater Roadrunner,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Callipepla gambelii,Gambel's Quail,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Columbina passerina,Common Ground Dove,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Meleagris gallopavo,Wild Turkey,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryocopus pileatus,Pileated Woodpecker,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Phainopepla nitens,Phainopepla,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Polioptila melanura,Black-tailed Gnatcatcher,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Icterus parisorum,Scott's Oriole,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates scalaris,Ladder-backed Woodpecker,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Aphelocoma californica,California Scrub-Jay,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Zenaida macroura,Mourning Dove,0.9617,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Zenaida asiatica,White-winged Dove,0.0126,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0052,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Geococcyx californianus,Greater Roadrunner,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Meleagris gallopavo,Wild Turkey,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Gavia immer,Common Loon,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Buteo lineatus,Red-shouldered Hawk,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Columbina passerina,Common Ground Dove,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryocopus pileatus,Pileated Woodpecker,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Lophodytes cucullatus,Hooded Merganser,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Melozone aberti,Abert's Towhee,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Corvus brachyrhynchos,American Crow,0.0002,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Selasphorus rufus,Rufous Hummingbird,0.0001,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates scalaris,Ladder-backed Woodpecker,0.0001,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Megaceryle alcyon,Belted Kingfisher,0.0001,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0001,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Zenaida macroura,Mourning Dove,0.8967,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0265,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Zenaida asiatica,White-winged Dove,0.0028,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Gavia immer,Common Loon,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Columbina passerina,Common Ground Dove,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryocopus pileatus,Pileated Woodpecker,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Lophodytes cucullatus,Hooded Merganser,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Meleagris gallopavo,Wild Turkey,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Buteo lineatus,Red-shouldered Hawk,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Megaceryle alcyon,Belted Kingfisher,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Geococcyx californianus,Greater Roadrunner,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Mergus merganser,Common Merganser,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Buteo jamaicensis,Red-tailed Hawk,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Colaptes auratus,Northern Flicker,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Corvus brachyrhynchos,American Crow,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Buteo lineatus,Red-shouldered Hawk,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Megaceryle alcyon,Belted Kingfisher,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Leiothlypis celata,Orange-crowned Warbler,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Certhia americana,Brown Creeper,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sitta canadensis,Red-breasted Nuthatch,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Anthus rubescens,American Pipit,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Cyanocitta stelleri,Steller's Jay,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Contopus cooperi,Olive-sided Flycatcher,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spizella passerina,Chipping Sparrow,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pandion haliaetus,Osprey,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Setophaga coronata,Yellow-rumped Warbler,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Mourning Dove.wav,34.0522,-118.2437,-1,0.01

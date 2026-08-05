@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.9963,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Passerculus sandwichensis,Savannah Sparrow,0.0009,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Calypte costae,Costa's Hummingbird,0.0009,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Locustella fluviatilis,River Warbler,0.0008,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Ammospiza leconteii,LeConte's Sparrow,0.0007,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Phoenicurus ochruros,Black Redstart,0.0004,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Coereba flaveola,Bananaquit,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella pallida,Clay-colored Sparrow,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Cynanthus latirostris,Broad-billed Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Selasphorus calliope,Calliope Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Colibri coruscans,Sparkling Violetear,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Selasphorus sasin,Allen's Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Selasphorus rufus,Rufous Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella breweri,Brewer's Sparrow,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Baeolophus inornatus,Oak Titmouse,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Melanospiza bicolor,Black-faced Grassquit,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga occidentalis,Hermit Warbler,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Calypte anna,Anna's Hummingbird,0.9996,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.0020,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Passerculus sandwichensis,Savannah Sparrow,0.0003,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Locustella fluviatilis,River Warbler,0.0003,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0002,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Calypte costae,Costa's Hummingbird,0.0002,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Ammospiza leconteii,LeConte's Sparrow,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Cynanthus latirostris,Broad-billed Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Saxicola rubetra,Whinchat,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Selasphorus calliope,Calliope Hummingbird,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Thryomanes bewickii,Bewick's Wren,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo gilvus,Warbling Vireo,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Icterus cucullatus,Hooded Oriole,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Coereba flaveola,Bananaquit,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+3.0,6.0,Tachycineta thalassina,Violet-green Swallow,0.0000,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.9997,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Passerculus sandwichensis,Savannah Sparrow,0.0067,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Phoenicurus ochruros,Black Redstart,0.0005,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Ammospiza leconteii,LeConte's Sparrow,0.0005,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Cynanthus latirostris,Broad-billed Hummingbird,0.0003,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Calypte costae,Costa's Hummingbird,0.0003,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Emberiza calandra,Corn Bunting,0.0002,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Coereba flaveola,Bananaquit,0.0002,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella breweri,Brewer's Sparrow,0.0002,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Apus apus,Common Swift,0.0002,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella pallida,Clay-colored Sparrow,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga townsendi,Townsend's Warbler,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Selasphorus heloisa,Bumblebee Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Stilpnia heinei,Black-capped Tanager,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Salpinctes obsoletus,Rock Wren,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Phrygilus gayi,Gray-hooded Sierra Finch,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Archilochus alexandri,Black-chinned Hummingbird,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+6.0,9.0,Saxicola rubetra,Whinchat,0.0001,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.9983,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Spizella pallida,Clay-colored Sparrow,0.0067,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Passerculus sandwichensis,Savannah Sparrow,0.0051,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Ammospiza leconteii,LeConte's Sparrow,0.0031,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Calypte costae,Costa's Hummingbird,0.0031,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Euplectes ardens,Red-collared Widowbird,0.0016,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Ammodramus aurifrons,Yellow-browed Sparrow,0.0014,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Selasphorus calliope,Calliope Hummingbird,0.0012,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Stilpnia heinei,Black-capped Tanager,0.0011,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Melanospiza bicolor,Black-faced Grassquit,0.0010,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Phoenicurus ochruros,Black Redstart,0.0010,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Locustella fluviatilis,River Warbler,0.0009,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Vermivora cyanoptera,Blue-winged Warbler,0.0009,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Vermivora chrysoptera,Golden-winged Warbler,0.0009,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Selasphorus rufus,Rufous Hummingbird,0.0007,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Selasphorus sasin,Allen's Hummingbird,0.0006,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Aegithalos concinnus,Black-throated Tit,0.0005,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Coereba flaveola,Bananaquit,0.0005,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Mohoua albicilla,Whitehead,0.0005,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01
+9.0,10.0,Thryomanes bewickii,Bewick's Wren,0.0004,Filtered_With_Harmonics\Normalized_Audio\Anna's Hummingbird.wav,-1,-1,-1,0.01

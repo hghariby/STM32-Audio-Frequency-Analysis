@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Spinus magellanicus,Hooded Siskin,0.2941,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus psaltria,Lesser Goldfinch,0.1869,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus xanthogastrus,Yellow-bellied Siskin,0.1448,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus olivaceus,Olivaceous Siskin,0.0162,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Acrocephalus schoenobaenus,Sedge Warbler,0.0126,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Crithagra striolata,Streaky Seedeater,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus spinescens,Andean Siskin,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Prinia hodgsonii,Gray-breasted Prinia,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Iduna rama,Sykes's Warbler,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus spinus,Eurasian Siskin,0.0009,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus notatus,Black-headed Siskin,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Spinus lawrencei,Lawrence's Goldfinch,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Sporophila nigricollis,Yellow-bellied Seedeater,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Cinnyris pulchellus,Beautiful Sunbird,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Phylloscopus proregulus,Pallas's Leaf Warbler,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Turdus iliacus,Redwing,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Acrocephalus agricola,Paddyfield Warbler,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Sporophila caerulescens,Double-collared Seedeater,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Diglossa mystacalis,Moustached Flowerpiercer,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+0.0,3.0,Sicalis flaveola,Saffron Finch,0.0003,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.3273,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Phylloscopus proregulus,Pallas's Leaf Warbler,0.1006,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Spinus psaltria,Lesser Goldfinch,0.0909,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Passerina cyanea,Indigo Bunting,0.0134,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0122,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Colius colius,White-backed Mousebird,0.0118,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Spinus magellanicus,Hooded Siskin,0.0097,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Crithagra striolata,Streaky Seedeater,0.0090,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Polioptila dumicola,Masked Gnatcatcher,0.0089,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Anthus hodgsoni,Olive-backed Pipit,0.0077,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Sporophila nigricollis,Yellow-bellied Seedeater,0.0045,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Sporophila torqueola,Cinnamon-rumped Seedeater,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Prinia hodgsonii,Gray-breasted Prinia,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Spinus xanthogastrus,Yellow-bellied Siskin,0.0031,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Alauda gulgula,Oriental Skylark,0.0031,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Galerida cristata,Crested Lark,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Sporophila caerulescens,Double-collared Seedeater,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Galerida theklae,Thekla's Lark,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Vidua macroura,Pin-tailed Whydah,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+3.0,6.0,Sporophila corvina,Variable Seedeater,0.0029,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Spinus psaltria,Lesser Goldfinch,0.5148,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Spinus lawrencei,Lawrence's Goldfinch,0.0460,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Spinus spinus,Eurasian Siskin,0.0273,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Polioptila dumicola,Masked Gnatcatcher,0.0153,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Spinus magellanicus,Hooded Siskin,0.0137,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Acrocephalus schoenobaenus,Sedge Warbler,0.0052,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Iduna opaca,Western Olivaceous Warbler,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Acrocephalus bistrigiceps,Black-browed Reed Warbler,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Luscinia svecica,Bluethroat,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Lanius collurio,Red-backed Shrike,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Sinosuthora webbiana,Vinous-throated Parrotbill,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Galerida cristata,Crested Lark,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Polioptila plumbea,Tropical Gnatcatcher,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Acanthis cabaret,Lesser Redpoll,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus proregulus,Pallas's Leaf Warbler,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Spinus xanthogastrus,Yellow-bellied Siskin,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Emberiza cia,Rock Bunting,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Spinus notatus,Black-headed Siskin,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Polioptila lembeyei,Cuban Gnatcatcher,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+6.0,9.0,Acrocephalus agricola,Paddyfield Warbler,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Spinus tristis,American Goldfinch,0.7082,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Hedydipna collaris,Collared Sunbird,0.0895,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Sporophila minuta,Ruddy-breasted Seedeater,0.0505,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Thraupis sayaca,Sayaca Tanager,0.0093,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Passerina cyanea,Indigo Bunting,0.0092,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Spinus psaltria,Lesser Goldfinch,0.0081,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Periparus ater,Coal Tit,0.0080,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Spinus magellanicus,Hooded Siskin,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Vidua chalybeata,Village Indigobird,0.0041,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Spinus spinescens,Andean Siskin,0.0035,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Cisticola marginatus,Winding Cisticola,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Atlapetes melanolaemus,Black-faced Brushfinch,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Hippolais icterina,Icterine Warbler,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Sporophila bouvreuil,Copper Seedeater,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Polioptila dumicola,Masked Gnatcatcher,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Crithagra mozambica,Yellow-fronted Canary,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Serinus canaria,Island Canary,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Periparus rubidiventris,Rufous-vented Tit,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01
+9.0,10.0,Spinus spinus,Eurasian Siskin,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Lesser Goldfinch.wav,-1,-1,27,0.01

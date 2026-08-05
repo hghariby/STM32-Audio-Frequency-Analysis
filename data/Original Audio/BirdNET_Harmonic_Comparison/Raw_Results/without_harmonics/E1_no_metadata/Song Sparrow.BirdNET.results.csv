@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Engine,Engine,0.0058,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Buteo jamaicensis,Red-tailed Hawk,0.0038,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Catharus fuscescens,Veery,0.0031,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Fireworks,Fireworks,0.0031,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Power tools,Power tools,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga virens,Black-throated Green Warbler,0.0028,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Bombycilla cedrorum,Cedar Waxwing,0.0028,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Bonasa umbellus,Ruffed Grouse,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Meleagris gallopavo,Wild Turkey,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Dryocopus pileatus,Pileated Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Human vocal,Human vocal,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Parkesia motacilla,Louisiana Waterthrush,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Catharus ustulatus,Swainson's Thrush,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Oporornis agilis,Connecticut Warbler,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Myiarchus crinitus,Great Crested Flycatcher,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Buteo lineatus,Red-shouldered Hawk,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.8093,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Passerculus sandwichensis,Savannah Sparrow,0.1057,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Thryomanes bewickii,Bewick's Wren,0.0082,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Pooecetes gramineus,Vesper Sparrow,0.0080,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Cistothorus platensis,Grass Wren,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza georgiana,Swamp Sparrow,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Rallus limicola,Virginia Rail,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Cistothorus stellaris,Sedge Wren,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella breweri,Brewer's Sparrow,0.0009,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Amphispiza bilineata,Black-throated Sparrow,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Agelaius phoeniceus,Red-winged Blackbird,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Spizelloides arborea,American Tree Sparrow,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Eremophila alpestris,Horned Lark,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Dolichonyx oryzivorus,Bobolink,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Ammospiza maritima,Seaside Sparrow,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Troglodytes troglodytes,Eurasian Wren,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Ammospiza nelsoni,Nelson's Sparrow,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Song Sparrow.wav,-1,-1,-1,0.01

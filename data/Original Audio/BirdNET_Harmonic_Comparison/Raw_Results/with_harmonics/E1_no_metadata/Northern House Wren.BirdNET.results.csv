@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Troglodytes aedon,House Wren,0.9965,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Melanerpes lewis,Lewis's Woodpecker,0.0108,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus barbatus,Black-chinned Siskin,0.0030,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus pinus,Pine Siskin,0.0009,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Contopus virens,Eastern Wood-Pewee,0.0007,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Contopus sordidulus,Western Wood-Pewee,0.0006,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Cistothorus palustris,Marsh Wren,0.0006,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Curruca curruca,Lesser Whitethroat,0.0005,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0004,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Dendragapus obscurus,Dusky Grouse,0.0004,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0004,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0004,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Fringilla coelebs,Common Chaffinch,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga pinus,Pine Warbler,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0002,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Protonotaria citrea,Prothonotary Warbler,0.0002,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga kirtlandii,Kirtland's Warbler,0.0002,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0002,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous cassinii,Cassin's Finch,0.0002,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Molothrus ater,Brown-headed Cowbird,0.0002,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Cistothorus palustris,Marsh Wren,0.2671,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Basileuterus rufifrons,Rufous-capped Warbler,0.1771,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Troglodytes aedon,House Wren,0.0745,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Cistothorus platensis,Grass Wren,0.0723,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0585,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Cinnyris pulchellus,Beautiful Sunbird,0.0130,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Cistothorus stellaris,Sedge Wren,0.0112,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Spinus barbatus,Black-chinned Siskin,0.0083,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Curruca iberiae,Western Subalpine Warbler,0.0078,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Cinnyris venustus,Variable Sunbird,0.0074,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Sporophila luctuosa,Black-and-white Seedeater,0.0051,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Curruca melanocephala,Sardinian Warbler,0.0042,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Curruca curruca,Lesser Whitethroat,0.0041,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Iduna pallida,Eastern Olivaceous Warbler,0.0039,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo bellii,Bell's Vireo,0.0034,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Leptasthenura pileata,Rusty-crowned Tit-Spinetail,0.0031,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Polioptila melanura,Black-tailed Gnatcatcher,0.0026,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Passer moabiticus,Dead Sea Sparrow,0.0025,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Amphispizopsis quinquestriata,Five-striped Sparrow,0.0025,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Cinnyris reichenowi,Northern Double-collared Sunbird,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Troglodytes aedon,House Wren,0.9964,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Melanerpes lewis,Lewis's Woodpecker,0.0041,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Contopus virens,Eastern Wood-Pewee,0.0018,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Dendragapus obscurus,Dusky Grouse,0.0016,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Contopus sordidulus,Western Wood-Pewee,0.0013,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Icterus bullockii,Bullock's Oriole,0.0010,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus pinus,Pine Siskin,0.0008,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Curruca curruca,Lesser Whitethroat,0.0008,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus tristis,American Goldfinch,0.0007,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus barbatus,Black-chinned Siskin,0.0007,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Cistothorus platensis,Grass Wren,0.0005,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0005,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0004,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis celata,Orange-crowned Warbler,0.0004,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous cassinii,Cassin's Finch,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Baeolophus inornatus,Oak Titmouse,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga petechia,Yellow Warbler,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Selasphorus platycercus,Broad-tailed Hummingbird,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Cistothorus palustris,Marsh Wren,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Protonotaria citrea,Prothonotary Warbler,0.0003,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern House Wren.wav,-1,-1,-1,0.01

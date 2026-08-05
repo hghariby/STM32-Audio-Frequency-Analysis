@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.8218,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza georgiana,Swamp Sparrow,0.6350,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella passerina,Chipping Sparrow,0.0226,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0036,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga palmarum,Palm Warbler,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella pusilla,Field Sparrow,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Rallus limicola,Virginia Rail,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga pinus,Pine Warbler,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Pooecetes gramineus,Vesper Sparrow,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Zonotrichia albicollis,White-throated Sparrow,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella pallida,Clay-colored Sparrow,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Peucaea aestivalis,Bachman's Sparrow,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga coronata,Yellow-rumped Warbler,0.0009,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Loxia leucoptera,White-winged Crossbill,0.0009,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Emberiza cirlus,Cirl Bunting,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Poecile palustris,Marsh Tit,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Spizelloides arborea,American Tree Sparrow,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+0.0,3.0,Agelaius phoeniceus,Red-winged Blackbird,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+3.0,6.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.8831,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza georgiana,Swamp Sparrow,0.5112,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0306,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga palmarum,Palm Warbler,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus tristis,American Goldfinch,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Emberiza cirlus,Cirl Bunting,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella pusilla,Field Sparrow,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Pooecetes gramineus,Vesper Sparrow,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Zonotrichia albicollis,White-throated Sparrow,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga pinus,Pine Warbler,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia leucoptera,White-winged Crossbill,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Poecile palustris,Marsh Tit,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Rallus limicola,Virginia Rail,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Anthus trivialis,Tree Pipit,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella pallida,Clay-colored Sparrow,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Spizelloides arborea,American Tree Sparrow,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella breweri,Brewer's Sparrow,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Dark-eyed Junco.wav,-1,-1,-1,0.01

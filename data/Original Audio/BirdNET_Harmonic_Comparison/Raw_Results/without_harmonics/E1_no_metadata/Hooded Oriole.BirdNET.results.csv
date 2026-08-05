@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Icterus cucullatus,Hooded Oriole,0.9995,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Oenanthe oenanthe,Northern Wheatear,0.1976,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Acrocephalus palustris,Marsh Warbler,0.0560,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Sylvia atricapilla,Eurasian Blackcap,0.0080,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Curruca iberiae,Western Subalpine Warbler,0.0065,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Luscinia megarhynchos,Common Nightingale,0.0061,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Curruca communis,Greater Whitethroat,0.0045,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Icterus spurius,Orchard Oriole,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Hippolais polyglotta,Melodious Warbler,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Curruca curruca,Lesser Whitethroat,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo crassirostris,Thick-billed Vireo,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Hippolais languida,Upcher's Warbler,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Sylvia borin,Garden Warbler,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Tyrannus vociferans,Cassin's Kingbird,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Lanius collurio,Red-backed Shrike,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Iduna opaca,Western Olivaceous Warbler,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo nelsoni,Dwarf Vireo,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo griseus,White-eyed Vireo,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo vicinior,Gray Vireo,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+0.0,3.0,Icterus bullockii,Bullock's Oriole,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Icterus cucullatus,Hooded Oriole,0.9802,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Toxostoma curvirostre,Curve-billed Thrasher,0.4880,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Acrocephalus palustris,Marsh Warbler,0.1059,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Cisticola erythrops,Red-faced Cisticola,0.0063,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Oenanthe oenanthe,Northern Wheatear,0.0056,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Curruca iberiae,Western Subalpine Warbler,0.0050,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Cisticola cantans,Singing Cisticola,0.0043,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Acrocephalus australis,Australian Reed Warbler,0.0037,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Sylvia atricapilla,Eurasian Blackcap,0.0035,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Curruca communis,Greater Whitethroat,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Iduna caligata,Booted Warbler,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Sylvia borin,Garden Warbler,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Calliope calliope,Siberian Rubythroat,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Icterus spurius,Orchard Oriole,0.0016,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Troglodytes aedon,House Wren,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Calamanthus fuliginosus,Striated Fieldwren,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Arundinax aedon,Thick-billed Warbler,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Luscinia megarhynchos,Common Nightingale,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo atricapilla,Black-capped Vireo,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+3.0,6.0,Toxostoma redivivum,California Thrasher,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Icterus cucullatus,Hooded Oriole,0.9983,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Toxostoma curvirostre,Curve-billed Thrasher,0.3714,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Icterus bullockii,Bullock's Oriole,0.0100,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Oenanthe oenanthe,Northern Wheatear,0.0069,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Acrocephalus palustris,Marsh Warbler,0.0067,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Cisticola erythrops,Red-faced Cisticola,0.0063,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Tyrannus vociferans,Cassin's Kingbird,0.0036,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Calamanthus fuliginosus,Striated Fieldwren,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Serinus alario,Black-headed Canary,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Icterus spurius,Orchard Oriole,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Ploceus melanocephalus,Black-headed Weaver,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Curaeus curaeus,Austral Blackbird,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Toxostoma cinereum,Gray Thrasher,0.0009,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Cardinalis sinuatus,Pyrrhuloxia,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Vidua macroura,Pin-tailed Whydah,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Geothlypis beldingi,Belding's Yellowthroat,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Vireo nelsoni,Dwarf Vireo,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Lagonosticta senegala,Red-billed Firefinch,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Vidua chalybeata,Village Indigobird,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+6.0,9.0,Acrocephalus australis,Australian Reed Warbler,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Piranga ludoviciana,Western Tanager,0.5979,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Icterus cucullatus,Hooded Oriole,0.3636,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Toxostoma redivivum,California Thrasher,0.0232,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Spinus spinus,Eurasian Siskin,0.0102,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Sialia mexicana,Western Bluebird,0.0097,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Oenanthe oenanthe,Northern Wheatear,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Acrocephalus australis,Australian Reed Warbler,0.0052,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Pipilo chlorurus,Green-tailed Towhee,0.0044,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Passerella iliaca,Fox Sparrow,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Spinus psaltria,Lesser Goldfinch,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Tyrannus vociferans,Cassin's Kingbird,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Haemorhous cassinii,Cassin's Finch,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Iduna caligata,Booted Warbler,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Linaria cannabina,Eurasian Linnet,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Spinus lawrencei,Lawrence's Goldfinch,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Lonchura punctulata,Scaly-breasted Munia,0.0019,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Curruca communis,Greater Whitethroat,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Icterus spurius,Orchard Oriole,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Auriparus flaviceps,Verdin,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01
+9.0,10.0,Pinicola enucleator,Pine Grosbeak,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Hooded Oriole.wav,-1,-1,-1,0.01

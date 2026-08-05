@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Haemorhous mexicanus,House Finch,0.1601,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Galerida theklae,Thekla's Lark,0.1209,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Mirafra cheniana,Latakoo Lark,0.1055,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Galerida deva,Tawny Lark,0.0487,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Artemisiospiza nevadensis,Sagebrush Sparrow,0.0119,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Linaria cannabina,Eurasian Linnet,0.0077,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Myiothlypis coronata,Russet-crowned Warbler,0.0045,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Melanocorypha calandra,Calandra Lark,0.0040,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Galerida magnirostris,Large-billed Lark,0.0038,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Passerella iliaca,Fox Sparrow,0.0037,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0034,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Calendulauda sabota,Sabota Lark,0.0029,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Calandrella brachydactyla,Greater Short-toed Lark,0.0028,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Calandrella cinerea,Red-capped Lark,0.0028,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Plectrophenax nivalis,Snow Bunting,0.0028,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Galerida cristata,Crested Lark,0.0027,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Emberiza melanocephala,Black-headed Bunting,0.0026,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Chloris spinoides,Yellow-breasted Greenfinch,0.0023,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous cassinii,Cassin's Finch,0.0018,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+0.0,3.0,Myadestes townsendi,Townsend's Solitaire,0.0018,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Galerida theklae,Thekla's Lark,0.1063,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Artemisiospiza nevadensis,Sagebrush Sparrow,0.0745,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Calandrella brachydactyla,Greater Short-toed Lark,0.0675,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Saxicola rubetra,Whinchat,0.0629,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Galerida deva,Tawny Lark,0.0541,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0340,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Passerina caerulea,Blue Grosbeak,0.0269,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Monticola saxatilis,Rufous-tailed Rock-Thrush,0.0254,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Galerida cristata,Crested Lark,0.0208,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Oenanthe pleschanka,Pied Wheatear,0.0206,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Artemisiospiza belli,Bell's Sparrow,0.0157,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Galerida malabarica,Malabar Lark,0.0156,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Alaudala heinei,Turkestan Short-toed Lark,0.0121,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous cassinii,Cassin's Finch,0.0097,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Calandrella cinerea,Red-capped Lark,0.0097,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Oenanthe pileata,Capped Wheatear,0.0093,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Oenanthe oenanthe,Northern Wheatear,0.0088,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga kirtlandii,Kirtland's Warbler,0.0085,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Galerida magnirostris,Large-billed Lark,0.0083,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+3.0,6.0,Oenanthe hispanica,Western Black-eared Wheatear,0.0081,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Artemisiospiza nevadensis,Sagebrush Sparrow,0.0593,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Galerida theklae,Thekla's Lark,0.0487,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0413,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Monticola saxatilis,Rufous-tailed Rock-Thrush,0.0112,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Emberiza melanocephala,Black-headed Bunting,0.0100,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Galerida deva,Tawny Lark,0.0096,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Plectrophenax nivalis,Snow Bunting,0.0093,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Oenanthe leucura,Black Wheatear,0.0083,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Linaria cannabina,Eurasian Linnet,0.0076,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Iduna caligata,Booted Warbler,0.0056,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Mirafra cheniana,Latakoo Lark,0.0051,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Passerella iliaca,Fox Sparrow,0.0041,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Cercotrichas galactotes,Rufous-tailed Scrub-Robin,0.0036,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous cassinii,Cassin's Finch,0.0035,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Saxicola caprata,Pied Bushchat,0.0033,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Myadestes townsendi,Townsend's Solitaire,0.0031,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Galerida cristata,Crested Lark,0.0031,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Hippolais languida,Upcher's Warbler,0.0030,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Monticola solitarius,Blue Rock-Thrush,0.0023,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0020,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\House Finch.wav,-1,-1,-1,0.01

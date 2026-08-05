@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Hirundo rustica,Barn Swallow,0.9999,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Riparia riparia,Bank Swallow,0.0016,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Delichon urbicum,Common House-Martin,0.0006,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Passer montanus,Eurasian Tree Sparrow,0.0006,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Sylvia borin,Garden Warbler,0.0004,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0004,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Iduna pallida,Eastern Olivaceous Warbler,0.0003,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Cecropis daurica,Red-rumped Swallow,0.0003,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Acrocephalus palustris,Marsh Warbler,0.0002,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo bellii,Bell's Vireo,0.0002,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Iduna caligata,Booted Warbler,0.0002,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Geothlypis trichas,Common Yellowthroat,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Melanocorypha calandra,Calandra Lark,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Carduelis carduelis,European Goldfinch,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Acrocephalus schoenobaenus,Sedge Warbler,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Dolichonyx oryzivorus,Bobolink,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Passerculus sandwichensis,Savannah Sparrow,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Curruca communis,Greater Whitethroat,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Tachycineta bicolor,Tree Swallow,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+0.0,3.0,Rallus limicola,Virginia Rail,0.0001,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.9996,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Cecropis daurica,Red-rumped Swallow,0.1698,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo tahitica,Pacific Swallow,0.1108,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0090,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo angolensis,Angola Swallow,0.0041,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo smithii,Wire-tailed Swallow,0.0033,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo neoxena,Welcome Swallow,0.0031,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus viscivorus,Mistle Thrush,0.0028,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Acrocephalus palustris,Marsh Warbler,0.0020,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Lanius senator,Woodchat Shrike,0.0017,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Delichon urbicum,Common House-Martin,0.0013,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Petronia petronia,Rock Sparrow,0.0013,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Petrochelidon fulva,Cave Swallow,0.0011,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Spatula querquedula,Garganey,0.0008,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Iduna caligata,Booted Warbler,0.0008,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Cecropis abyssinica,Lesser Striped Swallow,0.0006,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Sylvia borin,Garden Warbler,0.0005,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Pycnonotus barbatus,Common Bulbul,0.0005,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Ptyonoprogne rupestris,Eurasian Crag-Martin,0.0004,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+3.0,6.0,Spinus magellanicus,Hooded Siskin,0.0004,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.9984,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Cecropis daurica,Red-rumped Swallow,0.0567,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Hirundo tahitica,Pacific Swallow,0.0258,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Locustella naevia,Common Grasshopper-Warbler,0.0105,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Pseudasthenes humicola,Dusky-tailed Canastero,0.0066,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Petrochelidon fulva,Cave Swallow,0.0061,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Turdus viscivorus,Mistle Thrush,0.0043,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Pygochelidon cyanoleuca,Blue-and-white Swallow,0.0026,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Iduna pallida,Eastern Olivaceous Warbler,0.0015,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Delichon urbicum,Common House-Martin,0.0014,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0010,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella breweri,Brewer's Sparrow,0.0008,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Delichon dasypus,Asian House-Martin,0.0007,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus spinus,Eurasian Siskin,0.0006,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Forpus cyanopygius,Mexican Parrotlet,0.0006,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus barbatus,Black-chinned Siskin,0.0005,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Diglossa brunneiventris,Black-throated Flowerpiercer,0.0005,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Passer montanus,Eurasian Tree Sparrow,0.0005,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Hirundo smithii,Wire-tailed Swallow,0.0004,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+6.0,9.0,Melanocorypha calandra,Calandra Lark,0.0004,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Phaeomyias murina,Mouse-colored Tyrannulet,0.1888,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis stictothorax,Necklaced Spinetail,0.1811,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Certhiaxis cinnamomeus,Yellow-chinned Spinetail,0.0855,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis fuscorufa,Rusty-headed Spinetail,0.0841,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Myornis senilis,Ash-colored Tapaculo,0.0837,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Hemitriccus margaritaceiventer,Pearly-vented Tody-Tyrant,0.0642,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Pseudelaenia leucospodia,Gray-and-white Tyrannulet,0.0406,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Euscarthmus meloryphus,Rufous-crowned Pygmy-Tyrant,0.0294,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Asthenes sclateri,Puna Canastero,0.0198,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Phyllomyias sclateri,Sclater's Tyrannulet,0.0180,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Mecocerculus leucophrys,White-throated Tyrannulet,0.0161,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Limnoctites sulphuriferus,Sulphur-bearded Reedhaunter,0.0159,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis albescens,Pale-breasted Spinetail,0.0126,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Cranioleuca hellmayri,Streak-capped Spinetail,0.0094,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Phleocryptes melanops,Wren-like Rushbird,0.0086,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Euscarthmus fulviceps,Fulvous-headed Pygmy-Tyrant,0.0086,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Phacellodomus striaticeps,Streak-fronted Thornbird,0.0062,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Thripadectes flammulatus,Flammulated Treehunter,0.0058,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Ochetorhynchus phoenicurus,Band-tailed Earthcreeper,0.0057,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01
+9.0,10.0,Atalotriccus pilaris,Pale-eyed Pygmy-Tyrant,0.0057,Filtered_With_Harmonics\Normalized_Audio\Barn Sparrow.wav,-1,-1,-1,0.01

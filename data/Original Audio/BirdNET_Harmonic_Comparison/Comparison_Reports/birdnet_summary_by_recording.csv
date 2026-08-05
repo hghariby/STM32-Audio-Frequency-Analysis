@@ -1,0 +1,129 @@
+branch,experiment,file,expected,analysis_windows,target_detected,target_detection_windows,target_detection_rate,target_max_confidence,target_mean_confidence_all_windows,target_best_rank,top1_window_rate,top3_window_rate,top5_window_rate,target_best_margin,target_mean_margin,strongest_competitor_max_confidence
+with_harmonics,E1_no_metadata,American Robin.wav,American Robin,4,True,4,1.0,0.9881,0.9319,1.0,1.0,1.0,1.0,0.9748,0.8420750000000001,0.2729
+with_harmonics,E1_no_metadata,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9997,0.998475,1.0,1.0,1.0,1.0,0.9976,0.9944,0.0067
+with_harmonics,E1_no_metadata,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.1888,-0.796675,0.9999
+with_harmonics,E1_no_metadata,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.892,0.223,1.0,0.25,0.25,0.25,0.6264000000000001,0.151625,0.2656
+with_harmonics,E1_no_metadata,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9995,0.99895,1.0,1.0,1.0,1.0,0.9976,0.9967999999999999,0.004
+with_harmonics,E1_no_metadata,California Towhee.wav,California Towhee,4,True,2,0.5,0.9996,0.4993,1.0,0.5,0.5,0.5,0.9961000000000001,0.49302500000000005,0.01
+with_harmonics,E1_no_metadata,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9999,0.964,1.0,1.0,1.0,1.0,0.9538,0.6084499999999999,0.6502
+with_harmonics,E1_no_metadata,House Finch.wav,House Finch,4,True,3,0.75,0.8753,0.432325,1.0,0.75,0.75,0.75,0.8436,0.40715000000000007,0.0352
+with_harmonics,E1_no_metadata,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.7496,0.5643250000000001,1.0,0.75,1.0,1.0,0.29810000000000003,0.11837500000000002,0.6308
+with_harmonics,E1_no_metadata,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5837,0.28625,1.0,0.75,0.75,1.0,0.4464,-0.0656,0.7464
+with_harmonics,E1_no_metadata,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.5667,0.9965
+with_harmonics,E1_no_metadata,Northern Mockingbird.wav,Northern Mockingbird,4,True,3,0.75,0.2579,0.18025000000000002,1.0,0.25,0.75,0.75,0.18000000000000002,-0.149925,0.5512
+with_harmonics,E1_no_metadata,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.3009,0.9787
+with_harmonics,E1_no_metadata,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9984,0.8529249999999999,1.0,0.75,1.0,1.0,0.9899,0.608,0.948
+with_harmonics,E1_no_metadata,Song Sparrow.wav,Song Sparrow,4,True,1,0.25,0.9733,0.243325,1.0,0.25,0.25,0.25,0.9372,0.22945,0.0361
+with_harmonics,E1_no_metadata,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.9774,0.4813,1.0,0.5,0.5,0.5,0.38,0.18190000000000003,0.6162
+with_harmonics,E2_week_only,American Robin.wav,American Robin,4,True,4,1.0,0.9881,0.9319,1.0,1.0,1.0,1.0,0.9748,0.8420750000000001,0.2729
+with_harmonics,E2_week_only,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9997,0.998475,1.0,1.0,1.0,1.0,0.9976,0.9944,0.0067
+with_harmonics,E2_week_only,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.1888,-0.796675,0.9999
+with_harmonics,E2_week_only,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.892,0.223,1.0,0.25,0.25,0.25,0.6264000000000001,0.151625,0.2656
+with_harmonics,E2_week_only,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9995,0.99895,1.0,1.0,1.0,1.0,0.9976,0.9967999999999999,0.004
+with_harmonics,E2_week_only,California Towhee.wav,California Towhee,4,True,2,0.5,0.9996,0.4993,1.0,0.5,0.5,0.5,0.9961000000000001,0.49302500000000005,0.01
+with_harmonics,E2_week_only,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9999,0.964,1.0,1.0,1.0,1.0,0.9538,0.6084499999999999,0.6502
+with_harmonics,E2_week_only,House Finch.wav,House Finch,4,True,3,0.75,0.8753,0.432325,1.0,0.75,0.75,0.75,0.8436,0.40715000000000007,0.0352
+with_harmonics,E2_week_only,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.7496,0.5643250000000001,1.0,0.75,1.0,1.0,0.29810000000000003,0.11837500000000002,0.6308
+with_harmonics,E2_week_only,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5837,0.28625,1.0,0.75,0.75,1.0,0.4464,-0.0656,0.7464
+with_harmonics,E2_week_only,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.5667,0.9965
+with_harmonics,E2_week_only,Northern Mockingbird.wav,Northern Mockingbird,4,True,3,0.75,0.2579,0.18025000000000002,1.0,0.25,0.75,0.75,0.18000000000000002,-0.149925,0.5512
+with_harmonics,E2_week_only,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.3009,0.9787
+with_harmonics,E2_week_only,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9984,0.8529249999999999,1.0,0.75,1.0,1.0,0.9899,0.608,0.948
+with_harmonics,E2_week_only,Song Sparrow.wav,Song Sparrow,4,True,1,0.25,0.9733,0.243325,1.0,0.25,0.25,0.25,0.9372,0.22945,0.0361
+with_harmonics,E2_week_only,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.9774,0.4813,1.0,0.5,0.5,0.5,0.38,0.18190000000000003,0.6162
+with_harmonics,E3_location_only,American Robin.wav,American Robin,4,True,4,1.0,0.9881,0.9319,1.0,1.0,1.0,1.0,0.9867,0.85615,0.2729
+with_harmonics,E3_location_only,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9997,0.998475,1.0,1.0,1.0,1.0,0.9993000000000001,0.9952249999999999,0.0067
+with_harmonics,E3_location_only,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0015,-0.74985,0.9999
+with_harmonics,E3_location_only,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.892,0.223,1.0,0.25,0.25,0.25,0.6264000000000001,0.15422500000000003,0.2656
+with_harmonics,E3_location_only,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9995,0.99895,1.0,1.0,1.0,1.0,0.9982,0.9972999999999999,0.004
+with_harmonics,E3_location_only,California Towhee.wav,California Towhee,4,True,2,0.5,0.9996,0.4993,1.0,0.5,0.5,0.5,0.997,0.4953,0.0088
+with_harmonics,E3_location_only,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9999,0.964,1.0,1.0,1.0,1.0,0.9938,0.85795,0.4061
+with_harmonics,E3_location_only,House Finch.wav,House Finch,4,True,4,1.0,0.8753,0.43270000000000003,1.0,0.75,0.75,0.75,0.8436,0.41030000000000005,0.0317
+with_harmonics,E3_location_only,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.7496,0.5643250000000001,1.0,1.0,1.0,1.0,0.7482000000000001,0.5526,0.0258
+with_harmonics,E3_location_only,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5837,0.28625,1.0,0.75,1.0,1.0,0.4464,0.031200000000000006,0.7464
+with_harmonics,E3_location_only,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.5658249999999999,0.9965
+with_harmonics,E3_location_only,Northern Mockingbird.wav,Northern Mockingbird,4,True,4,1.0,0.2579,0.18140000000000003,1.0,0.75,0.75,1.0,0.2504,0.0782,0.369
+with_harmonics,E3_location_only,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.25372500000000003,0.9787
+with_harmonics,E3_location_only,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9984,0.8529249999999999,1.0,1.0,1.0,1.0,0.9964999999999999,0.85165,0.0019
+with_harmonics,E3_location_only,Song Sparrow.wav,Song Sparrow,4,True,2,0.5,0.9733,0.24375000000000002,1.0,0.25,0.25,0.25,0.9372,0.23212500000000003,0.0361
+with_harmonics,E3_location_only,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.9774,0.4813,1.0,0.5,0.5,0.5,0.38,0.18365,0.6162
+with_harmonics,E4_week_and_location,American Robin.wav,American Robin,4,True,4,1.0,0.9881,0.9319,1.0,1.0,1.0,1.0,0.9871,0.85625,0.2729
+with_harmonics,E4_week_and_location,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9997,0.998475,1.0,1.0,1.0,1.0,0.9993000000000001,0.9952249999999999,0.0067
+with_harmonics,E4_week_and_location,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0015,-0.74985,0.9999
+with_harmonics,E4_week_and_location,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.892,0.223,1.0,0.25,0.25,0.25,0.6264000000000001,0.15422500000000003,0.2656
+with_harmonics,E4_week_and_location,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9995,0.99895,1.0,1.0,1.0,1.0,0.9982,0.9972999999999999,0.004
+with_harmonics,E4_week_and_location,California Towhee.wav,California Towhee,4,True,2,0.5,0.9996,0.4993,1.0,0.5,0.5,0.5,0.997,0.4953,0.0088
+with_harmonics,E4_week_and_location,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9999,0.964,1.0,1.0,1.0,1.0,0.9938,0.85795,0.4061
+with_harmonics,E4_week_and_location,House Finch.wav,House Finch,4,True,4,1.0,0.8753,0.43270000000000003,1.0,0.75,0.75,0.75,0.8676999999999999,0.42472499999999996,0.0186
+with_harmonics,E4_week_and_location,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.7496,0.5643250000000001,1.0,1.0,1.0,1.0,0.7482000000000001,0.5526,0.0258
+with_harmonics,E4_week_and_location,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5837,0.28625,1.0,0.75,1.0,1.0,0.4464,0.031200000000000006,0.7464
+with_harmonics,E4_week_and_location,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.5658249999999999,0.9965
+with_harmonics,E4_week_and_location,Northern Mockingbird.wav,Northern Mockingbird,4,True,4,1.0,0.2579,0.18140000000000003,1.0,0.75,0.75,1.0,0.2543,0.07917500000000001,0.369
+with_harmonics,E4_week_and_location,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.24985,0.9787
+with_harmonics,E4_week_and_location,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9984,0.8529249999999999,1.0,1.0,1.0,1.0,0.9964999999999999,0.851675,0.0019
+with_harmonics,E4_week_and_location,Song Sparrow.wav,Song Sparrow,4,True,4,1.0,0.9733,0.24445,1.0,0.25,0.25,0.25,0.9372,0.232825,0.0361
+with_harmonics,E4_week_and_location,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.9774,0.4813,1.0,0.5,0.5,0.5,0.9761000000000001,0.478925,0.0033
+without_harmonics,E1_no_metadata,American Robin.wav,American Robin,4,True,4,1.0,0.981,0.884225,1.0,1.0,1.0,1.0,0.9320999999999999,0.7627999999999999,0.2986
+without_harmonics,E1_no_metadata,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9963,0.9940249999999999,1.0,1.0,1.0,1.0,0.9863000000000001,0.9359,0.1583
+without_harmonics,E1_no_metadata,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.1329,-0.780625,0.9997
+without_harmonics,E1_no_metadata,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.9031,0.225775,1.0,0.25,0.25,0.25,0.485,0.11627500000000002,0.4181
+without_harmonics,E1_no_metadata,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9968,0.9932,1.0,1.0,1.0,1.0,0.9916,0.9830000000000001,0.0148
+without_harmonics,E1_no_metadata,California Towhee.wav,California Towhee,4,True,2,0.5,0.9778,0.486875,1.0,0.5,0.5,0.5,0.9654,0.46292500000000003,0.0779
+without_harmonics,E1_no_metadata,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9995,0.8353999999999999,1.0,0.75,1.0,1.0,0.8019000000000001,0.421675,0.5979
+without_harmonics,E1_no_metadata,House Finch.wav,House Finch,4,True,3,0.75,0.1601,0.05885,1.0,0.25,0.5,0.5,0.0392,-0.014475,0.1209
+without_harmonics,E1_no_metadata,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.6594,0.44735,1.0,0.5,1.0,1.0,0.2056,-0.011325000000000016,0.6497
+without_harmonics,E1_no_metadata,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5148,0.200175,1.0,0.25,0.75,0.75,0.46880000000000005,-0.143725,0.7082
+without_harmonics,E1_no_metadata,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.572975,0.9908
+without_harmonics,E1_no_metadata,Northern Mockingbird.wav,Northern Mockingbird,4,True,3,0.75,0.0318,0.012025000000000001,3.0,0.0,0.25,0.25,-0.10439999999999999,-0.344025,0.7175
+without_harmonics,E1_no_metadata,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.28557499999999997,0.9434
+without_harmonics,E1_no_metadata,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9988,0.893675,1.0,0.75,1.0,1.0,0.9794,0.641875,0.8901
+without_harmonics,E1_no_metadata,Song Sparrow.wav,Song Sparrow,4,True,1,0.25,0.8093,0.202325,1.0,0.25,0.25,0.25,0.7036,0.17104999999999998,0.1057
+without_harmonics,E1_no_metadata,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.97,0.47719999999999996,1.0,0.5,0.5,0.5,0.2005,0.08372500000000001,0.7908
+without_harmonics,E2_week_only,American Robin.wav,American Robin,4,True,4,1.0,0.981,0.884225,1.0,1.0,1.0,1.0,0.9320999999999999,0.7627999999999999,0.2986
+without_harmonics,E2_week_only,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9963,0.9940249999999999,1.0,1.0,1.0,1.0,0.9863000000000001,0.9359,0.1583
+without_harmonics,E2_week_only,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.1329,-0.780625,0.9997
+without_harmonics,E2_week_only,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.9031,0.225775,1.0,0.25,0.25,0.25,0.485,0.11627500000000002,0.4181
+without_harmonics,E2_week_only,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9968,0.9932,1.0,1.0,1.0,1.0,0.9916,0.9830000000000001,0.0148
+without_harmonics,E2_week_only,California Towhee.wav,California Towhee,4,True,2,0.5,0.9778,0.486875,1.0,0.5,0.5,0.5,0.9654,0.46292500000000003,0.0779
+without_harmonics,E2_week_only,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9995,0.8353999999999999,1.0,0.75,1.0,1.0,0.8019000000000001,0.421675,0.5979
+without_harmonics,E2_week_only,House Finch.wav,House Finch,4,True,3,0.75,0.1601,0.05885,1.0,0.25,0.5,0.5,0.0392,-0.014475,0.1209
+without_harmonics,E2_week_only,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.6594,0.44735,1.0,0.5,1.0,1.0,0.2056,-0.011325000000000016,0.6497
+without_harmonics,E2_week_only,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5148,0.200175,1.0,0.25,0.75,0.75,0.46880000000000005,-0.143725,0.7082
+without_harmonics,E2_week_only,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.572975,0.9908
+without_harmonics,E2_week_only,Northern Mockingbird.wav,Northern Mockingbird,4,True,3,0.75,0.0318,0.012025000000000001,3.0,0.0,0.25,0.25,-0.10439999999999999,-0.344025,0.7175
+without_harmonics,E2_week_only,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0068,-0.28557499999999997,0.9434
+without_harmonics,E2_week_only,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9988,0.893675,1.0,0.75,1.0,1.0,0.9794,0.641875,0.8901
+without_harmonics,E2_week_only,Song Sparrow.wav,Song Sparrow,4,True,1,0.25,0.8093,0.202325,1.0,0.25,0.25,0.25,0.7036,0.17104999999999998,0.1057
+without_harmonics,E2_week_only,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.97,0.47719999999999996,1.0,0.5,0.5,0.5,0.2005,0.08372500000000001,0.7908
+without_harmonics,E3_location_only,American Robin.wav,American Robin,4,True,4,1.0,0.981,0.884225,1.0,1.0,1.0,1.0,0.9757,0.7928999999999999,0.2986
+without_harmonics,E3_location_only,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9963,0.9940249999999999,1.0,1.0,1.0,1.0,0.992,0.976175,0.034
+without_harmonics,E3_location_only,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0019,-0.7478750000000001,0.9997
+without_harmonics,E3_location_only,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.9031,0.225775,1.0,0.25,0.25,0.25,0.485,0.11887499999999998,0.4181
+without_harmonics,E3_location_only,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9968,0.9932,1.0,1.0,1.0,1.0,0.9916,0.9830000000000001,0.0148
+without_harmonics,E3_location_only,California Towhee.wav,California Towhee,4,True,2,0.5,0.9778,0.486875,1.0,0.5,0.5,0.5,0.9654,0.464675,0.0779
+without_harmonics,E3_location_only,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9995,0.8353999999999999,1.0,0.75,1.0,1.0,0.9977,0.68265,0.5979
+without_harmonics,E3_location_only,House Finch.wav,House Finch,4,True,4,1.0,0.1601,0.059225,1.0,0.75,0.75,0.75,0.15639999999999998,0.049725,0.0269
+without_harmonics,E3_location_only,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.6594,0.44735,1.0,1.0,1.0,1.0,0.6533,0.44162500000000005,0.0088
+without_harmonics,E3_location_only,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5148,0.200175,1.0,0.5,1.0,1.0,0.46880000000000005,-0.07035,0.7082
+without_harmonics,E3_location_only,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.5720999999999999,0.9908
+without_harmonics,E3_location_only,Northern Mockingbird.wav,Northern Mockingbird,4,True,4,1.0,0.0318,0.012400000000000001,2.0,0.0,0.75,0.75,-0.0683,-0.29665,0.7175
+without_harmonics,E3_location_only,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.24764999999999998,0.9434
+without_harmonics,E3_location_only,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9988,0.893675,1.0,1.0,1.0,1.0,0.9971,0.89185,0.0045
+without_harmonics,E3_location_only,Song Sparrow.wav,Song Sparrow,4,True,2,0.5,0.8093,0.20275,1.0,0.25,0.25,0.25,0.7036,0.17372500000000002,0.1057
+without_harmonics,E3_location_only,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.97,0.47719999999999996,1.0,0.5,0.5,0.5,0.2005,0.08547500000000001,0.7908
+without_harmonics,E4_week_and_location,American Robin.wav,American Robin,4,True,4,1.0,0.981,0.884225,1.0,1.0,1.0,1.0,0.9757,0.7928999999999999,0.2986
+without_harmonics,E4_week_and_location,Anna's Hummingbird.wav,Anna's Hummingbird,4,True,4,1.0,0.9963,0.9940249999999999,1.0,1.0,1.0,1.0,0.992,0.976175,0.034
+without_harmonics,E4_week_and_location,Barn Sparrow.wav,Barn Sparrow,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0019,-0.7478750000000001,0.9997
+without_harmonics,E4_week_and_location,Bewick's Wren.wav,Bewick's Wren,4,True,1,0.25,0.9031,0.225775,1.0,0.25,0.25,0.25,0.485,0.11887499999999998,0.4181
+without_harmonics,E4_week_and_location,Black Phoebe.wav,Black Phoebe,4,True,4,1.0,0.9968,0.9932,1.0,1.0,1.0,1.0,0.9916,0.9830000000000001,0.0148
+without_harmonics,E4_week_and_location,California Towhee.wav,California Towhee,4,True,2,0.5,0.9778,0.486875,1.0,0.5,0.5,0.5,0.9654,0.464675,0.0779
+without_harmonics,E4_week_and_location,Hooded Oriole.wav,Hooded Oriole,4,True,4,1.0,0.9995,0.8353999999999999,1.0,0.75,1.0,1.0,0.9977,0.68265,0.5979
+without_harmonics,E4_week_and_location,House Finch.wav,House Finch,4,True,4,1.0,0.1601,0.059225,1.0,0.75,0.75,0.75,0.1567,0.050325,0.0269
+without_harmonics,E4_week_and_location,House Sparrow.wav,House Sparrow,4,True,4,1.0,0.6594,0.44735,1.0,1.0,1.0,1.0,0.6533,0.44162500000000005,0.0088
+without_harmonics,E4_week_and_location,Lesser Goldfinch.wav,Lesser Goldfinch,4,True,4,1.0,0.5148,0.200175,1.0,0.5,1.0,1.0,0.46880000000000005,-0.07035,0.7082
+without_harmonics,E4_week_and_location,Northern House Wren.wav,Northern House Wren,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.5720999999999999,0.9908
+without_harmonics,E4_week_and_location,Northern Mockingbird.wav,Northern Mockingbird,4,True,4,1.0,0.0318,0.012400000000000001,2.0,0.0,0.75,0.75,-0.0683,-0.29665,0.7175
+without_harmonics,E4_week_and_location,Northern Yellow Warbler.wav,Northern Yellow Warbler,4,False,0,0.0,0.0,0.0,,0.0,0.0,0.0,-0.0033,-0.24057499999999998,0.9434
+without_harmonics,E4_week_and_location,Oak Titmouse.wav,Oak Titmouse,4,True,4,1.0,0.9988,0.893675,1.0,1.0,1.0,1.0,0.9971,0.8919750000000001,0.0045
+without_harmonics,E4_week_and_location,Song Sparrow.wav,Song Sparrow,4,True,4,1.0,0.8093,0.20345,1.0,0.25,0.25,0.25,0.7036,0.174425,0.1057
+without_harmonics,E4_week_and_location,Spotted Towhee.wav,Spotted Towhee,4,True,2,0.5,0.97,0.47719999999999996,1.0,0.5,0.5,0.5,0.9661,0.473725,0.0039

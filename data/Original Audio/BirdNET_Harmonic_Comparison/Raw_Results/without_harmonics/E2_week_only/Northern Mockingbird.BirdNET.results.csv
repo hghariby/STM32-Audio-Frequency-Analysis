@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Galerida deva,Tawny Lark,0.1109,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Salpinctes obsoletus,Rock Wren,0.0748,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Acrocephalus palustris,Marsh Warbler,0.0323,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Hippolais polyglotta,Melodious Warbler,0.0151,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Polioptila dumicola,Masked Gnatcatcher,0.0143,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Alauda gulgula,Oriental Skylark,0.0131,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Hippolais icterina,Icterine Warbler,0.0112,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Mimus patagonicus,Patagonian Mockingbird,0.0112,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Lullula arborea,Wood Lark,0.0097,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Luscinia svecica,Bluethroat,0.0096,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Geositta rufipennis,Rufous-banded Miner,0.0091,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Galerida malabarica,Malabar Lark,0.0077,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Mirafra cheniana,Latakoo Lark,0.0074,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Calandrella cinerea,Red-capped Lark,0.0071,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Acrocephalus schoenobaenus,Sedge Warbler,0.0069,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Cistothorus platensis,Grass Wren,0.0065,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.0065,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Acrocephalus agricola,Paddyfield Warbler,0.0054,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Acrocephalus dumetorum,Blyth's Reed Warbler,0.0046,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+0.0,3.0,Calliope tschebaiewi,Chinese Rubythroat,0.0045,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Salpinctes obsoletus,Rock Wren,0.2227,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Melozone fusca,Canyon Towhee,0.0595,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Mimus polyglottos,Northern Mockingbird,0.0318,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Mimus patagonicus,Patagonian Mockingbird,0.0275,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Turdus migratorius,American Robin,0.0161,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Epthianura tricolor,Crimson Chat,0.0098,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Formicivora rufa,Rusty-backed Antwren,0.0080,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Chloris chloris,European Greenfinch,0.0073,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Toxostoma crissale,Crissal Thrasher,0.0067,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Pipilo maculatus,Spotted Towhee,0.0066,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Baeolophus ridgwayi,Juniper Titmouse,0.0062,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Galerida deva,Tawny Lark,0.0052,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Melaniparus cinerascens,Ashy Tit,0.0052,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Baeolophus inornatus,Oak Titmouse,0.0049,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Phylidonyris niger,White-cheeked Honeyeater,0.0046,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Mimus gilvus,Tropical Mockingbird,0.0043,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Acrocephalus newtoni,Madagascar Swamp Warbler,0.0041,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Vireo pallens,Mangrove Vireo,0.0041,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Chondestes grammacus,Lark Sparrow,0.0040,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+3.0,6.0,Cisticola chiniana,Rattling Cisticola,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Lullula arborea,Wood Lark,0.3731,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Chamaea fasciata,Wrentit,0.2212,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Pomatostomus ruficeps,Chestnut-crowned Babbler,0.0895,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Galerida deva,Tawny Lark,0.0734,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Calandrella cinerea,Red-capped Lark,0.0373,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Geositta rufipennis,Rufous-banded Miner,0.0303,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Mimus patagonicus,Patagonian Mockingbird,0.0251,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Melaniparus cinerascens,Ashy Tit,0.0248,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Salpinctes obsoletus,Rock Wren,0.0237,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Cercotrichas paena,Kalahari Scrub-Robin,0.0106,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Mimus polyglottos,Northern Mockingbird,0.0098,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Charadrius semipalmatus,Semipalmated Plover,0.0090,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Epthianura tricolor,Crimson Chat,0.0086,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Hippolais icterina,Icterine Warbler,0.0086,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Sitta yunnanensis,Yunnan Nuthatch,0.0077,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Microeca fascinans,Jacky-winter,0.0055,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Curruca subcoerulea,Chestnut-vented Warbler,0.0052,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Cisticola aridulus,Desert Cisticola,0.0046,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Baeolophus wollweberi,Bridled Titmouse,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+6.0,9.0,Rhopophilus pekinensis,Beijing Babbler,0.0039,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Chamaea fasciata,Wrentit,0.7175,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Microeca fascinans,Jacky-winter,0.0926,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Salpinctes obsoletus,Rock Wren,0.0701,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Lullula arborea,Wood Lark,0.0579,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0367,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Icterus auratus,Orange Oriole,0.0243,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Grallaricula leymebambae,Leymebamba Antpitta,0.0232,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Galerida deva,Tawny Lark,0.0224,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Artemisiospiza belli,Bell's Sparrow,0.0218,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Baeolophus wollweberi,Bridled Titmouse,0.0198,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Geositta rufipennis,Rufous-banded Miner,0.0162,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Calandrella cinerea,Red-capped Lark,0.0119,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Hypocnemoides melanopogon,Black-chinned Antbird,0.0096,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Anthus rubescens,American Pipit,0.0080,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Lalage tricolor,White-winged Triller,0.0071,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Artemisiospiza nevadensis,Sagebrush Sparrow,0.0062,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Myrmotherula ignota,Moustached Antwren,0.0058,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Catherpes mexicanus,Canyon Wren,0.0058,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Curruca subcoerulea,Chestnut-vented Warbler,0.0057,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01
+9.0,10.0,Garrulax taewanus,Taiwan Hwamei,0.0055,Filtered_Without_Harmonics\Normalized_Audio\Northern Mockingbird.wav,-1,-1,27,0.01

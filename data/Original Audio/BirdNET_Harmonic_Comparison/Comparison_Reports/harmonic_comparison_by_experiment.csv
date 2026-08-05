@@ -1,0 +1,5 @@
+experiment,paired_birds,with_harmonics_preferred,without_harmonics_preferred,no_meaningful_difference,mean_target_max_confidence_difference,mean_target_confidence_difference,mean_top1_window_rate_difference
+E1_no_metadata,16,11,1,4,0.08098125,0.05907656250000001,0.109375
+E2_week_only,16,11,1,4,0.08098125,0.05907656250000001,0.109375
+E3_location_only,16,10,1,5,0.08098125,0.05912500000000001,0.078125
+E4_week_and_location,16,9,1,6,0.08098125,0.05912500000000001,0.078125

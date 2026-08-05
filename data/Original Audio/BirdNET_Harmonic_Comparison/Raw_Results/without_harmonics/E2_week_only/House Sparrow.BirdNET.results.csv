@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Passer domesticus,House Sparrow,0.6594,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Passer italiae,Italian Sparrow,0.4538,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Motacilla flava,Western Yellow Wagtail,0.0684,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Passer hispaniolensis,Spanish Sparrow,0.0507,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Anthus campestris,Tawny Pipit,0.0413,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Alaudala cheleensis,Asian Short-toed Lark,0.0233,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Alaudala raytal,Sand Lark,0.0125,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Luscinia svecica,Bluethroat,0.0107,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Calandrella cinerea,Red-capped Lark,0.0101,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Emberiza pallasi,Pallas's Bunting,0.0085,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Calandrella dukhunensis,Mongolian Short-toed Lark,0.0079,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Galerida cristata,Crested Lark,0.0073,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Alauda gulgula,Oriental Skylark,0.0068,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Melanocorypha calandra,Calandra Lark,0.0062,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Spinus pinus,Pine Siskin,0.0061,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Passer melanurus,Cape Sparrow,0.0057,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Passer montanus,Eurasian Tree Sparrow,0.0050,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Crithagra flaviventris,Yellow Canary,0.0046,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Mirafra javanica,Australasian Bushlark,0.0043,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+0.0,3.0,Emberiza schoeniclus,Reed Bunting,0.0036,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.3910,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Passer italiae,Italian Sparrow,0.1950,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Crithagra flaviventris,Yellow Canary,0.0626,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Luscinia svecica,Bluethroat,0.0318,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Anthus similis,Long-billed Pipit,0.0237,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Passer melanurus,Cape Sparrow,0.0175,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Motacilla flava,Western Yellow Wagtail,0.0158,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Vireo vicinior,Gray Vireo,0.0131,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Calandrella cinerea,Red-capped Lark,0.0107,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Alaudala cheleensis,Asian Short-toed Lark,0.0106,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Alaudala raytal,Sand Lark,0.0087,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza pallasi,Pallas's Bunting,0.0074,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Tachycineta bicolor,Tree Swallow,0.0063,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza schoeniclus,Reed Bunting,0.0060,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Prinia atrogularis,Black-throated Prinia,0.0048,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Eremomela icteropygialis,Yellow-bellied Eremomela,0.0041,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Vireo flavoviridis,Yellow-green Vireo,0.0036,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Alauda gulgula,Oriental Skylark,0.0035,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Eremopterix griseus,Ashy-crowned Sparrow-Lark,0.0031,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+3.0,6.0,Passer hispaniolensis,Spanish Sparrow,0.0031,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Passer italiae,Italian Sparrow,0.5362,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.4448,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Passer hispaniolensis,Spanish Sparrow,0.2098,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Crithagra flaviventris,Yellow Canary,0.0164,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Luscinia svecica,Bluethroat,0.0118,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Alaudala cheleensis,Asian Short-toed Lark,0.0082,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Alauda gulgula,Oriental Skylark,0.0075,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Anthus campestris,Tawny Pipit,0.0063,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Calandrella cinerea,Red-capped Lark,0.0050,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Anthus berthelotii,Berthelot's Pipit,0.0050,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Emberiza schoeniclus,Reed Bunting,0.0050,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Alaudala raytal,Sand Lark,0.0046,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Motacilla flava,Western Yellow Wagtail,0.0031,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Passer montanus,Eurasian Tree Sparrow,0.0030,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Melanocorypha calandra,Calandra Lark,0.0020,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Emberiza pallasi,Pallas's Bunting,0.0020,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Spinus pinus,Pine Siskin,0.0017,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Mirafra javanica,Australasian Bushlark,0.0015,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Zosterops lateralis,Silvereye,0.0014,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+6.0,9.0,Passer melanurus,Cape Sparrow,0.0014,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Emarginata sinuata,Sickle-winged Chat,0.6497,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Passer domesticus,House Sparrow,0.2942,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Passer italiae,Italian Sparrow,0.1918,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Calandrella cinerea,Red-capped Lark,0.0508,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Linaria flavirostris,Twite,0.0378,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Passer hispaniolensis,Spanish Sparrow,0.0372,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Anthus campestris,Tawny Pipit,0.0360,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Galerida theklae,Thekla's Lark,0.0243,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Passer melanurus,Cape Sparrow,0.0195,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Galerida deva,Tawny Lark,0.0179,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Galerida malabarica,Malabar Lark,0.0124,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Myrmecocichla monticola,Mountain Wheatear,0.0107,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0088,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Anthus novaeseelandiae,Australasian Pipit,0.0073,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Anthus richardi,Richard's Pipit,0.0073,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Acridotheres tristis,Common Myna,0.0061,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Passer rufocinctus,Kenya Rufous Sparrow,0.0061,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Calcarius lapponicus,Lapland Longspur,0.0058,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Alaudala cheleensis,Asian Short-toed Lark,0.0052,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01
+9.0,10.0,Acridotheres fuscus,Jungle Myna,0.0049,Filtered_Without_Harmonics\Normalized_Audio\House Sparrow.wav,-1,-1,27,0.01

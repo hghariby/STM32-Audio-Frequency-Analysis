@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Thryomanes bewickii,Bewick's Wren,0.9031,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Amphispiza bilineata,Black-throated Sparrow,0.4181,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.1356,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Passerculus sandwichensis,Savannah Sparrow,0.0091,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella breweri,Brewer's Sparrow,0.0039,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Peucaea carpalis,Rufous-winged Sparrow,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Chondestes grammacus,Lark Sparrow,0.0029,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Carduelis carduelis,European Goldfinch,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella atrogularis,Black-chinned Sparrow,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo chlorurus,Green-tailed Towhee,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Cistothorus platensis,Grass Wren,0.0011,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Troglodytes troglodytes,Eurasian Wren,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Pooecetes gramineus,Vesper Sparrow,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Passerina amoena,Lazuli Bunting,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Salpinctes obsoletus,Rock Wren,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo erythrophthalmus,Eastern Towhee,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+0.0,3.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0007,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0063,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Human vocal,Human vocal,0.0038,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Fireworks,Fireworks,0.0030,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Power tools,Power tools,0.0029,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0029,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Dryocopus pileatus,Pileated Woodpecker,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus merula,Eurasian Blackbird,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Bombycilla cedrorum,Cedar Waxwing,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Catharus fuscescens,Veery,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Phyllomyias nigrocapillus,Black-capped Tyrannulet,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Regulus regulus,Goldcrest,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Ochthoeca cinnamomeiventris,Slaty-backed Chat-Tyrant,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Scolopax minor,American Woodcock,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Catharus ustulatus,Swainson's Thrush,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Contopus virens,Eastern Wood-Pewee,0.0019,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+3.0,6.0,Buteo lineatus,Red-shouldered Hawk,0.0019,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+6.0,9.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Bewick's Wren.wav,-1,-1,-1,0.01

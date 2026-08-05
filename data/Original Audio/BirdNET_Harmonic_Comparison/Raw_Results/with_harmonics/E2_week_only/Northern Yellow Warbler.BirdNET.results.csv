@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Engine,Engine,0.0068,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Human vocal,Human vocal,0.0042,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Fireworks,Fireworks,0.0034,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Power tools,Power tools,0.0032,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Regulus regulus,Goldcrest,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Catharus fuscescens,Veery,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Scolopax minor,American Woodcock,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.9787,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga ruticilla,American Redstart,0.0145,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0080,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Cardellina pusilla,Wilson's Warbler,0.0065,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax traillii,Willow Flycatcher,0.0061,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0051,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Leiothlypis ruficapilla,Nashville Warbler,0.0050,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Agelaius phoeniceus,Red-winged Blackbird,0.0039,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Icterus galbula,Baltimore Oriole,0.0028,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0026,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Vireo gilvus,Warbling Vireo,0.0019,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.0017,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Passerella iliaca,Fox Sparrow,0.0015,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Molothrus ater,Brown-headed Cowbird,0.0015,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax alnorum,Alder Flycatcher,0.0014,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Mniotilta varia,Black-and-white Warbler,0.0013,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Icterus spurius,Orchard Oriole,0.0013,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Contopus sordidulus,Western Wood-Pewee,0.0013,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+3.0,6.0,Dumetella carolinensis,Gray Catbird,0.0011,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga americana,Northern Parula,0.2113,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga ruticilla,American Redstart,0.2084,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga fusca,Blackburnian Warbler,0.0740,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga cerulea,Cerulean Warbler,0.0675,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga caerulescens,Black-throated Blue Warbler,0.0519,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga virens,Black-throated Green Warbler,0.0376,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga pitiayumi,Tropical Parula,0.0371,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga townsendi,Townsend's Warbler,0.0296,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Vermivora chrysoptera,Golden-winged Warbler,0.0290,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Helmitheros vermivorum,Worm-eating Warbler,0.0245,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Basileuterus rufifrons,Rufous-capped Warbler,0.0242,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Troglodytes pacificus,Pacific Wren,0.0191,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Vermivora cyanoptera,Blue-winged Warbler,0.0177,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0169,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga occidentalis,Hermit Warbler,0.0154,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga tigrina,Cape May Warbler,0.0144,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga petechia,Yellow Warbler,0.0141,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Mniotilta varia,Black-and-white Warbler,0.0128,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Cardellina pusilla,Wilson's Warbler,0.0124,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+6.0,9.0,Protonotaria citrea,Prothonotary Warbler,0.0121,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_With_Harmonics\Normalized_Audio\Northern Yellow Warbler.wav,-1,-1,27,0.01

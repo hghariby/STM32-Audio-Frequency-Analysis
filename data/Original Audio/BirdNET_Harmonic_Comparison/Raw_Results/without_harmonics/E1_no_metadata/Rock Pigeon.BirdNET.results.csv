@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Columba livia,Rock Pigeon,0.9923,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Columba palumbus,Common Wood-Pigeon,0.0277,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Tympanuchus phasianellus,Sharp-tailed Grouse,0.0061,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Pulsatrix koeniswaldiana,Tawny-browed Owl,0.0055,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Columba guinea,Speckled Pigeon,0.0036,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Gorsachius melanolophus,Malayan Night-Heron,0.0036,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Streptopelia semitorquata,Red-eyed Dove,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Streptopelia orientalis,Oriental Turtle-Dove,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Engine,Engine,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Nannopterum auritum,Double-crested Cormorant,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Lyrurus tetrix,Black Grouse,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0013,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Coragyps atratus,Black Vulture,0.0012,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Patagioenas fasciata,Band-tailed Pigeon,0.0010,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Ducula aenea,Green Imperial-Pigeon,0.0008,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Centropus sinensis,Greater Coucal,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Ixobrychus exilis,Least Bittern,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Geococcyx californianus,Greater Roadrunner,0.0006,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Centrocercus urophasianus,Greater Sage-Grouse,0.0005,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+0.0,3.0,Tympanuchus pallidicinctus,Lesser Prairie-Chicken,0.0004,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Columba livia,Rock Pigeon,0.9908,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Columba palumbus,Common Wood-Pigeon,0.0582,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Streptopelia orientalis,Oriental Turtle-Dove,0.0252,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Lyrurus tetrix,Black Grouse,0.0179,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Ixobrychus exilis,Least Bittern,0.0168,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Nannopterum auritum,Double-crested Cormorant,0.0157,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Tympanuchus phasianellus,Sharp-tailed Grouse,0.0136,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0115,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Coragyps atratus,Black Vulture,0.0111,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Streptopelia semitorquata,Red-eyed Dove,0.0105,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Pulsatrix koeniswaldiana,Tawny-browed Owl,0.0085,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Human vocal,Human vocal,0.0050,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Streptopelia lugens,Dusky Turtle-Dove,0.0045,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Columba guinea,Speckled Pigeon,0.0028,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Bubo scandiacus,Snowy Owl,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Centrocercus urophasianus,Greater Sage-Grouse,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Gorsachius melanolophus,Malayan Night-Heron,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Bubo bubo,Eurasian Eagle-Owl,0.0018,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Geococcyx velox,Lesser Roadrunner,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+3.0,6.0,Ardenna tenuirostris,Short-tailed Shearwater,0.0017,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Columba livia,Rock Pigeon,0.9936,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Pulsatrix koeniswaldiana,Tawny-browed Owl,0.0294,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Lyrurus tetrix,Black Grouse,0.0211,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Nannopterum auritum,Double-crested Cormorant,0.0185,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Tympanuchus phasianellus,Sharp-tailed Grouse,0.0143,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Columba palumbus,Common Wood-Pigeon,0.0129,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0116,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Streptopelia orientalis,Oriental Turtle-Dove,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Streptopelia semitorquata,Red-eyed Dove,0.0062,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Human vocal,Human vocal,0.0050,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Coragyps atratus,Black Vulture,0.0039,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Columba guinea,Speckled Pigeon,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Ixobrychus exilis,Least Bittern,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Patagioenas fasciata,Band-tailed Pigeon,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Gorsachius melanolophus,Malayan Night-Heron,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Antigone canadensis,Sandhill Crane,0.0020,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Toxostoma lecontei,LeConte's Thrasher,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Bubo bubo,Eurasian Eagle-Owl,0.0015,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+6.0,9.0,Cygnus buccinator,Trumpeter Swan,0.0014,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0068,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0034,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0032,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0027,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0026,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0025,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0024,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0023,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus fuscescens,Veery,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0022,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Myiarchus crinitus,Great Crested Flycatcher,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus ustulatus,Swainson's Thrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
+9.0,10.0,Seiurus aurocapilla,Ovenbird,0.0021,Filtered_Without_Harmonics\Normalized_Audio\Rock Pigeon.wav,-1,-1,-1,0.01
