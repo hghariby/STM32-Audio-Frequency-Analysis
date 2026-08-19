@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.9352,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Phoenicurus ochruros,Black Redstart,0.0473,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Coereba flaveola,Bananaquit,0.0152,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Locustella fluviatilis,River Warbler,0.0104,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melanospiza bicolor,Black-faced Grassquit,0.0092,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Chionomesa lactea,Sapphire-spangled Emerald,0.0073,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.0027,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo olivaceus,Red-eyed Vireo,0.0020,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Vermivora cyanoptera,Blue-winged Warbler,0.0020,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Prinia crinigera,Himalayan Prinia,0.0020,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Mohoua albicilla,Whitehead,0.0019,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Colaptes auratus,Northern Flicker,0.0017,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga americana,Northern Parula,0.0016,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Troglodytes aedon,House Wren,0.0016,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Baeolophus bicolor,Tufted Titmouse,0.0015,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella pallida,Clay-colored Sparrow,0.0015,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Erithacus rubecula,European Robin,0.0013,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Pandion haliaetus,Osprey,0.0013,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Geospizopsis plebejus,Ash-breasted Sierra Finch,0.0011,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Foudia rubra,Mauritius Fody,0.0010,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Calypte anna,Anna's Hummingbird,0.8789,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Oreophasis derbianus,Horned Guan,0.0401,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Mohoua albicilla,Whitehead,0.0239,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Oreothlypis superciliosa,Crescent-chested Warbler,0.0222,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Chionomesa lactea,Sapphire-spangled Emerald,0.0185,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Colaptes auratus,Northern Flicker,0.0178,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus migratorius,American Robin,0.0091,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0077,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga americana,Northern Parula,0.0066,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Dryocopus pileatus,Pileated Woodpecker,0.0049,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0048,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Stilpnia heinei,Black-capped Tanager,0.0047,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Icterus galbula,Baltimore Oriole,0.0045,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.0044,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Vermivora cyanoptera,Blue-winged Warbler,0.0038,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Basileuterus belli,Golden-browed Warbler,0.0031,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cyanocitta cristata,Blue Jay,0.0029,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Baeolophus bicolor,Tufted Titmouse,0.0027,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melanerpes carolinus,Red-bellied Woodpecker,0.0027,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella passerina,Chipping Sparrow,0.0024,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.9977,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phoenicurus ochruros,Black Redstart,0.0173,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Pseudeos cardinalis,Cardinal Lory,0.0128,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Apus apus,Common Swift,0.0112,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sericornis frontalis,White-browed Scrubwren,0.0096,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Stachyris strialata,Spot-necked Babbler,0.0082,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phaeochroa cuvierii,Scaly-breasted Hummingbird,0.0075,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Euphonia violacea,Violaceous Euphonia,0.0066,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Coereba flaveola,Bananaquit,0.0065,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Xenerpestes singularis,Equatorial Graytail,0.0047,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.0046,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Emberiza calandra,Corn Bunting,0.0045,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Buteo platypterus,Broad-winged Hawk,0.0041,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Strix aluco,Tawny Owl,0.0041,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Stilpnia heinei,Black-capped Tanager,0.0039,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0034,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Actitis hypoleucos,Common Sandpiper,0.0034,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Conopophaga melanops,Black-cheeked Gnateater,0.0033,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Xiphorhynchus triangularis,Olive-backed Woodcreeper,0.0030,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga townsendi,Townsend's Warbler,0.0029,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.9531,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Colibri coruscans,Sparkling Violetear,0.0337,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Mohoua albicilla,Whitehead,0.0318,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Sephanoides sephaniodes,Green-backed Firecrown,0.0226,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Alcippe morrisonia,Morrison's Fulvetta,0.0195,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Metallura tyrianthina,Tyrian Metaltail,0.0176,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Chionomesa lactea,Sapphire-spangled Emerald,0.0145,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Aegithalos concinnus,Black-throated Tit,0.0137,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Diglossa sittoides,Rusty Flowerpiercer,0.0121,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Poecile rufescens,Chestnut-backed Chickadee,0.0093,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Uranomitra franciae,Andean Emerald,0.0090,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Acanthisitta chloris,Rifleman,0.0084,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Phyllomyias nigrocapillus,Black-capped Tyrannulet,0.0084,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Pyrrhomyias cinnamomeus,Cinnamon Flycatcher,0.0077,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Stilpnia heinei,Black-capped Tanager,0.0068,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Selasphorus rufus,Rufous Hummingbird,0.0051,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Diglossa albilatera,White-sided Flowerpiercer,0.0048,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Calypte costae,Costa's Hummingbird,0.0042,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Chionomesa fimbriata,Glittering-throated Emerald,0.0041,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Melanospiza bicolor,Black-faced Grassquit,0.0040,Birdsongs Recordings\36ft\Annas_Hummingbird_36ft.wav,-1,-1,-1,0.01

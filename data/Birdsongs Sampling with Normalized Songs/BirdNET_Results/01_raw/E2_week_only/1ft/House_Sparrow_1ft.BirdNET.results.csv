@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Passer domesticus,House Sparrow,0.8738,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Passer italiae,Italian Sparrow,0.1875,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Passer montanus,Eurasian Tree Sparrow,0.0173,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Dumetella carolinensis,Gray Catbird,0.0129,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Passer hispaniolensis,Spanish Sparrow,0.0081,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Engine,Engine,0.0080,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0068,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Passer melanurus,Cape Sparrow,0.0055,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Turdus migratorius,American Robin,0.0053,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Hirundo rustica,Barn Swallow,0.0033,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Phrygilus patagonicus,Patagonian Sierra Finch,0.0025,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Turdus nigriceps,Andean Slaty Thrush,0.0025,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Luscinia svecica,Bluethroat,0.0024,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Cercotrichas coryphoeus,Karoo Scrub-Robin,0.0024,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Vireo olivaceus,Red-eyed Vireo,0.0022,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Myadestes townsendi,Townsend's Solitaire,0.0021,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Power tools,Power tools,0.0020,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Tachycineta bicolor,Tree Swallow,0.0020,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.0018,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Copsychus saularis,Oriental Magpie-Robin,0.0014,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.4907,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Phrygilus patagonicus,Patagonian Sierra Finch,0.0497,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Passer italiae,Italian Sparrow,0.0320,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Passer montanus,Eurasian Tree Sparrow,0.0310,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Tachycineta bicolor,Tree Swallow,0.0252,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Engine,Engine,0.0227,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Fireworks,Fireworks,0.0220,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Gun,Gun,0.0198,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Prinia atrogularis,Black-throated Prinia,0.0171,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Phrygilus gayi,Gray-hooded Sierra Finch,0.0146,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Power tools,Power tools,0.0082,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Anthus similis,Long-billed Pipit,0.0078,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Thryothorus ludovicianus,Carolina Wren,0.0068,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.0064,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Phrygilus atriceps,Black-hooded Sierra Finch,0.0063,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza schoeniclus,Reed Bunting,0.0061,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Progne tapera,Brown-chested Martin,0.0061,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Human vocal,Human vocal,0.0054,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Siren,Siren,0.0038,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Prinia superciliaris,Hill Prinia,0.0038,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.5018,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Passer italiae,Italian Sparrow,0.1286,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Passer montanus,Eurasian Tree Sparrow,0.0203,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Tachycineta bicolor,Tree Swallow,0.0167,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Phrygilus patagonicus,Patagonian Sierra Finch,0.0080,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Passer hispaniolensis,Spanish Sparrow,0.0064,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Power tools,Power tools,0.0045,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Passer melanurus,Cape Sparrow,0.0045,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Engine,Engine,0.0042,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Phrygilus gayi,Gray-hooded Sierra Finch,0.0041,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Gun,Gun,0.0019,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Luscinia svecica,Bluethroat,0.0019,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0018,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Phrygilus atriceps,Black-hooded Sierra Finch,0.0017,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Myadestes townsendi,Townsend's Solitaire,0.0014,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Emberiza schoeniclus,Reed Bunting,0.0014,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.0010,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Siren,Siren,0.0010,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Auriparus flaviceps,Verdin,0.0009,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Human vocal,Human vocal,0.0009,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer domesticus,House Sparrow,0.5193,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer italiae,Italian Sparrow,0.2218,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer hispaniolensis,Spanish Sparrow,0.1567,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Gymnoris xanthocollis,Yellow-throated Sparrow,0.0550,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer melanurus,Cape Sparrow,0.0475,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Emarginata sinuata,Sickle-winged Chat,0.0256,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Progne chalybea,Gray-breasted Martin,0.0204,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Acridotheres fuscus,Jungle Myna,0.0128,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Myrmecocichla monticola,Mountain Wheatear,0.0116,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0097,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer griseus,Northern Gray-headed Sparrow,0.0096,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Anthus similis,Long-billed Pipit,0.0093,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Vireo flavoviridis,Yellow-green Vireo,0.0083,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Motacilla maderaspatensis,White-browed Wagtail,0.0054,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer rufocinctus,Kenya Rufous Sparrow,0.0053,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Progne tapera,Brown-chested Martin,0.0052,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Chloropsis aurifrons,Golden-fronted Leafbird,0.0051,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Passer diffusus,Southern Gray-headed Sparrow,0.0046,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Dicrurus macrocercus,Black Drongo,0.0031,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Vireo altiloquus,Black-whiskered Vireo,0.0029,Birdsongs Recordings\1ft\House_Sparrow_1ft.wav,-1,-1,27,0.01

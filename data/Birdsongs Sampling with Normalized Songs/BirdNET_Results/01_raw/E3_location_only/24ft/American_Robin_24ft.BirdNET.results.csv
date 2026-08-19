@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Turdus migratorius,American Robin,0.6834,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.0084,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.0035,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0022,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0020,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Agelaius phoeniceus,Red-winged Blackbird,0.0016,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0011,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Molothrus ater,Brown-headed Cowbird,0.0008,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0008,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Accipiter cooperii,Cooper's Hawk,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus pinus,Pine Siskin,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Geothlypis trichas,Common Yellowthroat,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Rallus limicola,Virginia Rail,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Meleagris gallopavo,Wild Turkey,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Bucephala albeola,Bufflehead,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spizella passerina,Chipping Sparrow,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Zenaida macroura,Mourning Dove,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Passer domesticus,House Sparrow,0.0003,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Turdus migratorius,American Robin,0.5256,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Bucephala albeola,Bufflehead,0.0045,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0037,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Piranga ludoviciana,Western Tanager,0.0032,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Megaceryle alcyon,Belted Kingfisher,0.0022,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Buteo lineatus,Red-shouldered Hawk,0.0022,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Anas platyrhynchos,Mallard,0.0021,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Ardea herodias,Great Blue Heron,0.0017,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0013,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0012,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Certhia americana,Brown Creeper,0.0010,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Lophodytes cucullatus,Hooded Merganser,0.0009,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Meleagris gallopavo,Wild Turkey,0.0008,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates villosus,Hairy Woodpecker,0.0008,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0006,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0006,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spizella passerina,Chipping Sparrow,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sitta canadensis,Red-breasted Nuthatch,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Quiscalus mexicanus,Great-tailed Grackle,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous purpureus,Purple Finch,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Turdus migratorius,American Robin,0.6638,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.0047,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Mimus polyglottos,Northern Mockingbird,0.0013,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0011,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Lophodytes cucullatus,Hooded Merganser,0.0010,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0009,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Molothrus ater,Brown-headed Cowbird,0.0007,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Bucephala albeola,Bufflehead,0.0006,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Meleagris gallopavo,Wild Turkey,0.0006,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Myadestes townsendi,Townsend's Solitaire,0.0006,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Euphagus cyanocephalus,Brewer's Blackbird,0.0005,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Megaceryle alcyon,Belted Kingfisher,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Rallus limicola,Virginia Rail,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Falco columbarius,Merlin,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates villosus,Hairy Woodpecker,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0004,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Limnodromus griseus,Short-billed Dowitcher,0.0003,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Branta canadensis,Canada Goose,0.0003,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Turdus migratorius,American Robin,0.6091,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.2571,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Myadestes townsendi,Townsend's Solitaire,0.0126,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0115,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Leiothlypis celata,Orange-crowned Warbler,0.0039,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0028,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryobates pubescens,Downy Woodpecker,0.0028,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Piranga ludoviciana,Western Tanager,0.0027,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous purpureus,Purple Finch,0.0023,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Colaptes auratus,Northern Flicker,0.0020,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Certhia americana,Brown Creeper,0.0020,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Setophaga occidentalis,Hermit Warbler,0.0018,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0015,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Catharus guttatus,Hermit Thrush,0.0014,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Molothrus ater,Brown-headed Cowbird,0.0013,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sphyrapicus ruber,Red-breasted Sapsucker,0.0013,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sitta carolinensis,White-breasted Nuthatch,0.0013,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0012,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Leiothlypis ruficapilla,Nashville Warbler,0.0012,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Cardinalis cardinalis,Northern Cardinal,0.0011,Birdsongs Recordings\24ft\American_Robin_24ft.wav,34.0522,-118.2437,-1,0.01

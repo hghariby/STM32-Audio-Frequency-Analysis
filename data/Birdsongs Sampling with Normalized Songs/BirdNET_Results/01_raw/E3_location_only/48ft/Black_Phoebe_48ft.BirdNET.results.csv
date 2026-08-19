@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Sayornis nigricans,Black Phoebe,0.7884,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Meleagris gallopavo,Wild Turkey,0.0054,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Tyrannus verticalis,Western Kingbird,0.0041,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Fulica americana,American Coot,0.0031,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0026,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0021,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus psaltria,Lesser Goldfinch,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0014,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Accipiter cooperii,Cooper's Hawk,0.0014,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Pyrocephalus rubinus,Vermilion Flycatcher,0.0014,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Porzana carolina,Sora,0.0012,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Auriparus flaviceps,Verdin,0.0010,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Butorides virescens,Green Heron,0.0008,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Columba livia,Rock Pigeon,0.0008,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus pinus,Pine Siskin,0.0008,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Icterus cucullatus,Hooded Oriole,0.0008,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Sitta canadensis,Red-breasted Nuthatch,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Sphyrapicus ruber,Red-breasted Sapsucker,0.0006,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Corvus corax,Common Raven,0.0006,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sayornis nigricans,Black Phoebe,0.2923,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0116,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Pyrocephalus rubinus,Vermilion Flycatcher,0.0075,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Actitis macularius,Spotted Sandpiper,0.0064,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0042,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Charadrius vociferus,Killdeer,0.0031,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Accipiter cooperii,Cooper's Hawk,0.0026,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sitta canadensis,Red-breasted Nuthatch,0.0025,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0021,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Chamaea fasciata,Wrentit,0.0020,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Vireo bellii,Bell's Vireo,0.0018,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0017,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spinus psaltria,Lesser Goldfinch,0.0017,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0017,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Melozone crissalis,California Towhee,0.0016,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0016,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Lanius ludovicianus,Loggerhead Shrike,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sayornis saya,Say's Phoebe,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Callipepla gambelii,Gambel's Quail,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Geococcyx californianus,Greater Roadrunner,0.0013,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sayornis nigricans,Black Phoebe,0.9320,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0166,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Accipiter cooperii,Cooper's Hawk,0.0058,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spinus psaltria,Lesser Goldfinch,0.0049,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0047,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Psaltriparus minimus,Bushtit,0.0044,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sitta canadensis,Red-breasted Nuthatch,0.0044,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Poecile rufescens,Chestnut-backed Chickadee,0.0040,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spinus pinus,Pine Siskin,0.0038,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spinus tristis,American Goldfinch,0.0030,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0020,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0019,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0015,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0014,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sphyrapicus ruber,Red-breasted Sapsucker,0.0014,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sayornis saya,Say's Phoebe,0.0013,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Piranga ludoviciana,Western Tanager,0.0013,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0012,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0017,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Falco peregrinus,Peregrine Falcon,0.0013,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Buteo lineatus,Red-shouldered Hawk,0.0013,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryobates pubescens,Downy Woodpecker,0.0012,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Megaceryle alcyon,Belted Kingfisher,0.0012,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0011,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Falco columbarius,Merlin,0.0010,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Aix sponsa,Wood Duck,0.0010,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0010,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Larus delawarensis,Ring-billed Gull,0.0009,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0009,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0009,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Accipiter cooperii,Cooper's Hawk,0.0008,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus pinus,Pine Siskin,0.0008,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sitta canadensis,Red-breasted Nuthatch,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Corvus brachyrhynchos,American Crow,0.0007,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pandion haliaetus,Osprey,0.0006,Birdsongs Recordings\48ft\Black_Phoebe_48ft.wav,34.0522,-118.2437,-1,0.01

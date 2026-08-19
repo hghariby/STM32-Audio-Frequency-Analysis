@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Haemorhous mexicanus,House Finch,0.9922,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Myzomela rubratra,Micronesian Myzomela,0.0259,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0135,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Myiothlypis coronata,Russet-crowned Warbler,0.0078,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sayornis saya,Say's Phoebe,0.0050,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Chloris chloris,European Greenfinch,0.0031,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Copsychus saularis,Oriental Magpie-Robin,0.0028,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Myadestes townsendi,Townsend's Solitaire,0.0024,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga caerulescens,Black-throated Blue Warbler,0.0023,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0021,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous cassinii,Cassin's Finch,0.0015,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Icterus spurius,Orchard Oriole,0.0014,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Corthylio calendula,Ruby-crowned Kinglet,0.0013,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Chaetura pelagica,Chimney Swift,0.0013,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo erythrophthalmus,Eastern Towhee,0.0013,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0012,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Certhia americana,Brown Creeper,0.0012,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Tyrannus vociferans,Cassin's Kingbird,0.0011,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Engine,Engine,0.0011,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+0.0,3.0,Catherpes mexicanus,Canyon Wren,0.0011,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Myiothlypis bivittata,Two-banded Warbler,0.2112,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerina caerulea,Blue Grosbeak,0.1382,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0438,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spizixos semitorques,Collared Finchbill,0.0207,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Geothlypis formosa,Kentucky Warbler,0.0174,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Hierococcyx pectoralis,Philippine Hawk-Cuckoo,0.0138,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Piranga olivacea,Scarlet Tanager,0.0127,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Peucedramus taeniatus,Olive Warbler,0.0110,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pycnonotus jocosus,Red-whiskered Bulbul,0.0101,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Oporornis agilis,Connecticut Warbler,0.0092,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga citrina,Hooded Warbler,0.0084,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo altiloquus,Black-whiskered Vireo,0.0080,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Microeca flavigaster,Lemon-bellied Flycatcher,0.0079,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous purpureus,Purple Finch,0.0059,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Piranga rubra,Summer Tanager,0.0058,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0057,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo bellii,Bell's Vireo,0.0052,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Geothlypis philadelphia,Mourning Warbler,0.0046,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Parkesia noveboracensis,Northern Waterthrush,0.0046,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+3.0,6.0,Tarsiger cyanurus,Red-flanked Bluetail,0.0045,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.3692,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Icterus spurius,Orchard Oriole,0.0610,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Erithacus rubecula,European Robin,0.0472,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0277,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Passerina caerulea,Blue Grosbeak,0.0243,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Copsychus saularis,Oriental Magpie-Robin,0.0203,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sylvia atricapilla,Eurasian Blackcap,0.0179,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Vireo gilvus,Warbling Vireo,0.0092,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Monticola solitarius,Blue Rock-Thrush,0.0060,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Parus major,Great Tit,0.0049,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Chloris chloris,European Greenfinch,0.0041,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0039,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Oenanthe leucura,Black Wheatear,0.0039,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Piranga rubra,Summer Tanager,0.0036,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Curruca nisoria,Barred Warbler,0.0031,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0027,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phoenicurus phoenicurus,Common Redstart,0.0025,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Myiothlypis coronata,Russet-crowned Warbler,0.0023,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Passerella iliaca,Fox Sparrow,0.0023,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+6.0,9.0,Myzomela rubratra,Micronesian Myzomela,0.0022,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0111,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0094,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0072,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0043,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Rallina eurizonoides,Slaty-legged Crake,0.0040,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0036,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Limnothlypis swainsonii,Swainson's Warbler,0.0034,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dendragapus obscurus,Dusky Grouse,0.0034,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0033,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0033,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo lineatus,Red-shouldered Hawk,0.0033,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus bicknelli,Bicknell's Thrush,0.0032,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0032,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dendragapus fuliginosus,Sooty Grouse,0.0031,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0031,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Spilornis cheela,Crested Serpent-Eagle,0.0029,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Contopus cooperi,Olive-sided Flycatcher,0.0029,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus martius,Black Woodpecker,0.0029,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Leiothlypis ruficapilla,Nashville Warbler,0.0028,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01
+9.0,10.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0028,Birdsongs Recordings\48ft\House_Finch_48ft.wav,-1,-1,-1,0.01

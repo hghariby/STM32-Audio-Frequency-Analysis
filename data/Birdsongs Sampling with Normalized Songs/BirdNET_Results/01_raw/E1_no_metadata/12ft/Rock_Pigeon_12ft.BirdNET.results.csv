@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Columba livia,Rock Pigeon,0.9946,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.0561,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Pulsatrix koeniswaldiana,Tawny-browed Owl,0.0411,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Columba guinea,Speckled Pigeon,0.0151,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Streptopelia semitorquata,Red-eyed Dove,0.0109,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Engine,Engine,0.0098,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Columba palumbus,Common Wood-Pigeon,0.0051,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Coragyps atratus,Black Vulture,0.0040,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Ixobrychus exilis,Least Bittern,0.0025,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0023,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Strix ocellata,Mottled Wood-Owl,0.0020,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Patagioenas fasciata,Band-tailed Pigeon,0.0016,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0015,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Nannopterum auritum,Double-crested Cormorant,0.0014,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Ptilinopus magnificus,Wompoo Fruit-Dove,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Human vocal,Human vocal,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Strix varia,Barred Owl,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Centropus sinensis,Greater Coucal,0.0012,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Columba livia,Rock Pigeon,0.9871,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pulsatrix koeniswaldiana,Tawny-browed Owl,0.0235,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0113,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Human vocal,Human vocal,0.0046,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Gorsachius melanolophus,Malayan Night-Heron,0.0043,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ptilinopus magnificus,Wompoo Fruit-Dove,0.0039,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ducula aenea,Green Imperial-Pigeon,0.0035,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ducula bicolor,Pied Imperial-Pigeon,0.0029,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Centropus sinensis,Greater Coucal,0.0018,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Motacilla maderaspatensis,White-browed Wagtail,0.0017,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ardea sumatrana,Great-billed Heron,0.0017,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Oriolus kundoo,Indian Golden Oriole,0.0014,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pachycephala cinerea,Mangrove Whistler,0.0014,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ketupa zeylonensis,Brown Fish-Owl,0.0014,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Streptopelia orientalis,Oriental Turtle-Dove,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Copsychus saularis,Oriental Magpie-Robin,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Strix leptogrammica,Brown Wood-Owl,0.0012,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Lophostrix cristata,Crested Owl,0.0011,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0010,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Apus melba,Alpine Swift,0.0008,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Columba livia,Rock Pigeon,0.9948,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Pulsatrix koeniswaldiana,Tawny-browed Owl,0.0063,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0021,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Strix leptogrammica,Brown Wood-Owl,0.0012,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Columba palumbus,Common Wood-Pigeon,0.0009,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Streptopelia orientalis,Oriental Turtle-Dove,0.0009,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Ketupa zeylonensis,Brown Fish-Owl,0.0008,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Motacilla maderaspatensis,White-browed Wagtail,0.0005,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0005,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Human vocal,Human vocal,0.0004,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0004,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Strix ocellata,Mottled Wood-Owl,0.0004,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Centropus sinensis,Greater Coucal,0.0003,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Patagioenas fasciata,Band-tailed Pigeon,0.0003,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Ducula aenea,Green Imperial-Pigeon,0.0003,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Ardea sumatrana,Great-billed Heron,0.0003,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Copsychus saularis,Oriental Magpie-Robin,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Oriolus kundoo,Indian Golden Oriole,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Columba guinea,Speckled Pigeon,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Coragyps atratus,Black Vulture,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Phoenicurus phoenicurus,Common Redstart,0.0437,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Picus canus,Gray-headed Woodpecker,0.0370,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia pytyopsittacus,Parrot Crossbill,0.0234,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Tringa ochropus,Green Sandpiper,0.0181,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dendrocopos major,Great Spotted Woodpecker,0.0173,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Linaria cannabina,Eurasian Linnet,0.0152,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dicrurus hottentottus,Hair-crested Drongo,0.0130,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Chloris chloris,European Greenfinch,0.0120,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Drymodes brunneopygia,Southern Scrub-Robin,0.0116,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dryobates minor,Lesser Spotted Woodpecker,0.0115,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Archilochus colubris,Ruby-throated Hummingbird,0.0111,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Pinicola enucleator,Pine Grosbeak,0.0108,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Carpodacus erythrinus,Common Rosefinch,0.0107,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Luscinia megarhynchos,Common Nightingale,0.0099,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Phylloscopus collybita,Common Chiffchaff,0.0091,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus iliacus,Redwing,0.0091,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0090,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Copsychus saularis,Oriental Magpie-Robin,0.0082,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ficedula parva,Red-breasted Flycatcher,0.0080,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Picoides tridactylus,Eurasian Three-toed Woodpecker,0.0076,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,-1,-1,-1,0.01

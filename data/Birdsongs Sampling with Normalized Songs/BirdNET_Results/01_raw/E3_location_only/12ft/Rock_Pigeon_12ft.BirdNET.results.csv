@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Columba livia,Rock Pigeon,0.9946,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.0561,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Ixobrychus exilis,Least Bittern,0.0025,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0023,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Patagioenas fasciata,Band-tailed Pigeon,0.0016,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0015,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Nannopterum auritum,Double-crested Cormorant,0.0014,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0013,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Hydroprogne caspia,Caspian Tern,0.0008,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Aix sponsa,Wood Duck,0.0006,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0005,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Accipiter cooperii,Cooper's Hawk,0.0005,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Larus delawarensis,Ring-billed Gull,0.0004,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Anas platyrhynchos,Mallard,0.0004,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0003,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Lophodytes cucullatus,Hooded Merganser,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Pandion haliaetus,Osprey,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Buteo lineatus,Red-shouldered Hawk,0.0002,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Columba livia,Rock Pigeon,0.9871,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Patagioenas fasciata,Band-tailed Pigeon,0.0007,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Ixobrychus exilis,Least Bittern,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Nannopterum auritum,Double-crested Cormorant,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Actitis macularius,Spotted Sandpiper,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Athene cunicularia,Burrowing Owl,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Aix sponsa,Wood Duck,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Hydroprogne caspia,Caspian Tern,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Charadrius semipalmatus,Semipalmated Plover,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Accipiter cooperii,Cooper's Hawk,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Buteo jamaicensis,Red-tailed Hawk,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Anas platyrhynchos,Mallard,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Mareca strepera,Gadwall,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Columba livia,Rock Pigeon,0.9948,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0004,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Patagioenas fasciata,Band-tailed Pigeon,0.0003,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Ixobrychus exilis,Least Bittern,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Aix sponsa,Wood Duck,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Branta canadensis,Canada Goose,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Mareca strepera,Gadwall,0.0001,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Catherpes mexicanus,Canyon Wren,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Porzana carolina,Sora,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Lophodytes cucullatus,Hooded Merganser,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Actitis macularius,Spotted Sandpiper,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Charadrius semipalmatus,Semipalmated Plover,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Rallus limicola,Virginia Rail,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Buteo jamaicensis,Red-tailed Hawk,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Anas platyrhynchos,Mallard,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Megaceryle alcyon,Belted Kingfisher,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Agelaius phoeniceus,Red-winged Blackbird,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Toxostoma redivivum,California Thrasher,0.0000,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryobates villosus,Hairy Woodpecker,0.0052,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0040,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Haemorhous purpureus,Purple Finch,0.0037,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Zenaida macroura,Mourning Dove,0.0037,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Actitis macularius,Spotted Sandpiper,0.0034,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Contopus sordidulus,Western Wood-Pewee,0.0030,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Archilochus alexandri,Black-chinned Hummingbird,0.0026,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Cardinalis cardinalis,Northern Cardinal,0.0024,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Vireo huttoni,Hutton's Vireo,0.0022,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus tristis,American Goldfinch,0.0022,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pandion haliaetus,Osprey,0.0018,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0017,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0015,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passerella iliaca,Fox Sparrow,0.0015,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Catherpes mexicanus,Canyon Wren,0.0015,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Accipiter striatus,Sharp-shinned Hawk,0.0012,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passer domesticus,House Sparrow,0.0011,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Accipiter cooperii,Cooper's Hawk,0.0011,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Falco columbarius,Merlin,0.0011,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryobates pubescens,Downy Woodpecker,0.0010,Birdsongs Recordings\12ft\Rock_Pigeon_12ft.wav,34.0522,-118.2437,-1,0.01

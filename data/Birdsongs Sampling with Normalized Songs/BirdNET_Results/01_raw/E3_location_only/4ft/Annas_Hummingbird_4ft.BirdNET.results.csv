@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.9932,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Selasphorus sasin,Allen's Hummingbird,0.0007,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Thryomanes bewickii,Bewick's Wren,0.0006,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0005,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spizella passerina,Chipping Sparrow,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Baeolophus inornatus,Oak Titmouse,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Troglodytes aedon,House Wren,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Calypte costae,Costa's Hummingbird,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Passerculus sandwichensis,Savannah Sparrow,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Molothrus ater,Brown-headed Cowbird,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Colaptes auratus,Northern Flicker,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Passerella iliaca,Fox Sparrow,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Setophaga townsendi,Townsend's Warbler,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melozone crissalis,California Towhee,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Psaltriparus minimus,Bushtit,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Icterus cucullatus,Hooded Oriole,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0000,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Calypte anna,Anna's Hummingbird,0.9986,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Troglodytes aedon,House Wren,0.0019,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Thryomanes bewickii,Bewick's Wren,0.0017,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Psaltriparus minimus,Bushtit,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spizella passerina,Chipping Sparrow,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Vireo gilvus,Warbling Vireo,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Passerculus sandwichensis,Savannah Sparrow,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Baeolophus inornatus,Oak Titmouse,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Icterus cucullatus,Hooded Oriole,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Cistothorus palustris,Marsh Wren,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Chamaea fasciata,Wrentit,0.0001,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Setophaga townsendi,Townsend's Warbler,0.0000,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0000,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.0000,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Piranga ludoviciana,Western Tanager,0.0000,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.9993,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Passerculus sandwichensis,Savannah Sparrow,0.0017,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Falco columbarius,Merlin,0.0009,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Troglodytes aedon,House Wren,0.0005,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Molothrus ater,Brown-headed Cowbird,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Melozone crissalis,California Towhee,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Archilochus alexandri,Black-chinned Hummingbird,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Calypte costae,Costa's Hummingbird,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Thryomanes bewickii,Bewick's Wren,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Cistothorus palustris,Marsh Wren,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Baeolophus inornatus,Oak Titmouse,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sayornis saya,Say's Phoebe,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Setophaga townsendi,Townsend's Warbler,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Catherpes mexicanus,Canyon Wren,0.0002,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.9928,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Selasphorus rufus,Rufous Hummingbird,0.0055,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sayornis nigricans,Black Phoebe,0.0040,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Molothrus ater,Brown-headed Cowbird,0.0026,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus tristis,American Goldfinch,0.0021,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passerculus sandwichensis,Savannah Sparrow,0.0017,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Thryomanes bewickii,Bewick's Wren,0.0016,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Calypte costae,Costa's Hummingbird,0.0011,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passerina amoena,Lazuli Bunting,0.0009,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Tachycineta thalassina,Violet-green Swallow,0.0008,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Selasphorus sasin,Allen's Hummingbird,0.0006,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Corvus brachyrhynchos,American Crow,0.0006,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Troglodytes aedon,House Wren,0.0005,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pipilo chlorurus,Green-tailed Towhee,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spizella passerina,Chipping Sparrow,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Melanerpes formicivorus,Acorn Woodpecker,0.0004,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Pipilo maculatus,Spotted Towhee,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Psaltriparus minimus,Bushtit,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passerella iliaca,Fox Sparrow,0.0003,Birdsongs Recordings\4ft\Annas_Hummingbird_4ft.wav,34.0522,-118.2437,-1,0.01

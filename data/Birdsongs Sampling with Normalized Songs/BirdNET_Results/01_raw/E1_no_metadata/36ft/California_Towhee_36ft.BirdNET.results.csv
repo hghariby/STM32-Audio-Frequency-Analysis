@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Melozone crissalis,California Towhee,0.9984,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0130,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Parkesia motacilla,Louisiana Waterthrush,0.0085,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Parkesia noveboracensis,Northern Waterthrush,0.0071,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0063,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Myiothlypis nigrocristata,Black-crested Warbler,0.0053,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cardellina pusilla,Wilson's Warbler,0.0049,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Baeolophus inornatus,Oak Titmouse,0.0026,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Phylloscopus armandii,Yellow-streaked Warbler,0.0017,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Zonotrichia atricapilla,Golden-crowned Sparrow,0.0012,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Passerella iliaca,Fox Sparrow,0.0012,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0007,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melozone aberti,Abert's Towhee,0.0007,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0006,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis peregrina,Tennessee Warbler,0.0006,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cranioleuca marcapatae,Marcapata Spinetail,0.0006,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga citrina,Hooded Warbler,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melozone albicollis,White-throated Towhee,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga coronata,Yellow-rumped Warbler,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cardinalis sinuatus,Pyrrhuloxia,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.2145,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0892,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Emberiza citrinella,Yellowhammer,0.0530,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Junco hyemalis,Dark-eyed Junco,0.0319,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Anthus trivialis,Tree Pipit,0.0197,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Emberiza cirlus,Cirl Bunting,0.0185,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cyanistes caeruleus,Eurasian Blue Tit,0.0181,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ninox strenua,Powerful Owl,0.0164,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga discolor,Prairie Warbler,0.0149,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cinclus mexicanus,American Dipper,0.0145,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0109,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Emberiza hortulana,Ortolan Bunting,0.0100,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Buteo platypterus,Broad-winged Hawk,0.0097,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Loxia leucoptera,White-winged Crossbill,0.0096,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Actitis hypoleucos,Common Sandpiper,0.0085,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.0078,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga pinus,Pine Warbler,0.0073,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Certhia americana,Brown Creeper,0.0068,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Falco columbarius,Merlin,0.0060,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus merula,Eurasian Blackbird,0.0056,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melozone crissalis,California Towhee,0.9855,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Parkesia motacilla,Louisiana Waterthrush,0.0283,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Parkesia noveboracensis,Northern Waterthrush,0.0111,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.0058,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melozone aberti,Abert's Towhee,0.0048,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga citrina,Hooded Warbler,0.0024,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Passerella iliaca,Fox Sparrow,0.0014,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis celata,Orange-crowned Warbler,0.0013,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Cardellina pusilla,Wilson's Warbler,0.0011,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.0010,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Myiothlypis nigrocristata,Black-crested Warbler,0.0008,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Baeolophus bicolor,Tufted Titmouse,0.0006,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis ruficapilla,Nashville Warbler,0.0006,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Contopus sordidulus,Western Wood-Pewee,0.0006,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Seiurus aurocapilla,Ovenbird,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Icterus galbula,Baltimore Oriole,0.0005,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Baeolophus inornatus,Oak Titmouse,0.0004,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Pipilo erythrophthalmus,Eastern Towhee,0.0004,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0004,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0103,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Catharus bicknelli,Bicknell's Thrush,0.0097,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0075,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Arremon brunneinucha,Chestnut-capped Brushfinch,0.0070,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Strix leptogrammica,Brown Wood-Owl,0.0057,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0053,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ciccaba albitarsis,Rufous-banded Owl,0.0046,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Hemitriccus granadensis,Black-throated Tody-Tyrant,0.0044,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus fuscater,Great Thrush,0.0044,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0042,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0042,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Grallaria ruficapilla,Chestnut-crowned Antpitta,0.0039,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Momotus aequatorialis,Andean Motmot,0.0038,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Tetrao urogallus,Western Capercaillie,0.0037,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Melanospiza bicolor,Black-faced Grassquit,0.0036,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Pipreola riefferii,Green-and-black Fruiteater,0.0036,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Setophaga striata,Blackpoll Warbler,0.0036,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Grallaria nuchalis,Chestnut-naped Antpitta,0.0035,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ochthoeca cinnamomeiventris,Slaty-backed Chat-Tyrant,0.0035,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Limnothlypis swainsonii,Swainson's Warbler,0.0033,Birdsongs Recordings\36ft\California_Towhee_36ft.wav,-1,-1,-1,0.01

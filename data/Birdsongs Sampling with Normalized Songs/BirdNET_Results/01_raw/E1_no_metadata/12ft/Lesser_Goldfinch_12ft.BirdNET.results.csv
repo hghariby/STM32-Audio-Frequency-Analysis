@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Spinus psaltria,Lesser Goldfinch,0.4430,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Phylloscopus proregulus,Pallas's Leaf Warbler,0.0736,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Copsychus saularis,Oriental Magpie-Robin,0.0587,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus magellanicus,Hooded Siskin,0.0144,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0072,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cinnyris jugularis,Olive-backed Sunbird,0.0052,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Turdus flavipes,Yellow-legged Thrush,0.0049,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0043,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus xanthogastrus,Yellow-bellied Siskin,0.0042,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0041,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus pinus,Pine Siskin,0.0039,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus olivaceus,Olivaceous Siskin,0.0035,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Phylidonyris novaehollandiae,New Holland Honeyeater,0.0031,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sicalis flaveola,Saffron Finch,0.0028,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Leptocoma zeylonica,Purple-rumped Sunbird,0.0025,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Zosterops japonicus,Warbling White-eye,0.0025,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Icterus spurius,Orchard Oriole,0.0024,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Motacilla maderaspatensis,White-browed Wagtail,0.0022,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus barbatus,Black-chinned Siskin,0.0019,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus lawrencei,Lawrence's Goldfinch,0.0017,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Phylloscopus proregulus,Pallas's Leaf Warbler,0.6538,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Motacilla maderaspatensis,White-browed Wagtail,0.1390,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Copsychus saularis,Oriental Magpie-Robin,0.0565,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.0175,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Anthus hodgsoni,Olive-backed Pipit,0.0148,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spinus psaltria,Lesser Goldfinch,0.0137,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sayornis nigricans,Black Phoebe,0.0131,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus flavipes,Yellow-legged Thrush,0.0115,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sporophila nigricollis,Yellow-bellied Seedeater,0.0102,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Phoenicurus phoenicurus,Common Redstart,0.0095,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sporophila caerulescens,Double-collared Seedeater,0.0090,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerina cyanea,Indigo Bunting,0.0078,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Leptocoma zeylonica,Purple-rumped Sunbird,0.0066,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0060,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Falco sparverius,American Kestrel,0.0059,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Prinia hodgsonii,Gray-breasted Prinia,0.0059,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Tyrannus melancholicus,Tropical Kingbird,0.0046,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Prunella modularis,Dunnock,0.0043,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Myiozetetes cayanensis,Rusty-margined Flycatcher,0.0039,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus philomelos,Song Thrush,0.0038,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus psaltria,Lesser Goldfinch,0.3586,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Copsychus saularis,Oriental Magpie-Robin,0.0139,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phylloscopus proregulus,Pallas's Leaf Warbler,0.0097,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus spinus,Eurasian Siskin,0.0057,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Luscinia svecica,Bluethroat,0.0051,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Turdus flavipes,Yellow-legged Thrush,0.0043,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Polioptila dumicola,Masked Gnatcatcher,0.0041,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus lawrencei,Lawrence's Goldfinch,0.0033,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sayornis nigricans,Black Phoebe,0.0025,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Dumetella carolinensis,Gray Catbird,0.0022,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Lanius collurio,Red-backed Shrike,0.0018,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spizelloides arborea,American Tree Sparrow,0.0017,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Mimus triurus,White-banded Mockingbird,0.0016,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Chondestes grammacus,Lark Sparrow,0.0016,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Acrocephalus dumetorum,Blyth's Reed Warbler,0.0016,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Calliope calliope,Siberian Rubythroat,0.0014,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0013,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phoenicurus phoenicurus,Common Redstart,0.0011,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Prunella modularis,Dunnock,0.0011,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Turdus philomelos,Song Thrush,0.0011,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Spinus tristis,American Goldfinch,0.1928,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Hedydipna collaris,Collared Sunbird,0.1329,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Thraupis sayaca,Sayaca Tanager,0.0738,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Atlapetes melanolaemus,Black-faced Brushfinch,0.0389,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Copsychus saularis,Oriental Magpie-Robin,0.0306,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Saltator orenocensis,Orinocan Saltator,0.0235,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Serinus canaria,Island Canary,0.0235,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Granatellus venustus,Red-breasted Chat,0.0191,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Cinnyris jugularis,Olive-backed Sunbird,0.0114,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Periparus ater,Coal Tit,0.0113,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus nigriceps,Andean Slaty Thrush,0.0109,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Caryothraustes canadensis,Yellow-green Grosbeak,0.0094,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Periparus rubidiventris,Rufous-vented Tit,0.0057,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0054,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Atlapetes tricolor,Tricolored Brushfinch,0.0040,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Caryothraustes poliogaster,Black-faced Grosbeak,0.0039,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Thraupis cyanoptera,Azure-shouldered Tanager,0.0039,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Zosterops simplex,Swinhoe's White-eye,0.0039,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Atlapetes tibialis,Yellow-thighed Brushfinch,0.0034,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Spinus spinus,Eurasian Siskin,0.0034,Birdsongs Recordings\12ft\Lesser_Goldfinch_12ft.wav,-1,-1,-1,0.01

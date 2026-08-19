@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.8118,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0019,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Toxostoma redivivum,California Thrasher,0.0007,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Turdus migratorius,American Robin,0.0006,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Salpinctes obsoletus,Rock Wren,0.0005,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Meleagris gallopavo,Wild Turkey,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Agelaius phoeniceus,Red-winged Blackbird,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Thryomanes bewickii,Bewick's Wren,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Icteria virens,Yellow-breasted Chat,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Quiscalus mexicanus,Great-tailed Grackle,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Numenius phaeopus,Whimbrel,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Zenaida macroura,Mourning Dove,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Sturnus vulgaris,European Starling,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Pandion haliaetus,Osprey,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Mimus polyglottos,Northern Mockingbird,0.3423,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Turdus migratorius,American Robin,0.0034,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Pipilo maculatus,Spotted Towhee,0.0008,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Quiscalus mexicanus,Great-tailed Grackle,0.0008,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Salpinctes obsoletus,Rock Wren,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Toxostoma redivivum,California Thrasher,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Melozone aberti,Abert's Towhee,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Cyanocitta stelleri,Steller's Jay,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Dryobates villosus,Hairy Woodpecker,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Tyto alba,Barn Owl,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Melozone crissalis,California Towhee,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Megaceryle alcyon,Belted Kingfisher,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Baeolophus inornatus,Oak Titmouse,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Accipiter cooperii,Cooper's Hawk,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Sayornis nigricans,Black Phoebe,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Aphelocoma californica,California Scrub-Jay,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Meleagris gallopavo,Wild Turkey,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Mimus polyglottos,Northern Mockingbird,0.2844,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Turdus migratorius,American Robin,0.0012,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Chamaea fasciata,Wrentit,0.0011,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Quiscalus mexicanus,Great-tailed Grackle,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Icteria virens,Yellow-breasted Chat,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Salpinctes obsoletus,Rock Wren,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Meleagris gallopavo,Wild Turkey,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Corvus brachyrhynchos,American Crow,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Pandion haliaetus,Osprey,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Toxostoma redivivum,California Thrasher,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Thryomanes bewickii,Bewick's Wren,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Aphelocoma californica,California Scrub-Jay,0.0000,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Chamaea fasciata,Wrentit,0.0234,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Quiscalus mexicanus,Great-tailed Grackle,0.0020,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0017,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Mimus polyglottos,Northern Mockingbird,0.0005,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Salpinctes obsoletus,Rock Wren,0.0004,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Pheucticus melanocephalus,Black-headed Grosbeak,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Passer domesticus,House Sparrow,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Icteria virens,Yellow-breasted Chat,0.0003,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Toxostoma redivivum,California Thrasher,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Turdus migratorius,American Robin,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Pandion haliaetus,Osprey,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0002,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Selasphorus sasin,Allen's Hummingbird,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Haemorhous purpureus,Purple Finch,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Melozone crissalis,California Towhee,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Myiarchus cinerascens,Ash-throated Flycatcher,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Tyrannus verticalis,Western Kingbird,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Aphelocoma californica,California Scrub-Jay,0.0001,Birdsongs Recordings\4ft\Northern_Mockingbird_4ft.wav,34.0522,-118.2437,27,0.01

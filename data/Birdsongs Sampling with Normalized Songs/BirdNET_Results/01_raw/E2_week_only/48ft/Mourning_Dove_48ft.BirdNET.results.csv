@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Zenaida macroura,Mourning Dove,0.1729,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Sarothrura elegans,Buff-spotted Flufftail,0.0633,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Leptotila verreauxi,White-tipped Dove,0.0498,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Patagioenas picazuro,Picazuro Pigeon,0.0445,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Ardenna pacifica,Wedge-tailed Shearwater,0.0248,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0180,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Ninox strenua,Powerful Owl,0.0177,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Engine,Engine,0.0172,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Zenaida auriculata,Eared Dove,0.0157,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Ninox boobook,Southern Boobook,0.0145,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Zenaida asiatica,White-winged Dove,0.0099,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Zenaida meloda,West Peruvian Dove,0.0086,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Strix ocellata,Mottled Wood-Owl,0.0081,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Columba palumbus,Common Wood-Pigeon,0.0081,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Ninox scutulata,Brown Boobook,0.0065,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Pterodroma sandwichensis,Hawaiian Petrel,0.0057,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Podargus ocellatus,Marbled Frogmouth,0.0057,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Zenaida aurita,Zenaida Dove,0.0056,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Canis lupus,Gray Wolf,0.0056,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Leptotila jamaicensis,Caribbean Dove,0.0050,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Zenaida macroura,Mourning Dove,0.9537,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Zenaida aurita,Zenaida Dove,0.0287,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Podargus ocellatus,Marbled Frogmouth,0.0085,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Sarothrura elegans,Buff-spotted Flufftail,0.0047,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Zenaida asiatica,White-winged Dove,0.0035,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Leptotila verreauxi,White-tipped Dove,0.0031,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Zenaida auriculata,Eared Dove,0.0030,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Ninox strenua,Powerful Owl,0.0018,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Engine,Engine,0.0013,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0013,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Lophodytes cucullatus,Hooded Merganser,0.0011,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Corvus brachyrhynchos,American Crow,0.0010,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0010,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Buteo lineatus,Red-shouldered Hawk,0.0008,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Zenaida meloda,West Peruvian Dove,0.0007,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Geococcyx velox,Lesser Roadrunner,0.0007,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Megaceryle alcyon,Belted Kingfisher,0.0007,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0006,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile atricapillus,Black-capped Chickadee,0.0006,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Seiurus aurocapilla,Ovenbird,0.0005,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Zenaida macroura,Mourning Dove,0.4307,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Bubo bubo,Eurasian Eagle-Owl,0.0860,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Strix ocellata,Mottled Wood-Owl,0.0178,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Zentrygon linearis,Lined Quail-Dove,0.0093,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Claravis pretiosa,Blue Ground Dove,0.0073,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Asio otus,Long-eared Owl,0.0062,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Leptotila verreauxi,White-tipped Dove,0.0048,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Engine,Engine,0.0034,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Ninox scutulata,Brown Boobook,0.0028,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0026,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Geococcyx californianus,Greater Roadrunner,0.0015,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0013,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Ninox strenua,Powerful Owl,0.0013,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Leptotila ochraceiventris,Ochre-bellied Dove,0.0012,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Geococcyx velox,Lesser Roadrunner,0.0012,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Carpococcyx radiceus,Bornean Ground-Cuckoo,0.0012,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Zenaida auriculata,Eared Dove,0.0011,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Meleagris gallopavo,Wild Turkey,0.0010,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Gorsachius melanolophus,Malayan Night-Heron,0.0010,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Chalcophaps indica,Asian Emerald Dove,0.0008,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0068,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Tetrao urogallus,Western Capercaillie,0.0066,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Cistothorus apolinari,Apolinar's Wren,0.0061,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Serinus canaria,Island Canary,0.0052,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0048,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Lewinia pectoralis,Lewin's Rail,0.0043,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0042,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Loxia leucoptera,White-winged Crossbill,0.0041,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Fireworks,Fireworks,0.0038,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Phylloscopus trochiloides,Greenish Warbler,0.0038,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Euphagus carolinus,Rusty Blackbird,0.0032,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0029,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Cinclus mexicanus,American Dipper,0.0029,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Alcedo atthis,Common Kingfisher,0.0029,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Catharus bicknelli,Bicknell's Thrush,0.0028,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Accipiter nisus,Eurasian Sparrowhawk,0.0027,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Cinclodes fuscus,Buff-winged Cinclodes,0.0026,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Human vocal,Human vocal,0.0026,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Phoenicurus ochruros,Black Redstart,0.0025,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Acrocephalus stentoreus,Clamorous Reed Warbler,0.0025,Birdsongs Recordings\48ft\Mourning_Dove_48ft.wav,-1,-1,27,0.01

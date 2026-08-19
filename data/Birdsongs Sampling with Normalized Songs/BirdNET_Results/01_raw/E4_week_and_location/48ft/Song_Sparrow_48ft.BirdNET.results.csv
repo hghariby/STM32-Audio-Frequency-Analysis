@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Anas platyrhynchos,Mallard,0.0106,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0028,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Tyto alba,Barn Owl,0.0026,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0023,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0015,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0015,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Buteo jamaicensis,Red-tailed Hawk,0.0014,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0012,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0009,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Passerina caerulea,Blue Grosbeak,0.0009,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Falco sparverius,American Kestrel,0.0008,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Falco peregrinus,Peregrine Falcon,0.0008,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Numenius phaeopus,Whimbrel,0.0007,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Dryobates villosus,Hairy Woodpecker,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Piranga ludoviciana,Western Tanager,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Accipiter cooperii,Cooper's Hawk,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Sitta canadensis,Red-breasted Nuthatch,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Corvus corax,Common Raven,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.2990,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0162,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Empidonax traillii,Willow Flycatcher,0.0139,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0105,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Buteo jamaicensis,Red-tailed Hawk,0.0089,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0078,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Cardellina pusilla,Wilson's Warbler,0.0065,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0063,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Sitta canadensis,Red-breasted Nuthatch,0.0062,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Megaceryle alcyon,Belted Kingfisher,0.0061,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0056,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Passerina caerulea,Blue Grosbeak,0.0049,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Contopus cooperi,Olive-sided Flycatcher,0.0047,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0046,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.0045,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Molothrus ater,Brown-headed Cowbird,0.0045,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Colaptes auratus,Northern Flicker,0.0044,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Vireo gilvus,Warbling Vireo,0.0039,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Certhia americana,Brown Creeper,0.0038,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Buteo lineatus,Red-shouldered Hawk,0.0038,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Troglodytes aedon,House Wren,0.0238,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Thryomanes bewickii,Bewick's Wren,0.0150,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Spinus tristis,American Goldfinch,0.0113,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0106,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Sitta canadensis,Red-breasted Nuthatch,0.0105,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0091,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0073,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0059,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0049,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Poecile gambeli,Mountain Chickadee,0.0048,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Leiothlypis celata,Orange-crowned Warbler,0.0036,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0035,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0035,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Certhia americana,Brown Creeper,0.0029,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Passerina amoena,Lazuli Bunting,0.0028,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Molothrus ater,Brown-headed Cowbird,0.0026,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0025,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Cistothorus palustris,Marsh Wren,0.0022,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.0021,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Poecile rufescens,Chestnut-backed Chickadee,0.0019,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Ardea alba,Great Egret,0.0009,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Falco sparverius,American Kestrel,0.0008,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0008,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Falco peregrinus,Peregrine Falcon,0.0008,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0007,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0007,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Passerina caerulea,Blue Grosbeak,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Dryobates pubescens,Downy Woodpecker,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Accipiter cooperii,Cooper's Hawk,0.0006,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Piranga ludoviciana,Western Tanager,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Buteo lineatus,Red-shouldered Hawk,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Melanerpes formicivorus,Acorn Woodpecker,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Chamaea fasciata,Wrentit,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Sayornis nigricans,Black Phoebe,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Corvus brachyrhynchos,American Crow,0.0005,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0004,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0004,Birdsongs Recordings\48ft\Song_Sparrow_48ft.wav,34.0522,-118.2437,27,0.01

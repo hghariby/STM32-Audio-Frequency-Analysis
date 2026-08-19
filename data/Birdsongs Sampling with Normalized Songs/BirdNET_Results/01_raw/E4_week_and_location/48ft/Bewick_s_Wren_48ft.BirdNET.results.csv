@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Thryomanes bewickii,Bewick's Wren,0.1707,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0154,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Amphispiza bilineata,Black-throated Sparrow,0.0149,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0087,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.0079,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0057,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0049,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Icterus cucullatus,Hooded Oriole,0.0049,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0039,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Chamaea fasciata,Wrentit,0.0038,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Passerina amoena,Lazuli Bunting,0.0025,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Catherpes mexicanus,Canyon Wren,0.0024,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0023,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Vireo bellii,Bell's Vireo,0.0022,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0020,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Contopus sordidulus,Western Wood-Pewee,0.0019,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Melozone crissalis,California Towhee,0.0017,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Myiarchus cinerascens,Ash-throated Flycatcher,0.0016,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Toxostoma redivivum,California Thrasher,0.0016,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Auriparus flaviceps,Verdin,0.0016,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Junco hyemalis,Dark-eyed Junco,0.0552,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Thryomanes bewickii,Bewick's Wren,0.0362,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Leiothlypis celata,Orange-crowned Warbler,0.0209,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Pipilo maculatus,Spotted Towhee,0.0164,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Troglodytes aedon,House Wren,0.0072,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Spizella passerina,Chipping Sparrow,0.0070,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0033,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0025,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.0023,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Amphispiza bilineata,Black-throated Sparrow,0.0022,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Melozone crissalis,California Towhee,0.0020,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0020,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Cistothorus palustris,Marsh Wren,0.0020,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0019,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.0019,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Certhia americana,Brown Creeper,0.0018,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0017,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0015,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0014,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Piranga ludoviciana,Western Tanager,0.0012,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Falco peregrinus,Peregrine Falcon,0.0187,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0100,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Fulica americana,American Coot,0.0029,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0022,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Larus delawarensis,Ring-billed Gull,0.0021,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Quiscalus mexicanus,Great-tailed Grackle,0.0010,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0009,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Gallinula galeata,Common Gallinule,0.0009,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Meleagris gallopavo,Wild Turkey,0.0007,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Icterus cucullatus,Hooded Oriole,0.0006,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Mimus polyglottos,Northern Mockingbird,0.0006,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Tyto alba,Barn Owl,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Sterna hirundo,Common Tern,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Ixobrychus exilis,Least Bittern,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Buteo jamaicensis,Red-tailed Hawk,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Ardea herodias,Great Blue Heron,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Corvus corax,Common Raven,0.0003,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Butorides virescens,Green Heron,0.0003,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Tyrannus verticalis,Western Kingbird,0.0003,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Sterna hirundo,Common Tern,0.0011,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Ardea alba,Great Egret,0.0011,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0010,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Falco peregrinus,Peregrine Falcon,0.0008,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Rynchops niger,Black Skimmer,0.0008,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0008,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Tyto alba,Barn Owl,0.0008,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Larus delawarensis,Ring-billed Gull,0.0006,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Passer domesticus,House Sparrow,0.0006,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Limnodromus griseus,Short-billed Dowitcher,0.0006,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0006,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Tyrannus verticalis,Western Kingbird,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Melanerpes formicivorus,Acorn Woodpecker,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Quiscalus mexicanus,Great-tailed Grackle,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Sterna forsteri,Forster's Tern,0.0005,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Corvus brachyrhynchos,American Crow,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Cardinalis cardinalis,Northern Cardinal,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Egretta thula,Snowy Egret,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Branta canadensis,Canada Goose,0.0004,Birdsongs Recordings\48ft\Bewick_s_Wren_48ft.wav,34.0522,-118.2437,27,0.01

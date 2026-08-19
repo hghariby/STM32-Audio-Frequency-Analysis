@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Hirundo rustica,Barn Swallow,0.9810,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Microcentrum rhombifolium,Greater Angle-wing,0.0768,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Ammodramus savannarum,Grasshopper Sparrow,0.0200,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Ammospiza leconteii,LeConte's Sparrow,0.0193,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Orchelimum concinnum,Stripe-faced Meadow Katydid,0.0125,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Passerculus sandwichensis,Savannah Sparrow,0.0090,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Riparia riparia,Bank Swallow,0.0089,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Fireworks,Fireworks,0.0077,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Rallus limicola,Virginia Rail,0.0063,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Power tools,Power tools,0.0059,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Aeronautes saxatalis,White-throated Swift,0.0055,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0051,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Thryothorus ludovicianus,Carolina Wren,0.0047,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella pallida,Clay-colored Sparrow,0.0047,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Ammospiza nelsoni,Nelson's Sparrow,0.0046,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Scudderia curvicauda,Curve-tailed Bush Katydid,0.0044,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Coccyzus americanus,Yellow-billed Cuckoo,0.0043,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Conocephalus brevipennis,Short-winged Meadow Katydid,0.0041,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.0037,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Engine,Engine,0.0036,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.9841,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0520,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cecropis daurica,Red-rumped Swallow,0.0393,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo tahitica,Pacific Swallow,0.0195,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Hirundo neoxena,Welcome Swallow,0.0131,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melanocorypha calandra,Calandra Lark,0.0128,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0112,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pseudotriccus ruficeps,Rufous-headed Pygmy-Tyrant,0.0076,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Power tools,Power tools,0.0075,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Iduna caligata,Booted Warbler,0.0071,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Acrocephalus schoenobaenus,Sedge Warbler,0.0070,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Turdus viscivorus,Mistle Thrush,0.0068,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Iduna rama,Sykes's Warbler,0.0064,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Serpophaga griseicapilla,Straneck's Tyrannulet,0.0063,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ammospiza nelsoni,Nelson's Sparrow,0.0058,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Ficedula parva,Red-breasted Flycatcher,0.0054,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Gallinago media,Great Snipe,0.0053,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Rallus limicola,Virginia Rail,0.0053,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Locustella naevia,Common Grasshopper-Warbler,0.0053,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pseudotriccus pelzelni,Bronze-olive Pygmy-Tyrant,0.0052,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.9786,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Iduna pallida,Eastern Olivaceous Warbler,0.0256,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Fireworks,Fireworks,0.0214,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Locustella naevia,Common Grasshopper-Warbler,0.0174,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0139,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Cecropis daurica,Red-rumped Swallow,0.0104,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Rhinocrypta lanceolata,Crested Gallito,0.0092,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Paroaria coronata,Red-crested Cardinal,0.0087,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Power tools,Power tools,0.0082,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melanocorypha calandra,Calandra Lark,0.0079,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Galerida theklae,Thekla's Lark,0.0074,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sclerurus albigularis,Gray-throated Leaftosser,0.0064,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Caprimulgus europaeus,Eurasian Nightjar,0.0063,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella breweri,Brewer's Sparrow,0.0061,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Strix aluco,Tawny Owl,0.0061,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sternula antillarum,Least Tern,0.0056,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Locustella luscinioides,Savi's Warbler,0.0052,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Forpus cyanopygius,Mexican Parrotlet,0.0052,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Rallus limicola,Virginia Rail,0.0050,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Microcentrum rhombifolium,Greater Angle-wing,0.0041,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Phaeomyias murina,Mouse-colored Tyrannulet,0.3343,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Euscarthmus meloryphus,Rufous-crowned Pygmy-Tyrant,0.1462,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis fuscorufa,Rusty-headed Spinetail,0.0582,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis stictothorax,Necklaced Spinetail,0.0554,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Certhiaxis cinnamomeus,Yellow-chinned Spinetail,0.0545,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis albescens,Pale-breasted Spinetail,0.0198,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Pseudelaenia leucospodia,Gray-and-white Tyrannulet,0.0185,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Scytalopus opacus,Paramo Tapaculo,0.0148,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Euscarthmus fulviceps,Fulvous-headed Pygmy-Tyrant,0.0111,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Asthenes sclateri,Puna Canastero,0.0102,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Hemitriccus margaritaceiventer,Pearly-vented Tody-Tyrant,0.0095,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ochetorhynchus phoenicurus,Band-tailed Earthcreeper,0.0084,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Poecilotriccus ruficeps,Rufous-crowned Tody-Flycatcher,0.0062,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Synallaxis azarae,Azara's Spinetail,0.0060,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Limnoctites sulphuriferus,Sulphur-bearded Reedhaunter,0.0041,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Myornis senilis,Ash-colored Tapaculo,0.0039,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Hirundinea ferruginea,Cliff Flycatcher,0.0034,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Stigmatura budytoides,Greater Wagtail-Tyrant,0.0033,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Sylviorthorhynchus desmursii,Des Murs's Wiretail,0.0033,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Mecocerculus leucophrys,White-throated Tyrannulet,0.0031,Birdsongs Recordings\1ft\Barn_Swallow_1ft.wav,-1,-1,-1,0.01

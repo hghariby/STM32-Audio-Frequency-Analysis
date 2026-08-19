@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Zenaida macroura,Mourning Dove,0.5822,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Zenaida asiatica,White-winged Dove,0.0032,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0016,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0012,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Dryobates villosus,Hairy Woodpecker,0.0005,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0005,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0004,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Meleagris gallopavo,Wild Turkey,0.0003,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Callipepla gambelii,Gambel's Quail,0.0003,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Ardea herodias,Great Blue Heron,0.0003,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0003,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.0003,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Geococcyx californianus,Greater Roadrunner,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Campylorhynchus brunneicapillus,Cactus Wren,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Catherpes mexicanus,Canyon Wren,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Colaptes auratus,Northern Flicker,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Butorides virescens,Green Heron,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+0.0,3.0,Dryobates scalaris,Ladder-backed Woodpecker,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Zenaida macroura,Mourning Dove,0.9285,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Zenaida asiatica,White-winged Dove,0.0057,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Geococcyx californianus,Greater Roadrunner,0.0012,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0007,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Ardea alba,Great Egret,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Buteo lineatus,Red-shouldered Hawk,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Meleagris gallopavo,Wild Turkey,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Nannopterum auritum,Double-crested Cormorant,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Pandion haliaetus,Osprey,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Callipepla gambelii,Gambel's Quail,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Corvus brachyrhynchos,American Crow,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Calypte anna,Anna's Hummingbird,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Sturnus vulgaris,European Starling,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Melozone aberti,Abert's Towhee,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Ardea herodias,Great Blue Heron,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Quiscalus mexicanus,Great-tailed Grackle,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+3.0,6.0,Dryobates scalaris,Ladder-backed Woodpecker,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Zenaida macroura,Mourning Dove,0.8296,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0393,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Zenaida asiatica,White-winged Dove,0.0019,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0006,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Buteo lineatus,Red-shouldered Hawk,0.0003,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Accipiter cooperii,Cooper's Hawk,0.0002,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Pandion haliaetus,Osprey,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Dryobates villosus,Hairy Woodpecker,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Corvus brachyrhynchos,American Crow,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Callipepla gambelii,Gambel's Quail,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Colaptes auratus,Northern Flicker,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Geococcyx californianus,Greater Roadrunner,0.0001,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Dryobates scalaris,Ladder-backed Woodpecker,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Branta canadensis,Canada Goose,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Sturnus vulgaris,European Starling,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Vireo huttoni,Hutton's Vireo,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0000,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Buteo lineatus,Red-shouldered Hawk,0.0045,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Accipiter cooperii,Cooper's Hawk,0.0030,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0030,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0026,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0024,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0024,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Contopus cooperi,Olive-sided Flycatcher,0.0022,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Polioptila melanura,Black-tailed Gnatcatcher,0.0021,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0020,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Spizella passerina,Chipping Sparrow,0.0020,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Megaceryle alcyon,Belted Kingfisher,0.0018,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0018,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Dryobates villosus,Hairy Woodpecker,0.0016,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Catherpes mexicanus,Canyon Wren,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Leiothlypis celata,Orange-crowned Warbler,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Junco hyemalis,Dark-eyed Junco,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Passerina amoena,Lazuli Bunting,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Sitta canadensis,Red-breasted Nuthatch,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01
+9.0,10.0,Spinus pinus,Pine Siskin,0.0015,Birdsongs Recordings\1ft\Mourning_Dove_1ft.wav,34.0522,-118.2437,27,0.01

@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0071,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0037,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0036,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0034,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0028,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0020,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Phalaenoptilus nuttallii,Common Poorwill,0.0020,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Tyto alba,Barn Owl,0.0019,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Bubo virginianus,Great Horned Owl,0.0017,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Megascops kennicottii,Western Screech-Owl,0.0016,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0014,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0014,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.0014,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Falco columbarius,Merlin,0.0014,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0011,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0011,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Aix sponsa,Wood Duck,0.0010,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Anas platyrhynchos,Mallard,0.0009,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Gallinula galeata,Common Gallinule,0.0008,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Lophodytes cucullatus,Hooded Merganser,0.0008,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.6093,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Zenaida macroura,Mourning Dove,0.1114,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Columbina passerina,Common Ground Dove,0.0281,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Cardellina pusilla,Wilson's Warbler,0.0161,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Empidonax traillii,Willow Flycatcher,0.0072,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Leiothlypis ruficapilla,Nashville Warbler,0.0068,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0053,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0047,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Molothrus ater,Brown-headed Cowbird,0.0043,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.0041,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Ixobrychus exilis,Least Bittern,0.0035,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.0033,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Melospiza lincolnii,Lincoln's Sparrow,0.0032,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0026,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Empidonax oberholseri,Dusky Flycatcher,0.0023,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0023,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0021,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0020,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Zenaida asiatica,White-winged Dove,0.0019,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Contopus sordidulus,Western Wood-Pewee,0.0018,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Zenaida macroura,Mourning Dove,0.0183,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Setophaga petechia,Yellow Warbler,0.0135,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Corvus brachyrhynchos,American Crow,0.0105,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Leiothlypis ruficapilla,Nashville Warbler,0.0101,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0073,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0065,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0064,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0056,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0051,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Cardellina pusilla,Wilson's Warbler,0.0037,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0036,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Bubo virginianus,Great Horned Owl,0.0036,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Ixobrychus exilis,Least Bittern,0.0035,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spinus tristis,American Goldfinch,0.0026,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0023,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0023,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Megaceryle alcyon,Belted Kingfisher,0.0021,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0019,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Certhia americana,Brown Creeper,0.0019,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Tyto alba,Barn Owl,0.0018,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Tyto alba,Barn Owl,0.0016,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Buteo lineatus,Red-shouldered Hawk,0.0016,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Aix sponsa,Wood Duck,0.0015,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Branta canadensis,Canada Goose,0.0010,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sitta carolinensis,White-breasted Nuthatch,0.0009,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Cardinalis cardinalis,Northern Cardinal,0.0008,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryobates pubescens,Downy Woodpecker,0.0008,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0008,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Megaceryle alcyon,Belted Kingfisher,0.0007,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spizella passerina,Chipping Sparrow,0.0007,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Leiothlypis celata,Orange-crowned Warbler,0.0006,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0006,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0006,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0006,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus tristis,American Goldfinch,0.0006,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Accipiter cooperii,Cooper's Hawk,0.0005,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0005,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sayornis nigricans,Black Phoebe,0.0005,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Buteo jamaicensis,Red-tailed Hawk,0.0005,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Certhia americana,Brown Creeper,0.0005,Birdsongs Recordings\24ft\Northern_Yellow_Warbler_24ft.wav,34.0522,-118.2437,-1,0.01

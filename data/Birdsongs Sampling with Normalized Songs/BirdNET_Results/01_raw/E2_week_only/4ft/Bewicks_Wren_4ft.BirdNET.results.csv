@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Thryomanes bewickii,Bewick's Wren,0.7954,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Amphispiza bilineata,Black-throated Sparrow,0.0923,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0666,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0015,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Peucaea carpalis,Rufous-winged Sparrow,0.0013,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo erythrophthalmus,Eastern Towhee,0.0013,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Sayornis nigricans,Black Phoebe,0.0010,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0010,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Passerculus sandwichensis,Savannah Sparrow,0.0006,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0005,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0005,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Chondestes grammacus,Lark Sparrow,0.0005,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Spizella atrogularis,Black-chinned Sparrow,0.0005,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Peucaea aestivalis,Bachman's Sparrow,0.0005,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Carduelis carduelis,European Goldfinch,0.0004,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Spizelloides arborea,American Tree Sparrow,0.0004,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Cistothorus platensis,Grass Wren,0.0004,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga pinus,Pine Warbler,0.0003,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Melospiza georgiana,Swamp Sparrow,0.0003,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Spizella passerina,Chipping Sparrow,0.0003,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sayornis nigricans,Black Phoebe,0.5682,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sitta pygmaea,Pygmy Nuthatch,0.0927,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Engine,Engine,0.0403,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza hortulana,Ortolan Bunting,0.0357,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sayornis phoebe,Eastern Phoebe,0.0329,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Dryobates villosus,Hairy Woodpecker,0.0255,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Apus melba,Alpine Swift,0.0229,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0189,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Tyrannus couchii,Couch's Kingbird,0.0139,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0129,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0113,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Buteo platypterus,Broad-winged Hawk,0.0112,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Certhia americana,Brown Creeper,0.0110,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0105,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax hammondii,Hammond's Flycatcher,0.0104,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0097,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0087,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Loxia curvirostra,Red Crossbill,0.0082,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0076,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0073,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Engine,Engine,0.4912,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.1749,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0786,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Conocephalus brevipennis,Short-winged Meadow Katydid,0.0169,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Anthus trivialis,Tree Pipit,0.0141,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Branta canadensis,Canada Goose,0.0140,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Turnix sylvaticus,Small Buttonquail,0.0055,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0050,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Human vocal,Human vocal,0.0048,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Scolopax minor,American Woodcock,0.0047,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Bubo bubo,Eurasian Eagle-Owl,0.0045,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0043,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0041,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Cinclodes fuscus,Buff-winged Cinclodes,0.0039,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Orchelimum agile,Agile Meadow Katydid,0.0038,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Arenaria interpres,Ruddy Turnstone,0.0036,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Certhia americana,Brown Creeper,0.0036,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Siren,Siren,0.0036,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Phoenicurus ochruros,Black Redstart,0.0035,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Turdus philomelos,Song Thrush,0.0034,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0246,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Fireworks,Fireworks,0.0089,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0060,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Spinus pinus,Pine Siskin,0.0059,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Cinclodes fuscus,Buff-winged Cinclodes,0.0047,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Acanthis flammea,Common Redpoll,0.0045,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0044,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Loxia curvirostra,Red Crossbill,0.0043,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Human vocal,Human vocal,0.0043,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Loxia leucoptera,White-winged Crossbill,0.0041,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Lanius borealis,Northern Shrike,0.0040,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Gun,Gun,0.0036,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Siren,Siren,0.0035,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0034,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0034,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Branta canadensis,Canada Goose,0.0033,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Plectrophenax nivalis,Snow Bunting,0.0032,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Bubo bubo,Eurasian Eagle-Owl,0.0030,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Catharus bicknelli,Bicknell's Thrush,0.0030,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Pinicola enucleator,Pine Grosbeak,0.0029,Birdsongs Recordings\4ft\Bewicks_Wren_4ft.wav,-1,-1,27,0.01

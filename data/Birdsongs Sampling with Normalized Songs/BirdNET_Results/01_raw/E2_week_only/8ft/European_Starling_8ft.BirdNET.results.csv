@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Euphagus carolinus,Rusty Blackbird,0.4225,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Quiscalus major,Boat-tailed Grackle,0.1772,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Turdus migratorius,American Robin,0.1391,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Phacellodomus striaticollis,Freckle-breasted Thornbird,0.1339,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Buteo platypterus,Broad-winged Hawk,0.0521,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Actitis macularius,Spotted Sandpiper,0.0201,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Buteo jamaicensis,Red-tailed Hawk,0.0187,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Melozone aberti,Abert's Towhee,0.0172,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Furnarius leucopus,Pale-legged Hornero,0.0084,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Quiscalus mexicanus,Great-tailed Grackle,0.0081,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Agelaius phoeniceus,Red-winged Blackbird,0.0070,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Loxia pytyopsittacus,Parrot Crossbill,0.0068,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Hafferia zeledoni,Zeledon's Antbird,0.0064,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Quiscalus quiscula,Common Grackle,0.0064,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Himatione sanguinea,Apapane,0.0063,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Luscinia svecica,Bluethroat,0.0062,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Dumetella carolinensis,Gray Catbird,0.0059,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Sarcops calvus,Coleto,0.0057,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Spizelloides arborea,American Tree Sparrow,0.0057,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+0.0,3.0,Rallus elegans,King Rail,0.0056,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Turdus migratorius,American Robin,0.1130,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Sturnus vulgaris,European Starling,0.0692,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile atricapillus,Black-capped Chickadee,0.0544,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Phacellodomus striaticollis,Freckle-breasted Thornbird,0.0496,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Euphagus carolinus,Rusty Blackbird,0.0196,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile carolinensis,Carolina Chickadee,0.0186,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Parus major,Great Tit,0.0150,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Spizelloides arborea,American Tree Sparrow,0.0142,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Turdus flavipes,Yellow-legged Thrush,0.0141,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile palustris,Marsh Tit,0.0125,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Phylidonyris pyrrhopterus,Crescent Honeyeater,0.0116,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Coccothraustes vespertinus,Evening Grosbeak,0.0107,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile gambeli,Mountain Chickadee,0.0103,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Dumetella carolinensis,Gray Catbird,0.0085,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Xenotriccus mexicanus,Pileated Flycatcher,0.0079,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile hudsonicus,Boreal Chickadee,0.0070,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Melozone aberti,Abert's Towhee,0.0067,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Phylidonyris novaehollandiae,New Holland Honeyeater,0.0048,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Baeolophus inornatus,Oak Titmouse,0.0045,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+3.0,6.0,Grallina cyanoleuca,Magpie-lark,0.0043,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Sturnus vulgaris,European Starling,0.3068,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus chloronotus,Lemon-rumped Warbler,0.0576,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Sturnus unicolor,Spotless Starling,0.0534,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Parus major,Great Tit,0.0368,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Baeolophus atricristatus,Black-crested Titmouse,0.0264,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Pastor roseus,Rosy Starling,0.0254,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Baeolophus inornatus,Oak Titmouse,0.0205,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus pulcher,Buff-barred Warbler,0.0203,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Cacicus haemorrhous,Red-rumped Cacique,0.0166,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Argya subrufa,Rufous Babbler,0.0129,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Stephanoxis loddigesii,Purple-crowned Plovercrest,0.0116,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Anas platyrhynchos,Mallard,0.0115,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Sericornis frontalis,White-browed Scrubwren,0.0113,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Callipepla californica,California Quail,0.0106,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Selasphorus platycercus,Broad-tailed Hummingbird,0.0101,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Zonotrichia atricapilla,Golden-crowned Sparrow,0.0097,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Empidonax flavescens,Yellowish Flycatcher,0.0087,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Lampornis clemenciae,Blue-throated Mountain-gem,0.0087,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Dives dives,Melodious Blackbird,0.0077,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+6.0,9.0,Tityra semifasciata,Masked Tityra,0.0066,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Sturnus unicolor,Spotless Starling,0.2851,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Sturnus vulgaris,European Starling,0.2004,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Pseudoleistes guirahuro,Yellow-rumped Marshbird,0.1815,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Pastor roseus,Rosy Starling,0.0895,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Gracupica contra,Asian Pied Starling,0.0777,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Rhopospina fruticeti,Mourning Sierra Finch,0.0564,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Monticola solitarius,Blue Rock-Thrush,0.0264,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Turdus merula,Eurasian Blackbird,0.0153,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Cecropis daurica,Red-rumped Swallow,0.0149,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Dives warczewiczi,Scrub Blackbird,0.0147,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Molothrus rufoaxillaris,Screaming Cowbird,0.0125,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Argya subrufa,Rufous Babbler,0.0111,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Luscinia megarhynchos,Common Nightingale,0.0108,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Sporophila luctuosa,Black-and-white Seedeater,0.0099,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Ploceus cucullatus,Village Weaver,0.0078,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Tityra cayana,Black-tailed Tityra,0.0071,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Euphagus cyanocephalus,Brewer's Blackbird,0.0071,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Promerops cafer,Cape Sugarbird,0.0067,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Human vocal,Human vocal,0.0061,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01
+9.0,10.0,Lanius collaris,Southern Fiscal,0.0058,Birdsongs Recordings\8ft\European_Starling_8ft.wav,-1,-1,27,0.01

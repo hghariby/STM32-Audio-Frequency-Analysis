@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Sayornis nigricans,Black Phoebe,0.9975,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Psaltriparus minimus,Bushtit,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Engine,Engine,0.0004,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Tyrannus melancholicus,Tropical Kingbird,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Sayornis phoebe,Eastern Phoebe,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Zonotrichia capensis,Rufous-collared Sparrow,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Leptocoma zeylonica,Purple-rumped Sunbird,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Phylloscopus humei,Hume's Warbler,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Human vocal,Human vocal,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Serpophaga griseicapilla,Straneck's Tyrannulet,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Melozone crissalis,California Towhee,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Troglodytes aedon,House Wren,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Auriparus flaviceps,Verdin,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Poecile rufescens,Chestnut-backed Chickadee,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Larus occidentalis,Western Gull,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Accipiter badius,Shikra,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Charadrius vociferus,Killdeer,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sayornis nigricans,Black Phoebe,0.9997,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Engine,Engine,0.0089,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza calandra,Corn Bunting,0.0029,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Serpophaga griseicapilla,Straneck's Tyrannulet,0.0020,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza hortulana,Ortolan Bunting,0.0018,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Siren,Siren,0.0014,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Psaltriparus minimus,Bushtit,0.0012,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sayornis phoebe,Eastern Phoebe,0.0011,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Tyrannus melancholicus,Tropical Kingbird,0.0010,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Human vocal,Human vocal,0.0010,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Aegolius funereus,Boreal Owl,0.0009,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Anthus campestris,Tawny Pipit,0.0007,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0006,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Leiothlypis luciae,Lucy's Warbler,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Poecile rufescens,Chestnut-backed Chickadee,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Rallus aquaticus,Water Rail,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Dog,Dog,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Sayornis saya,Say's Phoebe,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Chordeiles minor,Common Nighthawk,0.0004,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Hydropsalis cayennensis,White-tailed Nightjar,0.0004,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Sayornis nigricans,Black Phoebe,0.9992,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Sayornis phoebe,Eastern Phoebe,0.0011,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Psaltriparus minimus,Bushtit,0.0009,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus humei,Hume's Warbler,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0003,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Engine,Engine,0.0003,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Poecile rufescens,Chestnut-backed Chickadee,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Leptocoma zeylonica,Purple-rumped Sunbird,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Melozone crissalis,California Towhee,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Alcedo atthis,Common Kingfisher,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Empidonax hammondii,Hammond's Flycatcher,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Tyrannus melancholicus,Tropical Kingbird,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Accipiter cooperii,Cooper's Hawk,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Sayornis saya,Say's Phoebe,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Human vocal,Human vocal,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Spinus psaltria,Lesser Goldfinch,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Serpophaga griseicapilla,Straneck's Tyrannulet,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Auriparus flaviceps,Verdin,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Sayornis nigricans,Black Phoebe,0.9991,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0011,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Sayornis phoebe,Eastern Phoebe,0.0010,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Tyrannus melancholicus,Tropical Kingbird,0.0009,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Psaltriparus minimus,Bushtit,0.0008,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Phylloscopus humei,Hume's Warbler,0.0005,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Leptocoma zeylonica,Purple-rumped Sunbird,0.0004,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Baeolophus inornatus,Oak Titmouse,0.0003,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Colorhamphus parvirostris,Patagonian Tyrant,0.0003,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Tyrannus dominicensis,Gray Kingbird,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Serpophaga griseicapilla,Straneck's Tyrannulet,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Apus apus,Common Swift,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Poecile rufescens,Chestnut-backed Chickadee,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Passerina amoena,Lazuli Bunting,0.0002,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Siren,Siren,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Human vocal,Human vocal,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Argya affinis,Yellow-billed Babbler,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Melozone crissalis,California Towhee,0.0001,Birdsongs Recordings\4ft\Black_Phoebe_4ft.wav,-1,-1,27,0.01

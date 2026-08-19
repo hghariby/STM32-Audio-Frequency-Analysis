@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Setophaga cerulea,Cerulean Warbler,0.3605,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0927,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo chlorurus,Green-tailed Towhee,0.0535,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Ammodramus aurifrons,Yellow-browed Sparrow,0.0231,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga graciae,Grace's Warbler,0.0190,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0150,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0107,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Phylloscopus coronatus,Eastern Crowned Warbler,0.0098,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga caerulescens,Black-throated Blue Warbler,0.0088,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Leiothlypis virginiae,Virginia's Warbler,0.0085,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Junco phaeonotus,Yellow-eyed Junco,0.0069,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Thryomanes bewickii,Bewick's Wren,0.0067,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Passerina amoena,Lazuli Bunting,0.0066,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Troglodytes troglodytes,Eurasian Wren,0.0064,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0057,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Troglodytes pacificus,Pacific Wren,0.0053,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Phylloscopus xanthodryas,Japanese Leaf Warbler,0.0049,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Phoenicurus phoenicurus,Common Redstart,0.0046,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Helmitheros vermivorum,Worm-eating Warbler,0.0045,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Erithacus rubecula,European Robin,0.0038,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Pipilo maculatus,Spotted Towhee,0.1384,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Prinia socialis,Ashy Prinia,0.1278,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Larvivora cyane,Siberian Blue Robin,0.1171,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Pipilo erythrophthalmus,Eastern Towhee,0.1068,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Phylloscopus griseolus,Sulphur-bellied Warbler,0.0260,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Euphonia xanthogaster,Orange-bellied Euphonia,0.0242,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Motacilla maderaspatensis,White-browed Wagtail,0.0199,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Otus bakkamoena,Indian Scops-Owl,0.0122,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Toxorhamphus novaeguineae,Yellow-bellied Longbill,0.0076,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Peucaea aestivalis,Bachman's Sparrow,0.0076,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Erithacus rubecula,European Robin,0.0075,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Prinia flaviventris,Yellow-bellied Prinia,0.0074,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Passerina cyanea,Indigo Bunting,0.0073,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Ficedula hypoleuca,European Pied Flycatcher,0.0071,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Parus major,Great Tit,0.0066,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Microeca flavigaster,Lemon-bellied Flycatcher,0.0064,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.0062,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Catharus aurantiirostris,Orange-billed Nightingale-Thrush,0.0057,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Geothlypis philadelphia,Mourning Warbler,0.0056,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Phylloscopus ibericus,Iberian Chiffchaff,0.0055,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga cerulea,Cerulean Warbler,0.5976,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Melospiza lincolnii,Lincoln's Sparrow,0.0405,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo chlorurus,Green-tailed Towhee,0.0370,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.0267,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Prinia flaviventris,Yellow-bellied Prinia,0.0143,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Passerina ciris,Painted Bunting,0.0095,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Geothlypis philadelphia,Mourning Warbler,0.0077,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0074,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0065,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Helmitheros vermivorum,Worm-eating Warbler,0.0060,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Vermivora cyanoptera,Blue-winged Warbler,0.0055,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0052,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga caerulescens,Black-throated Blue Warbler,0.0050,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Otus lettia,Collared Scops-Owl,0.0044,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Parkesia motacilla,Louisiana Waterthrush,0.0044,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0040,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0038,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Melanospiza bicolor,Black-faced Grassquit,0.0038,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Engine,Engine,0.0037,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Caprimulgus asiaticus,Indian Nightjar,0.0033,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Prinia inornata,Plain Prinia,0.0213,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Rallina eurizonoides,Slaty-legged Crake,0.0119,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0080,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Prinia socialis,Ashy Prinia,0.0074,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Caprimulgus asiaticus,Indian Nightjar,0.0062,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0056,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Caprimulgus affinis,Savanna Nightjar,0.0051,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Gallirallus philippensis,Buff-banded Rail,0.0051,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Otus bakkamoena,Indian Scops-Owl,0.0047,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Athene brama,Spotted Owlet,0.0045,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Prinia flaviventris,Yellow-bellied Prinia,0.0044,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Otus lettia,Collared Scops-Owl,0.0033,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Cisticola exilis,Golden-headed Cisticola,0.0033,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Odocoileus virginianus,White-tailed Deer,0.0032,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Lonchura atricapilla,Chestnut Munia,0.0031,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Ninox scutulata,Brown Boobook,0.0031,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Anthus rufulus,Paddyfield Pipit,0.0030,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Francolinus pictus,Painted Francolin,0.0030,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Lanius cristatus,Brown Shrike,0.0028,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Zapornia fusca,Ruddy-breasted Crake,0.0027,Birdsongs Recordings\48ft\Spotted_Towhee_48ft.wav,-1,-1,27,0.01

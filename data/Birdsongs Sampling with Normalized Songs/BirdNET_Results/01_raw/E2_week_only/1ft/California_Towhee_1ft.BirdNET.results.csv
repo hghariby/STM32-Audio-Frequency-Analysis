@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Melozone crissalis,California Towhee,0.9986,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Melozone albicollis,White-throated Towhee,0.0016,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.0014,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Polioptila californica,California Gnatcatcher,0.0013,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Melozone aberti,Abert's Towhee,0.0011,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Cardinalis sinuatus,Pyrrhuloxia,0.0010,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Zonotrichia atricapilla,Golden-crowned Sparrow,0.0010,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Toxostoma redivivum,California Thrasher,0.0010,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Passerella iliaca,Fox Sparrow,0.0009,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0006,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0005,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Aphelocoma californica,California Scrub-Jay,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Parkesia noveboracensis,Northern Waterthrush,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Calypte anna,Anna's Hummingbird,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Melozone fusca,Canyon Towhee,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Icterus cucullatus,Hooded Oriole,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Accipiter cooperii,Cooper's Hawk,0.0003,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Phoenicurus ochruros,Black Redstart,0.0003,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+0.0,3.0,Cardellina pusilla,Wilson's Warbler,0.0003,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Sayornis nigricans,Black Phoebe,0.2448,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.1063,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza hortulana,Ortolan Bunting,0.0600,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Anthreptes malacensis,Brown-throated Sunbird,0.0266,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0261,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0194,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Engine,Engine,0.0191,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Chordeiles minor,Common Nighthawk,0.0162,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0154,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0119,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.0107,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0100,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0072,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax flaviventris,Yellow-bellied Flycatcher,0.0072,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Haemorhous purpureus,Purple Finch,0.0067,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Sitta pygmaea,Pygmy Nuthatch,0.0060,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga citrina,Hooded Warbler,0.0055,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Passer cinnamomeus,Russet Sparrow,0.0055,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Streptopelia decaocto,Eurasian Collared-Dove,0.0049,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.0046,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Melozone crissalis,California Towhee,0.9976,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Melozone aberti,Abert's Towhee,0.0066,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.0019,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.0013,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Polioptila californica,California Gnatcatcher,0.0012,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Toxostoma redivivum,California Thrasher,0.0010,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Anthus spinoletta,Water Pipit,0.0010,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Melozone albicollis,White-throated Towhee,0.0009,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0009,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Polioptila caerulea,Blue-gray Gnatcatcher,0.0006,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Melozone fusca,Canyon Towhee,0.0006,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0006,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Accipiter cooperii,Cooper's Hawk,0.0005,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0005,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Aphelocoma californica,California Scrub-Jay,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga citrina,Hooded Warbler,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Psaltriparus minimus,Bushtit,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Spizella atrogularis,Black-chinned Sparrow,0.0004,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Catharus bicknelli,Bicknell's Thrush,0.0003,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+6.0,9.0,Aeronautes saxatalis,White-throated Swift,0.0003,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Selasphorus sasin,Allen's Hummingbird,0.0368,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Selasphorus rufus,Rufous Hummingbird,0.0226,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Arremon brunneinucha,Chestnut-capped Brushfinch,0.0207,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Melanospiza bicolor,Black-faced Grassquit,0.0178,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Acanthisitta chloris,Rifleman,0.0140,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0127,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Mellisuga helenae,Bee Hummingbird,0.0099,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Calypte costae,Costa's Hummingbird,0.0068,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0060,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Ammodramus savannarum,Grasshopper Sparrow,0.0057,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Regulus satrapa,Golden-crowned Kinglet,0.0057,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Strix leptogrammica,Brown Wood-Owl,0.0055,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Adelomyia melanogenys,Speckled Hummingbird,0.0052,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Ciccaba albitarsis,Rufous-banded Owl,0.0051,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Oreothraupis arremonops,Tanager Finch,0.0049,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0047,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Asio otus,Long-eared Owl,0.0046,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Arremon taciturnus,Pectoral Sparrow,0.0041,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Andigena nigrirostris,Black-billed Mountain-Toucan,0.0041,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01
+9.0,10.0,Colibri coruscans,Sparkling Violetear,0.0035,Birdsongs Recordings\1ft\California_Towhee_1ft.wav,-1,-1,27,0.01

@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Turdus pilaris,Fieldfare,0.0296,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Fulica atra,Eurasian Coot,0.0158,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0136,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Emberiza citrinella,Yellowhammer,0.0093,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Botaurus stellaris,Great Bittern,0.0092,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Pluvialis apricaria,European Golden-Plover,0.0067,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Emberiza calandra,Corn Bunting,0.0064,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Coturnix coturnix,Common Quail,0.0061,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Phasianus colchicus,Ring-necked Pheasant,0.0059,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Phoenicurus ochruros,Black Redstart,0.0057,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Actitis hypoleucos,Common Sandpiper,0.0056,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Corvus corone,Carrion Crow,0.0055,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Numenius arquata,Eurasian Curlew,0.0052,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Bubo bubo,Eurasian Eagle-Owl,0.0052,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Buteo buteo,Common Buzzard,0.0051,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Petroica macrocephala,Tomtit,0.0051,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Anthus trivialis,Tree Pipit,0.0050,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Corvus frugilegus,Rook,0.0050,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Sicalis auriventris,Greater Yellow-Finch,0.0049,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+0.0,3.0,Certhia familiaris,Eurasian Treecreeper,0.0044,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.5861,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga ruticilla,American Redstart,0.0279,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0245,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Odocoileus virginianus,White-tailed Deer,0.0243,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax minimus,Least Flycatcher,0.0179,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0108,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Cardellina pusilla,Wilson's Warbler,0.0102,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Leiothlypis ruficapilla,Nashville Warbler,0.0084,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Geothlypis philadelphia,Mourning Warbler,0.0069,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Oporornis agilis,Connecticut Warbler,0.0067,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax traillii,Willow Flycatcher,0.0053,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0053,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.0052,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Empidonax alnorum,Alder Flycatcher,0.0050,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Melospiza lincolnii,Lincoln's Sparrow,0.0050,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.0048,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Vermivora cyanoptera,Blue-winged Warbler,0.0046,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Mniotilta varia,Black-and-white Warbler,0.0038,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0037,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+3.0,6.0,Contopus cooperi,Olive-sided Flycatcher,0.0035,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus trochiloides,Greenish Warbler,0.1793,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Larvivora cyane,Siberian Blue Robin,0.1129,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga ruticilla,American Redstart,0.0721,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Larvivora brunnea,Indian Blue Robin,0.0382,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus nitidus,Green Warbler,0.0215,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga citrina,Hooded Warbler,0.0180,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Helmitheros vermivorum,Worm-eating Warbler,0.0167,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga caerulescens,Black-throated Blue Warbler,0.0133,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga cerulea,Cerulean Warbler,0.0113,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Protonotaria citrea,Prothonotary Warbler,0.0102,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0096,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Empidonax minimus,Least Flycatcher,0.0091,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Parkesia motacilla,Louisiana Waterthrush,0.0084,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Cardellina canadensis,Canada Warbler,0.0081,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0081,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Seiurus aurocapilla,Ovenbird,0.0078,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Odocoileus virginianus,White-tailed Deer,0.0077,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Leiothlypis ruficapilla,Nashville Warbler,0.0069,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0069,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+6.0,9.0,Phylloscopus coronatus,Eastern Crowned Warbler,0.0066,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0072,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Hemitriccus granadensis,Black-throated Tody-Tyrant,0.0056,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Catharus bicknelli,Bicknell's Thrush,0.0053,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0052,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Ciccaba albitarsis,Rufous-banded Owl,0.0052,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Tetrao urogallus,Western Capercaillie,0.0050,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0048,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Fireworks,Fireworks,0.0043,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Dendragapus obscurus,Dusky Grouse,0.0039,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Scytalopus latrans,Blackish Tapaculo,0.0039,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Serinus canaria,Island Canary,0.0037,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Colaptes rivolii,Crimson-mantled Woodpecker,0.0035,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Grallaria nuchalis,Chestnut-naped Antpitta,0.0034,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Phylloscopus trochiloides,Greenish Warbler,0.0033,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Diglossa humeralis,Black Flowerpiercer,0.0032,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0032,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Turdus fuscater,Great Thrush,0.0031,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Melanospiza bicolor,Black-faced Grassquit,0.0030,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Dendragapus fuliginosus,Sooty Grouse,0.0028,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0027,Birdsongs Recordings\36ft\Northern_Yellow_Warbler_36ft.wav,-1,-1,27,0.01

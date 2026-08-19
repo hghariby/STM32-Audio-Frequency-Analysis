@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Vireo bellii,Bell's Vireo,0.1415,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Empidonax alnorum,Alder Flycatcher,0.0917,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Caprimulgus affinis,Savanna Nightjar,0.0479,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Geothlypis philadelphia,Mourning Warbler,0.0354,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Geothlypis trichas,Common Yellowthroat,0.0281,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Oporornis agilis,Connecticut Warbler,0.0277,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga dominica,Yellow-throated Warbler,0.0207,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Phylloscopus examinandus,Kamchatka Leaf Warbler,0.0174,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Sitta canadensis,Red-breasted Nuthatch,0.0167,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Phoenicurus ochruros,Black Redstart,0.0167,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Falco peregrinus,Peregrine Falcon,0.0166,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga coronata,Yellow-rumped Warbler,0.0151,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Cypsiurus balasiensis,Asian Palm-Swift,0.0145,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Hirundo rustica,Barn Swallow,0.0128,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Empidonax traillii,Willow Flycatcher,0.0122,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0115,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Elaenia brachyptera,Coopmans's Elaenia,0.0087,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0081,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga magnolia,Magnolia Warbler,0.0081,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga pinus,Pine Warbler,0.0071,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.8637,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Aeronautes saxatalis,White-throated Swift,0.0225,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Tyrannus verticalis,Western Kingbird,0.0188,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Myzomela rubratra,Micronesian Myzomela,0.0060,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Emberiza hortulana,Ortolan Bunting,0.0041,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Delichon urbicum,Common House-Martin,0.0032,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Riparia riparia,Bank Swallow,0.0032,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Falco columbarius,Merlin,0.0032,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Alcedo atthis,Common Kingfisher,0.0031,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Spinus spinus,Eurasian Siskin,0.0031,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.0029,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Loxia leucoptera,White-winged Crossbill,0.0028,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Botaurus stellaris,Great Bittern,0.0026,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Iduna pallida,Eastern Olivaceous Warbler,0.0026,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Vireo bellii,Bell's Vireo,0.0026,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Ficedula hypoleuca,European Pied Flycatcher,0.0026,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Acrocephalus schoenobaenus,Sedge Warbler,0.0025,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Apus melba,Alpine Swift,0.0023,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0022,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+3.0,6.0,Carduelis carduelis,European Goldfinch,0.0021,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.1961,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0922,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0265,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Cynanthus latirostris,Broad-billed Hummingbird,0.0223,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0122,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.0119,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Cecropis daurica,Red-rumped Swallow,0.0108,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Calypte anna,Anna's Hummingbird,0.0107,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Vireo cassinii,Cassin's Vireo,0.0081,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.0073,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Zenaida asiatica,White-winged Dove,0.0073,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Aphelocoma californica,California Scrub-Jay,0.0070,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Callipepla gambelii,Gambel's Quail,0.0068,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Terpsiphone bourbonnensis,Mascarene Paradise-Flycatcher,0.0068,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Tyrannus verticalis,Western Kingbird,0.0067,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Geococcyx californianus,Greater Roadrunner,0.0061,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Tyrannus vociferans,Cassin's Kingbird,0.0061,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Patagioenas fasciata,Band-tailed Pigeon,0.0058,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0057,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+6.0,9.0,Pica hudsonia,Black-billed Magpie,0.0055,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Hirundo rustica,Barn Swallow,0.1149,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Spinus spinus,Eurasian Siskin,0.0771,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Turdus iliacus,Redwing,0.0611,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Haemorhous mexicanus,House Finch,0.0337,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Spinus barbatus,Black-chinned Siskin,0.0195,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Vireo leucophrys,Brown-capped Vireo,0.0134,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Vireo gilvus,Warbling Vireo,0.0105,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Curruca communis,Greater Whitethroat,0.0098,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Sylvia borin,Garden Warbler,0.0081,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Spinus spinescens,Andean Siskin,0.0075,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Erithacus rubecula,European Robin,0.0073,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Turdus pilaris,Fieldfare,0.0062,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Curruca curruca,Lesser Whitethroat,0.0052,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Phoenicurus phoenicurus,Common Redstart,0.0050,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Tyrannus verticalis,Western Kingbird,0.0047,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Emberiza rustica,Rustic Bunting,0.0045,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0043,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Carduelis carduelis,European Goldfinch,0.0043,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Sclerurus albigularis,Gray-throated Leaftosser,0.0039,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01
+9.0,10.0,Ficedula hypoleuca,European Pied Flycatcher,0.0038,Birdsongs Recordings\48ft\Barn_Swallow_48ft.wav,-1,-1,27,0.01

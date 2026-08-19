@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Pipilo maculatus,Spotted Towhee,0.9862,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo chlorurus,Green-tailed Towhee,0.0338,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Junco phaeonotus,Yellow-eyed Junco,0.0030,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Leiothlypis virginiae,Virginia's Warbler,0.0020,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Pipilo erythrophthalmus,Eastern Towhee,0.0011,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.0007,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0006,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Emberiza schoeniclus,Reed Bunting,0.0004,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Piranga ludoviciana,Western Tanager,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Catharus aurantiirostris,Orange-billed Nightingale-Thrush,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Vireo plumbeus,Plumbeous Vireo,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Empidonax hammondii,Hammond's Flycatcher,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Passerella iliaca,Fox Sparrow,0.0001,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0001,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Turdus migratorius,American Robin,0.0001,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga graciae,Grace's Warbler,0.0001,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+0.0,3.0,Setophaga coronata,Yellow-rumped Warbler,0.0001,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0674,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Charadrius dubius,Little Ringed Plover,0.0359,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Chamaea fasciata,Wrentit,0.0348,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Haematopus ostralegus,Eurasian Oystercatcher,0.0318,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Coccothraustes vespertinus,Evening Grosbeak,0.0251,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0179,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Scytalopus urubambae,Vilcabamba Tapaculo,0.0135,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Rallus limicola,Virginia Rail,0.0122,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Todiramphus sanctus,Sacred Kingfisher,0.0091,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Turdus philomelos,Song Thrush,0.0085,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Strix aluco,Tawny Owl,0.0077,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Bucephala clangula,Common Goldeneye,0.0074,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Rallus aquaticus,Water Rail,0.0071,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Fulica atra,Eurasian Coot,0.0066,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Phoenicurus ochruros,Black Redstart,0.0063,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Todiramphus chloris,Collared Kingfisher,0.0059,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.0059,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Tringa melanoleuca,Greater Yellowlegs,0.0058,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0057,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+3.0,6.0,Anthus trivialis,Tree Pipit,0.0055,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo maculatus,Spotted Towhee,0.9896,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo chlorurus,Green-tailed Towhee,0.1019,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Leiothlypis virginiae,Virginia's Warbler,0.0044,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Pipilo erythrophthalmus,Eastern Towhee,0.0042,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Aimophila ruficeps,Rufous-crowned Sparrow,0.0007,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Melospiza lincolnii,Lincoln's Sparrow,0.0006,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Passerella iliaca,Fox Sparrow,0.0005,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Junco phaeonotus,Yellow-eyed Junco,0.0005,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Catharus aurantiirostris,Orange-billed Nightingale-Thrush,0.0004,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.0004,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Piranga ludoviciana,Western Tanager,0.0003,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Vireo plumbeus,Plumbeous Vireo,0.0003,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0003,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Turdus philomelos,Song Thrush,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Turdus migratorius,American Robin,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Leiothlypis celata,Orange-crowned Warbler,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Spiza americana,Dickcissel,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Aimophila rufescens,Rusty Sparrow,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+6.0,9.0,Emberiza schoeniclus,Reed Bunting,0.0002,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Bombycilla garrulus,Bohemian Waxwing,0.1361,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Alcedo atthis,Common Kingfisher,0.1208,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Prunella modularis,Dunnock,0.0232,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Apus apus,Common Swift,0.0187,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0130,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Selasphorus platycercus,Broad-tailed Hummingbird,0.0114,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Apus affinis,Little Swift,0.0098,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Anthus trivialis,Tree Pipit,0.0097,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Melozone crissalis,California Towhee,0.0095,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Passerina amoena,Lazuli Bunting,0.0085,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Leiothlypis virginiae,Virginia's Warbler,0.0085,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Accipiter cooperii,Cooper's Hawk,0.0078,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Francolinus pictus,Painted Francolin,0.0076,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Falco columbarius,Merlin,0.0075,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Calypte anna,Anna's Hummingbird,0.0069,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Sayornis nigricans,Black Phoebe,0.0068,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Phylloscopus tenellipes,Pale-legged Leaf Warbler,0.0064,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Spizella pallida,Clay-colored Sparrow,0.0061,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Bombycilla cedrorum,Cedar Waxwing,0.0058,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01
+9.0,10.0,Dryobates villosus,Hairy Woodpecker,0.0058,Birdsongs Recordings\4ft\Spotted_Towhee_4ft.wav,-1,-1,27,0.01

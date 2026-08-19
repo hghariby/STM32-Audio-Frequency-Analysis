@@ -1,0 +1,561 @@
+experiment,bird,distance,file,mean_correct_top1,mean_correct_top3,mean_correct_top5,mean_expected_rank,max_correct_top1,max_correct_top3,max_correct_top5,max_expected_rank,expected_detected,expected_max_active_window_confidence,expected_mean_active_window_confidence,active_window_detection_rate,reference_1ft_confidence,confidence_change_from_1ft,confidence_retention_from_1ft
+E1_no_metadata,American Robin,1ft,American_Robin_1ft.wav,True,True,True,1,True,True,True,1,True,0.9906,0.9196,1.0,0.9196,0.0,1.0
+E1_no_metadata,Anna's Hummingbird,1ft,Annas_Hummingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.9953,0.94445,1.0,0.94445,0.0,1.0
+E1_no_metadata,Barn Swallow,1ft,Barn_Swallow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9841,0.9812333333333334,1.0,0.9812333333333334,0.0,1.0
+E1_no_metadata,Bewick's Wren,1ft,Bewicks_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.8609,0.8609,1.0,0.8609,0.0,1.0
+E1_no_metadata,Black Phoebe,1ft,Black_Phoebe_1ft.wav,True,True,True,1,True,True,True,1,True,0.9998,0.9997250000000001,1.0,0.9997250000000001,0.0,1.0
+E1_no_metadata,California Towhee,1ft,California_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9981,1.0,0.9981,0.0,1.0
+E1_no_metadata,Dark-eyed Junco,1ft,Dark_eyed_Junco_1ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.9764999999999999,1.0,0.9764999999999999,0.0,1.0
+E1_no_metadata,European Starling,1ft,European_Starling_1ft.wav,True,True,True,1,True,True,True,1,True,0.7345,0.344325,1.0,0.344325,0.0,1.0
+E1_no_metadata,Hooded Oriole,1ft,Hooded_Oriole_1ft.wav,True,True,True,1,True,True,True,1,True,0.8867,0.755325,1.0,0.755325,0.0,1.0
+E1_no_metadata,House Finch,1ft,House_Finch_1ft.wav,True,True,True,1,True,True,True,1,True,0.6925,0.6496333333333334,1.0,0.6496333333333334,0.0,1.0
+E1_no_metadata,House Sparrow,1ft,House_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.8738,0.5964,1.0,0.5964,0.0,1.0
+E1_no_metadata,Lesser Goldfinch,1ft,Lesser_Goldfinch_1ft.wav,False,True,True,2,False,False,True,4,True,0.1137,0.06257499999999999,1.0,0.06257499999999999,0.0,1.0
+E1_no_metadata,Mourning Dove,1ft,Mourning_Dove_1ft.wav,True,True,True,1,True,True,True,1,True,0.9285,0.7801,1.0,0.7801,0.0,1.0
+E1_no_metadata,Northern House Wren,1ft,Northern_House_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.992,0.7593666666666667,1.0,0.7593666666666667,0.0,1.0
+E1_no_metadata,Northern Mockingbird,1ft,Northern_Mockingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.5772,0.31210000000000004,0.75,0.31210000000000004,0.0,1.0
+E1_no_metadata,Northern Yellow Warbler,1ft,Northern_Yellow_Warbler_1ft.wav,True,True,True,1,True,True,True,1,True,0.9617,0.9617,1.0,0.9617,0.0,1.0
+E1_no_metadata,Oak Titmouse,1ft,Oak_Titmouse_1ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.910375,1.0,0.910375,0.0,1.0
+E1_no_metadata,Rock Pigeon,1ft,Rock_Pigeon_1ft.wav,True,True,True,1,True,True,True,1,True,0.9875,0.8856333333333333,1.0,0.8856333333333333,0.0,1.0
+E1_no_metadata,Song Sparrow,1ft,Song_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9159,0.9159,1.0,0.9159,0.0,1.0
+E1_no_metadata,Spotted Towhee,1ft,Spotted_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9864,0.9761,1.0,0.9761,0.0,1.0
+E1_no_metadata,American Robin,4ft,American_Robin_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.937825,1.0,0.9196,0.018225000000000047,1.0198183993040453
+E1_no_metadata,Anna's Hummingbird,4ft,Annas_Hummingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.9993,0.9959749999999999,1.0,0.94445,0.05152499999999993,1.0545555614378739
+E1_no_metadata,Barn Swallow,4ft,Barn_Swallow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9994000000000001,1.0,0.9812333333333334,0.018166666666666664,1.0185141148894248
+E1_no_metadata,Bewick's Wren,4ft,Bewicks_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.7954,0.7954,1.0,0.8609,-0.0655,0.9239168312231386
+E1_no_metadata,Black Phoebe,4ft,Black_Phoebe_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.998875,1.0,0.9997250000000001,-0.0008500000000001284,0.999149766185701
+E1_no_metadata,California Towhee,4ft,California_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.99595,1.0,0.9981,-0.0021499999999999853,0.9978459072237251
+E1_no_metadata,Dark-eyed Junco,4ft,Dark_eyed_Junco_4ft.wav,True,True,True,1,True,True,True,1,True,0.983,0.9716,1.0,0.9764999999999999,-0.004899999999999904,0.9949820788530467
+E1_no_metadata,European Starling,4ft,European_Starling_4ft.wav,True,True,True,1,True,True,True,1,True,0.6804,0.2636,1.0,0.344325,-0.08072499999999999,0.7655557975749655
+E1_no_metadata,Hooded Oriole,4ft,Hooded_Oriole_4ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.928525,1.0,0.755325,0.17320000000000002,1.229305265945123
+E1_no_metadata,House Finch,4ft,House_Finch_4ft.wav,True,True,True,1,True,True,True,1,True,0.9675,0.8809333333333335,1.0,0.6496333333333334,0.23130000000000006,1.356047000872287
+E1_no_metadata,House Sparrow,4ft,House_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.6954,0.4852,1.0,0.5964,-0.11120000000000002,0.8135479543930247
+E1_no_metadata,Lesser Goldfinch,4ft,Lesser_Goldfinch_4ft.wav,True,True,True,1,False,False,True,4,True,0.4046,0.217675,1.0,0.06257499999999999,0.15510000000000002,3.4786256492209353
+E1_no_metadata,Mourning Dove,4ft,Mourning_Dove_4ft.wav,True,True,True,1,True,True,True,1,True,0.9449,0.8314666666666666,1.0,0.7801,0.05136666666666656,1.0658462590266204
+E1_no_metadata,Northern House Wren,4ft,Northern_House_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.9978,0.8470333333333334,1.0,0.7593666666666667,0.08766666666666667,1.115447083095562
+E1_no_metadata,Northern Mockingbird,4ft,Northern_Mockingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.8118,0.359625,0.75,0.31210000000000004,0.04752499999999993,1.1522749118872153
+E1_no_metadata,Northern Yellow Warbler,4ft,Northern_Yellow_Warbler_4ft.wav,True,True,True,1,True,True,True,1,True,0.9331,0.9331,1.0,0.9617,-0.02859999999999996,0.9702609961526464
+E1_no_metadata,Oak Titmouse,4ft,Oak_Titmouse_4ft.wav,True,True,True,1,True,True,True,1,True,0.9989,0.894675,1.0,0.910375,-0.015700000000000047,0.9827543594672524
+E1_no_metadata,Rock Pigeon,4ft,Rock_Pigeon_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9934666666666666,1.0,0.8856333333333333,0.10783333333333334,1.1217584402875531
+E1_no_metadata,Song Sparrow,4ft,Song_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9624,0.9624,1.0,0.9159,0.046499999999999986,1.050769734687193
+E1_no_metadata,Spotted Towhee,4ft,Spotted_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9896,0.9879,1.0,0.9761,0.011800000000000033,1.0120889253150291
+E1_no_metadata,American Robin,8ft,American_Robin_8ft.wav,True,True,True,1,True,True,True,1,True,0.969,0.85685,1.0,0.9196,-0.06274999999999997,0.9317638103523271
+E1_no_metadata,Anna's Hummingbird,8ft,Annas_Hummingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9588000000000001,1.0,0.94445,0.014350000000000085,1.015194028270422
+E1_no_metadata,Barn Swallow,8ft,Barn_Swallow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9903666666666666,1.0,0.9812333333333334,0.009133333333333216,1.0093080137242245
+E1_no_metadata,Bewick's Wren,8ft,Bewicks_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.8914,0.8914,1.0,0.8609,0.03049999999999997,1.0354280404228133
+E1_no_metadata,Black Phoebe,8ft,Black_Phoebe_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9988999999999999,1.0,0.9997250000000001,-0.0008250000000001867,0.9991747730625921
+E1_no_metadata,California Towhee,8ft,California_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9963500000000001,1.0,0.9981,-0.0017499999999999183,0.998246668670474
+E1_no_metadata,Dark-eyed Junco,8ft,Dark_eyed_Junco_8ft.wav,True,True,True,1,True,True,True,1,True,0.9858,0.97185,1.0,0.9764999999999999,-0.004649999999999932,0.9952380952380953
+E1_no_metadata,European Starling,8ft,European_Starling_8ft.wav,True,True,True,1,False,True,True,2,True,0.3068,0.1441,0.75,0.344325,-0.200225,0.41849996369708853
+E1_no_metadata,Hooded Oriole,8ft,Hooded_Oriole_8ft.wav,True,True,True,1,True,True,True,1,True,0.9939,0.6775,1.0,0.755325,-0.07782500000000003,0.8969648826664018
+E1_no_metadata,House Finch,8ft,House_Finch_8ft.wav,True,True,True,1,True,True,True,1,True,0.6912,0.29940000000000005,1.0,0.6496333333333334,-0.35023333333333334,0.46087536559084613
+E1_no_metadata,House Sparrow,8ft,House_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.3691,0.288925,1.0,0.5964,-0.30747500000000005,0.4844483568075117
+E1_no_metadata,Lesser Goldfinch,8ft,Lesser_Goldfinch_8ft.wav,True,True,True,1,True,True,True,1,True,0.4873,0.1922,1.0,0.06257499999999999,0.12962500000000002,3.0715141829804242
+E1_no_metadata,Mourning Dove,8ft,Mourning_Dove_8ft.wav,False,True,True,2,True,True,True,1,True,0.5156,0.21356666666666665,1.0,0.7801,-0.5665333333333333,0.2737683203008161
+E1_no_metadata,Northern House Wren,8ft,Northern_House_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.9958,0.7113666666666667,1.0,0.7593666666666667,-0.04800000000000004,0.9367894297879812
+E1_no_metadata,Northern Mockingbird,8ft,Northern_Mockingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.8684,0.4608,1.0,0.31210000000000004,0.14869999999999994,1.4764498558154435
+E1_no_metadata,Northern Yellow Warbler,8ft,Northern_Yellow_Warbler_8ft.wav,True,True,True,1,True,True,True,1,True,0.9017,0.9017,1.0,0.9617,-0.06000000000000005,0.9376104814391182
+E1_no_metadata,Oak Titmouse,8ft,Oak_Titmouse_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7524,1.0,0.910375,-0.1579750000000001,0.8264726074419881
+E1_no_metadata,Rock Pigeon,8ft,Rock_Pigeon_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9980666666666668,1.0,0.8856333333333333,0.1124333333333335,1.1269524633971923
+E1_no_metadata,Song Sparrow,8ft,Song_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9496,0.9496,1.0,0.9159,0.03369999999999995,1.0367944098700732
+E1_no_metadata,Spotted Towhee,8ft,Spotted_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9755,0.9726,1.0,0.9761,-0.0034999999999999476,0.9964143018133389
+E1_no_metadata,American Robin,12ft,American_Robin_12ft.wav,True,True,True,1,True,True,True,1,True,0.8056,0.7108,1.0,0.9196,-0.20879999999999999,0.7729447585906916
+E1_no_metadata,Anna's Hummingbird,12ft,Annas_Hummingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.98305,1.0,0.94445,0.03859999999999997,1.0408703478214834
+E1_no_metadata,Barn Swallow,12ft,Barn_Swallow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9988,0.9975333333333335,1.0,0.9812333333333334,0.016300000000000092,1.0166117471209704
+E1_no_metadata,Bewick's Wren,12ft,Bewicks_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.8706,0.8706,1.0,0.8609,0.009700000000000042,1.0112672784295504
+E1_no_metadata,Black Phoebe,12ft,Black_Phoebe_12ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.994775,1.0,0.9997250000000001,-0.004950000000000121,0.9950486383755531
+E1_no_metadata,California Towhee,12ft,California_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.999,0.99515,1.0,0.9981,-0.002950000000000008,0.9970443843302275
+E1_no_metadata,Dark-eyed Junco,12ft,Dark_eyed_Junco_12ft.wav,True,True,True,1,True,True,True,1,True,0.9696,0.9493,1.0,0.9764999999999999,-0.02719999999999989,0.9721454173067078
+E1_no_metadata,European Starling,12ft,European_Starling_12ft.wav,True,True,True,1,True,True,True,1,True,0.562,0.192225,0.75,0.344325,-0.15209999999999999,0.5582661729470704
+E1_no_metadata,Hooded Oriole,12ft,Hooded_Oriole_12ft.wav,True,True,True,1,True,True,True,1,True,0.9354,0.6271499999999999,1.0,0.755325,-0.12817500000000015,0.8303048356667657
+E1_no_metadata,House Finch,12ft,House_Finch_12ft.wav,True,True,True,1,True,True,True,1,True,0.9257,0.6542,1.0,0.6496333333333334,0.004566666666666608,1.007029606444661
+E1_no_metadata,House Sparrow,12ft,House_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.7826,0.463075,1.0,0.5964,-0.13332500000000003,0.7764503688799463
+E1_no_metadata,Lesser Goldfinch,12ft,Lesser_Goldfinch_12ft.wav,True,True,True,1,False,True,True,2,True,0.443,0.20382499999999998,0.75,0.06257499999999999,0.14125,3.2572912504994007
+E1_no_metadata,Mourning Dove,12ft,Mourning_Dove_12ft.wav,True,True,True,1,True,True,True,1,True,0.9556,0.5309,1.0,0.7801,-0.24919999999999998,0.6805537751570312
+E1_no_metadata,Northern House Wren,12ft,Northern_House_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.9941,0.7785666666666667,1.0,0.7593666666666667,0.019199999999999995,1.0252842280848076
+E1_no_metadata,Northern Mockingbird,12ft,Northern_Mockingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.7178,0.3063,0.75,0.31210000000000004,-0.005800000000000027,0.9814162127523229
+E1_no_metadata,Northern Yellow Warbler,12ft,Northern_Yellow_Warbler_12ft.wav,True,True,True,1,True,True,True,1,True,0.8782,0.8782,1.0,0.9617,-0.08350000000000002,0.9131745866694395
+E1_no_metadata,Oak Titmouse,12ft,Oak_Titmouse_12ft.wav,True,True,True,1,True,True,True,1,True,0.9991,0.76805,1.0,0.910375,-0.14232500000000003,0.8436633255526569
+E1_no_metadata,Rock Pigeon,12ft,Rock_Pigeon_12ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9921666666666668,1.0,0.8856333333333333,0.10653333333333348,1.120290564191351
+E1_no_metadata,Song Sparrow,12ft,Song_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9502,0.9502,1.0,0.9159,0.0343,1.0374495032208757
+E1_no_metadata,Spotted Towhee,12ft,Spotted_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.9848,0.97085,1.0,0.9761,-0.005249999999999977,0.9946214527200082
+E1_no_metadata,American Robin,24ft,American_Robin_24ft.wav,True,True,True,1,True,True,True,1,True,0.6834,0.620475,1.0,0.9196,-0.299125,0.6747227055241409
+E1_no_metadata,Anna's Hummingbird,24ft,Annas_Hummingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.9968,0.915325,1.0,0.94445,-0.029124999999999956,0.9691619461061994
+E1_no_metadata,Barn Swallow,24ft,Barn_Swallow_24ft.wav,True,True,True,1,True,True,True,1,True,0.9924,0.7226333333333333,1.0,0.9812333333333334,-0.25860000000000005,0.7364541223630126
+E1_no_metadata,Bewick's Wren,24ft,Bewicks_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.1983,0.1983,1.0,0.8609,-0.6626,0.23034034150307817
+E1_no_metadata,Black Phoebe,24ft,Black_Phoebe_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9955750000000001,1.0,0.9997250000000001,-0.004149999999999987,0.99584885843607
+E1_no_metadata,California Towhee,24ft,California_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9971,0.9838,1.0,0.9981,-0.01429999999999998,0.9856727782787296
+E1_no_metadata,Dark-eyed Junco,24ft,Dark_eyed_Junco_24ft.wav,True,True,True,1,True,True,True,1,True,0.9113,0.7918000000000001,1.0,0.9764999999999999,-0.18469999999999986,0.8108550947260625
+E1_no_metadata,European Starling,24ft,European_Starling_24ft.wav,True,True,True,1,True,True,True,1,True,0.2317,0.076375,0.75,0.344325,-0.26795,0.22181078922529587
+E1_no_metadata,Hooded Oriole,24ft,Hooded_Oriole_24ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.639725,1.0,0.755325,-0.11560000000000004,0.846953298249098
+E1_no_metadata,House Finch,24ft,House_Finch_24ft.wav,True,True,True,1,True,True,True,1,True,0.4622,0.19163333333333332,1.0,0.6496333333333334,-0.4580000000000001,0.29498691569603364
+E1_no_metadata,House Sparrow,24ft,House_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.8031,0.5458999999999999,1.0,0.5964,-0.0505000000000001,0.9153252850435948
+E1_no_metadata,Lesser Goldfinch,24ft,Lesser_Goldfinch_24ft.wav,False,True,True,3,False,False,True,4,True,0.1727,0.08072499999999999,0.5,0.06257499999999999,0.01815,1.2900519376747903
+E1_no_metadata,Mourning Dove,24ft,Mourning_Dove_24ft.wav,True,True,True,1,True,True,True,1,True,0.9472,0.8266333333333334,1.0,0.7801,0.046533333333333426,1.0596504721616888
+E1_no_metadata,Northern House Wren,24ft,Northern_House_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.9771,0.7959333333333333,1.0,0.7593666666666667,0.036566666666666525,1.0481541635573501
+E1_no_metadata,Northern Mockingbird,24ft,Northern_Mockingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.3493,0.12229999999999999,0.75,0.31210000000000004,-0.18980000000000005,0.39186158282601724
+E1_no_metadata,Northern Yellow Warbler,24ft,Northern_Yellow_Warbler_24ft.wav,True,True,True,1,True,True,True,1,True,0.6093,0.6093,1.0,0.9617,-0.35240000000000005,0.6335655609857543
+E1_no_metadata,Oak Titmouse,24ft,Oak_Titmouse_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7583500000000001,1.0,0.910375,-0.15202499999999997,0.833008375669367
+E1_no_metadata,Rock Pigeon,24ft,Rock_Pigeon_24ft.wav,True,True,True,1,True,True,True,1,True,0.9938,0.9758333333333334,1.0,0.8856333333333333,0.09020000000000017,1.1018480183672703
+E1_no_metadata,Song Sparrow,24ft,Song_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.6543,0.6543,1.0,0.9159,-0.26160000000000005,0.7143792990501145
+E1_no_metadata,Spotted Towhee,24ft,Spotted_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9325,0.9065,1.0,0.9761,-0.0696,0.9286958303452515
+E1_no_metadata,American Robin,36ft,American_Robin_36ft.wav,True,True,True,1,True,True,True,1,True,0.5516,0.49185,1.0,0.9196,-0.42774999999999996,0.5348521096128752
+E1_no_metadata,Anna's Hummingbird,36ft,Annas_Hummingbird_36ft.wav,True,True,True,1,True,True,True,1,True,0.9977,0.941225,1.0,0.94445,-0.0032250000000000334,0.9965853142040341
+E1_no_metadata,Barn Swallow,36ft,Barn_Swallow_36ft.wav,True,True,True,1,True,True,True,1,True,0.9801,0.7431666666666666,1.0,0.9812333333333334,-0.23806666666666676,0.7573801678160138
+E1_no_metadata,Bewick's Wren,36ft,Bewicks_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.4043,0.4043,1.0,0.8609,-0.4566,0.4696248112440469
+E1_no_metadata,Black Phoebe,36ft,Black_Phoebe_36ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.99785,1.0,0.9997250000000001,-0.001875000000000071,0.998124484233164
+E1_no_metadata,California Towhee,36ft,California_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.9984,0.99195,1.0,0.9981,-0.006149999999999989,0.9938382927562368
+E1_no_metadata,Dark-eyed Junco,36ft,Dark_eyed_Junco_36ft.wav,True,True,True,1,True,True,True,1,True,0.8534,0.85165,1.0,0.9764999999999999,-0.1248499999999999,0.8721454173067077
+E1_no_metadata,European Starling,36ft,European_Starling_36ft.wav,False,False,True,5,False,False,False,8,True,0.059,0.03035,0.75,0.344325,-0.313975,0.08814346910622231
+E1_no_metadata,Hooded Oriole,36ft,Hooded_Oriole_36ft.wav,True,True,True,1,False,True,True,2,True,0.5376,0.257175,1.0,0.755325,-0.49815000000000004,0.3404825737265415
+E1_no_metadata,House Finch,36ft,House_Finch_36ft.wav,True,True,True,1,True,True,True,1,True,0.7507,0.48466666666666663,1.0,0.6496333333333334,-0.16496666666666676,0.7460618810611113
+E1_no_metadata,House Sparrow,36ft,House_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.5626,0.419625,1.0,0.5964,-0.17677500000000002,0.7035965794768612
+E1_no_metadata,Lesser Goldfinch,36ft,Lesser_Goldfinch_36ft.wav,True,True,True,1,True,True,True,1,True,0.3181,0.092525,0.5,0.06257499999999999,0.029950000000000004,1.478625649220935
+E1_no_metadata,Mourning Dove,36ft,Mourning_Dove_36ft.wav,True,True,True,1,True,True,True,1,True,0.9356,0.8233333333333333,1.0,0.7801,0.043233333333333235,1.0554202452677006
+E1_no_metadata,Northern House Wren,36ft,Northern_House_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.8912,0.6075666666666667,1.0,0.7593666666666667,-0.15180000000000005,0.8000965717044906
+E1_no_metadata,Northern Mockingbird,36ft,Northern_Mockingbird_36ft.wav,False,False,True,4,False,False,True,4,True,0.0809,0.0304,0.75,0.31210000000000004,-0.28170000000000006,0.0974046779878244
+E1_no_metadata,Northern Yellow Warbler,36ft,Northern_Yellow_Warbler_36ft.wav,True,True,True,1,True,True,True,1,True,0.5861,0.5861,1.0,0.9617,-0.37560000000000004,0.6094416138088801
+E1_no_metadata,Oak Titmouse,36ft,Oak_Titmouse_36ft.wav,True,True,True,1,True,True,True,1,True,0.9975,0.76155,1.0,0.910375,-0.1488250000000001,0.836523410682411
+E1_no_metadata,Rock Pigeon,36ft,Rock_Pigeon_36ft.wav,True,True,True,1,True,True,True,1,True,0.9825,0.9630666666666666,1.0,0.8856333333333333,0.07743333333333335,1.0874327223455909
+E1_no_metadata,Song Sparrow,36ft,Song_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.6727,0.6727,1.0,0.9159,-0.24320000000000008,0.7344688284747243
+E1_no_metadata,Spotted Towhee,36ft,Spotted_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.8397,0.823,1.0,0.9761,-0.1531,0.8431513164634771
+E1_no_metadata,American Robin,48ft,American_Robin_48ft.wav,False,True,True,2,False,True,True,2,True,0.2161,0.07375,0.5,0.9196,-0.84585,0.08019791213571117
+E1_no_metadata,Anna's Hummingbird,48ft,Anna_s_Hummingbird_48ft.wav,True,True,True,1,True,True,True,1,True,0.9961,0.730275,0.75,0.94445,-0.214175,0.7732278045423262
+E1_no_metadata,Barn Swallow,48ft,Barn_Swallow_48ft.wav,True,True,True,1,True,True,True,1,True,0.8637,0.3575333333333333,1.0,0.9812333333333334,-0.6237000000000001,0.3643713693650847
+E1_no_metadata,Bewick's Wren,48ft,Bewick_s_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.1707,0.1707,1.0,0.8609,-0.6902,0.19828086885817167
+E1_no_metadata,Black Phoebe,48ft,Black_Phoebe_48ft.wav,True,True,True,1,True,True,True,1,True,0.932,0.503175,0.75,0.9997250000000001,-0.49655000000000005,0.5033134111880767
+E1_no_metadata,California Towhee,48ft,California_Towhee_48ft.wav,True,True,True,1,True,True,True,1,True,0.6311,0.48965000000000003,1.0,0.9981,-0.50845,0.4905821060014027
+E1_no_metadata,Dark-eyed Junco,48ft,Dark_eyed_Junco_48ft.wav,True,True,True,1,True,True,True,1,True,0.5911,0.5517,1.0,0.9764999999999999,-0.42479999999999996,0.5649769585253457
+E1_no_metadata,European Starling,48ft,European_Starling_48ft.wav,False,False,False,7,False,False,False,7,True,0.0338,0.00845,0.25,0.344325,-0.335875,0.0245407681696072
+E1_no_metadata,Hooded Oriole,48ft,Hooded_Oriole_48ft.wav,False,True,True,2,False,True,True,2,True,0.3573,0.091825,0.5,0.755325,-0.6635,0.12157018501969351
+E1_no_metadata,House Finch,48ft,House_Finch_48ft.wav,True,True,True,1,True,True,True,1,True,0.9922,0.4684,1.0,0.6496333333333334,-0.1812333333333334,0.7210221150392528
+E1_no_metadata,House Sparrow,48ft,House_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.558,0.374925,0.75,0.5964,-0.22147500000000003,0.6286468812877263
+E1_no_metadata,Lesser Goldfinch,48ft,Lesser_Goldfinch_48ft.wav,True,True,True,1,True,True,True,1,True,0.8851,0.334775,0.5,0.06257499999999999,0.2722,5.349980023971235
+E1_no_metadata,Mourning Dove,48ft,Mourning_Dove_48ft.wav,True,True,True,1,True,True,True,1,True,0.9537,0.5191,1.0,0.7801,-0.261,0.6654275092936803
+E1_no_metadata,Northern House Wren,48ft,Northern_House_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.9277,0.31083333333333335,0.6666666666666666,0.7593666666666667,-0.4485333333333334,0.4093323383521355
+E1_no_metadata,Northern Mockingbird,48ft,Northern_Mockingbird_48ft.wav,True,True,True,1,False,True,True,2,True,0.2162,0.1022,0.75,0.31210000000000004,-0.20990000000000003,0.32745914770906753
+E1_no_metadata,Northern Yellow Warbler,48ft,Northern_Yellow_Warbler_48ft.wav,True,True,True,1,True,True,True,1,True,0.5094,0.5094,1.0,0.9617,-0.45230000000000004,0.5296870125818862
+E1_no_metadata,Oak Titmouse,48ft,Oak_Titmouse_48ft.wav,True,True,True,1,True,True,True,1,True,0.9687,0.31094999999999995,0.75,0.910375,-0.5994250000000001,0.3415625429081422
+E1_no_metadata,Rock Pigeon,48ft,Rock_Pigeon_48ft.wav,True,True,True,1,True,True,True,1,True,0.6812,0.2518,1.0,0.8856333333333333,-0.6338333333333332,0.2843163084798073
+E1_no_metadata,Song Sparrow,48ft,Song_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.299,0.299,1.0,0.9159,-0.6169,0.3264548531499072
+E1_no_metadata,Spotted Towhee,48ft,Spotted_Towhee_48ft.wav,False,True,True,2,False,True,True,2,True,0.0927,0.0597,1.0,0.9761,-0.9164,0.061161766212478236
+E2_week_only,American Robin,1ft,American_Robin_1ft.wav,True,True,True,1,True,True,True,1,True,0.9906,0.9196,1.0,0.9196,0.0,1.0
+E2_week_only,Anna's Hummingbird,1ft,Annas_Hummingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.9953,0.94445,1.0,0.94445,0.0,1.0
+E2_week_only,Barn Swallow,1ft,Barn_Swallow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9841,0.9812333333333334,1.0,0.9812333333333334,0.0,1.0
+E2_week_only,Bewick's Wren,1ft,Bewicks_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.8609,0.8609,1.0,0.8609,0.0,1.0
+E2_week_only,Black Phoebe,1ft,Black_Phoebe_1ft.wav,True,True,True,1,True,True,True,1,True,0.9998,0.9997250000000001,1.0,0.9997250000000001,0.0,1.0
+E2_week_only,California Towhee,1ft,California_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9981,1.0,0.9981,0.0,1.0
+E2_week_only,Dark-eyed Junco,1ft,Dark_eyed_Junco_1ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.9764999999999999,1.0,0.9764999999999999,0.0,1.0
+E2_week_only,European Starling,1ft,European_Starling_1ft.wav,True,True,True,1,True,True,True,1,True,0.7345,0.344325,1.0,0.344325,0.0,1.0
+E2_week_only,Hooded Oriole,1ft,Hooded_Oriole_1ft.wav,True,True,True,1,True,True,True,1,True,0.8867,0.755325,1.0,0.755325,0.0,1.0
+E2_week_only,House Finch,1ft,House_Finch_1ft.wav,True,True,True,1,True,True,True,1,True,0.6925,0.6496333333333334,1.0,0.6496333333333334,0.0,1.0
+E2_week_only,House Sparrow,1ft,House_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.8738,0.5964,1.0,0.5964,0.0,1.0
+E2_week_only,Lesser Goldfinch,1ft,Lesser_Goldfinch_1ft.wav,False,True,True,2,False,False,True,4,True,0.1137,0.06257499999999999,1.0,0.06257499999999999,0.0,1.0
+E2_week_only,Mourning Dove,1ft,Mourning_Dove_1ft.wav,True,True,True,1,True,True,True,1,True,0.9285,0.7801,1.0,0.7801,0.0,1.0
+E2_week_only,Northern House Wren,1ft,Northern_House_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.992,0.7593666666666667,1.0,0.7593666666666667,0.0,1.0
+E2_week_only,Northern Mockingbird,1ft,Northern_Mockingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.5772,0.31210000000000004,0.75,0.31210000000000004,0.0,1.0
+E2_week_only,Northern Yellow Warbler,1ft,Northern_Yellow_Warbler_1ft.wav,True,True,True,1,True,True,True,1,True,0.9617,0.9617,1.0,0.9617,0.0,1.0
+E2_week_only,Oak Titmouse,1ft,Oak_Titmouse_1ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.910375,1.0,0.910375,0.0,1.0
+E2_week_only,Rock Pigeon,1ft,Rock_Pigeon_1ft.wav,True,True,True,1,True,True,True,1,True,0.9875,0.8856333333333333,1.0,0.8856333333333333,0.0,1.0
+E2_week_only,Song Sparrow,1ft,Song_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9159,0.9159,1.0,0.9159,0.0,1.0
+E2_week_only,Spotted Towhee,1ft,Spotted_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9864,0.9761,1.0,0.9761,0.0,1.0
+E2_week_only,American Robin,4ft,American_Robin_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.937825,1.0,0.9196,0.018225000000000047,1.0198183993040453
+E2_week_only,Anna's Hummingbird,4ft,Annas_Hummingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.9993,0.9959749999999999,1.0,0.94445,0.05152499999999993,1.0545555614378739
+E2_week_only,Barn Swallow,4ft,Barn_Swallow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9994000000000001,1.0,0.9812333333333334,0.018166666666666664,1.0185141148894248
+E2_week_only,Bewick's Wren,4ft,Bewicks_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.7954,0.7954,1.0,0.8609,-0.0655,0.9239168312231386
+E2_week_only,Black Phoebe,4ft,Black_Phoebe_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.998875,1.0,0.9997250000000001,-0.0008500000000001284,0.999149766185701
+E2_week_only,California Towhee,4ft,California_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.99595,1.0,0.9981,-0.0021499999999999853,0.9978459072237251
+E2_week_only,Dark-eyed Junco,4ft,Dark_eyed_Junco_4ft.wav,True,True,True,1,True,True,True,1,True,0.983,0.9716,1.0,0.9764999999999999,-0.004899999999999904,0.9949820788530467
+E2_week_only,European Starling,4ft,European_Starling_4ft.wav,True,True,True,1,True,True,True,1,True,0.6804,0.2636,1.0,0.344325,-0.08072499999999999,0.7655557975749655
+E2_week_only,Hooded Oriole,4ft,Hooded_Oriole_4ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.928525,1.0,0.755325,0.17320000000000002,1.229305265945123
+E2_week_only,House Finch,4ft,House_Finch_4ft.wav,True,True,True,1,True,True,True,1,True,0.9675,0.8809333333333335,1.0,0.6496333333333334,0.23130000000000006,1.356047000872287
+E2_week_only,House Sparrow,4ft,House_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.6954,0.4852,1.0,0.5964,-0.11120000000000002,0.8135479543930247
+E2_week_only,Lesser Goldfinch,4ft,Lesser_Goldfinch_4ft.wav,True,True,True,1,False,False,True,4,True,0.4046,0.217675,1.0,0.06257499999999999,0.15510000000000002,3.4786256492209353
+E2_week_only,Mourning Dove,4ft,Mourning_Dove_4ft.wav,True,True,True,1,True,True,True,1,True,0.9449,0.8314666666666666,1.0,0.7801,0.05136666666666656,1.0658462590266204
+E2_week_only,Northern House Wren,4ft,Northern_House_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.9978,0.8470333333333334,1.0,0.7593666666666667,0.08766666666666667,1.115447083095562
+E2_week_only,Northern Mockingbird,4ft,Northern_Mockingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.8118,0.359625,0.75,0.31210000000000004,0.04752499999999993,1.1522749118872153
+E2_week_only,Northern Yellow Warbler,4ft,Northern_Yellow_Warbler_4ft.wav,True,True,True,1,True,True,True,1,True,0.9331,0.9331,1.0,0.9617,-0.02859999999999996,0.9702609961526464
+E2_week_only,Oak Titmouse,4ft,Oak_Titmouse_4ft.wav,True,True,True,1,True,True,True,1,True,0.9989,0.894675,1.0,0.910375,-0.015700000000000047,0.9827543594672524
+E2_week_only,Rock Pigeon,4ft,Rock_Pigeon_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9934666666666666,1.0,0.8856333333333333,0.10783333333333334,1.1217584402875531
+E2_week_only,Song Sparrow,4ft,Song_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9624,0.9624,1.0,0.9159,0.046499999999999986,1.050769734687193
+E2_week_only,Spotted Towhee,4ft,Spotted_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9896,0.9879,1.0,0.9761,0.011800000000000033,1.0120889253150291
+E2_week_only,American Robin,8ft,American_Robin_8ft.wav,True,True,True,1,True,True,True,1,True,0.969,0.85685,1.0,0.9196,-0.06274999999999997,0.9317638103523271
+E2_week_only,Anna's Hummingbird,8ft,Annas_Hummingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9588000000000001,1.0,0.94445,0.014350000000000085,1.015194028270422
+E2_week_only,Barn Swallow,8ft,Barn_Swallow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9903666666666666,1.0,0.9812333333333334,0.009133333333333216,1.0093080137242245
+E2_week_only,Bewick's Wren,8ft,Bewicks_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.8914,0.8914,1.0,0.8609,0.03049999999999997,1.0354280404228133
+E2_week_only,Black Phoebe,8ft,Black_Phoebe_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9988999999999999,1.0,0.9997250000000001,-0.0008250000000001867,0.9991747730625921
+E2_week_only,California Towhee,8ft,California_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9963500000000001,1.0,0.9981,-0.0017499999999999183,0.998246668670474
+E2_week_only,Dark-eyed Junco,8ft,Dark_eyed_Junco_8ft.wav,True,True,True,1,True,True,True,1,True,0.9858,0.97185,1.0,0.9764999999999999,-0.004649999999999932,0.9952380952380953
+E2_week_only,European Starling,8ft,European_Starling_8ft.wav,True,True,True,1,False,True,True,2,True,0.3068,0.1441,0.75,0.344325,-0.200225,0.41849996369708853
+E2_week_only,Hooded Oriole,8ft,Hooded_Oriole_8ft.wav,True,True,True,1,True,True,True,1,True,0.9939,0.6775,1.0,0.755325,-0.07782500000000003,0.8969648826664018
+E2_week_only,House Finch,8ft,House_Finch_8ft.wav,True,True,True,1,True,True,True,1,True,0.6912,0.29940000000000005,1.0,0.6496333333333334,-0.35023333333333334,0.46087536559084613
+E2_week_only,House Sparrow,8ft,House_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.3691,0.288925,1.0,0.5964,-0.30747500000000005,0.4844483568075117
+E2_week_only,Lesser Goldfinch,8ft,Lesser_Goldfinch_8ft.wav,True,True,True,1,True,True,True,1,True,0.4873,0.1922,1.0,0.06257499999999999,0.12962500000000002,3.0715141829804242
+E2_week_only,Mourning Dove,8ft,Mourning_Dove_8ft.wav,False,True,True,2,True,True,True,1,True,0.5156,0.21356666666666665,1.0,0.7801,-0.5665333333333333,0.2737683203008161
+E2_week_only,Northern House Wren,8ft,Northern_House_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.9958,0.7113666666666667,1.0,0.7593666666666667,-0.04800000000000004,0.9367894297879812
+E2_week_only,Northern Mockingbird,8ft,Northern_Mockingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.8684,0.4608,1.0,0.31210000000000004,0.14869999999999994,1.4764498558154435
+E2_week_only,Northern Yellow Warbler,8ft,Northern_Yellow_Warbler_8ft.wav,True,True,True,1,True,True,True,1,True,0.9017,0.9017,1.0,0.9617,-0.06000000000000005,0.9376104814391182
+E2_week_only,Oak Titmouse,8ft,Oak_Titmouse_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7524,1.0,0.910375,-0.1579750000000001,0.8264726074419881
+E2_week_only,Rock Pigeon,8ft,Rock_Pigeon_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9980666666666668,1.0,0.8856333333333333,0.1124333333333335,1.1269524633971923
+E2_week_only,Song Sparrow,8ft,Song_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9496,0.9496,1.0,0.9159,0.03369999999999995,1.0367944098700732
+E2_week_only,Spotted Towhee,8ft,Spotted_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9755,0.9726,1.0,0.9761,-0.0034999999999999476,0.9964143018133389
+E2_week_only,American Robin,12ft,American_Robin_12ft.wav,True,True,True,1,True,True,True,1,True,0.8056,0.7108,1.0,0.9196,-0.20879999999999999,0.7729447585906916
+E2_week_only,Anna's Hummingbird,12ft,Annas_Hummingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.98305,1.0,0.94445,0.03859999999999997,1.0408703478214834
+E2_week_only,Barn Swallow,12ft,Barn_Swallow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9988,0.9975333333333335,1.0,0.9812333333333334,0.016300000000000092,1.0166117471209704
+E2_week_only,Bewick's Wren,12ft,Bewicks_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.8706,0.8706,1.0,0.8609,0.009700000000000042,1.0112672784295504
+E2_week_only,Black Phoebe,12ft,Black_Phoebe_12ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.994775,1.0,0.9997250000000001,-0.004950000000000121,0.9950486383755531
+E2_week_only,California Towhee,12ft,California_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.999,0.99515,1.0,0.9981,-0.002950000000000008,0.9970443843302275
+E2_week_only,Dark-eyed Junco,12ft,Dark_eyed_Junco_12ft.wav,True,True,True,1,True,True,True,1,True,0.9696,0.9493,1.0,0.9764999999999999,-0.02719999999999989,0.9721454173067078
+E2_week_only,European Starling,12ft,European_Starling_12ft.wav,True,True,True,1,True,True,True,1,True,0.562,0.192225,0.75,0.344325,-0.15209999999999999,0.5582661729470704
+E2_week_only,Hooded Oriole,12ft,Hooded_Oriole_12ft.wav,True,True,True,1,True,True,True,1,True,0.9354,0.6271499999999999,1.0,0.755325,-0.12817500000000015,0.8303048356667657
+E2_week_only,House Finch,12ft,House_Finch_12ft.wav,True,True,True,1,True,True,True,1,True,0.9257,0.6542,1.0,0.6496333333333334,0.004566666666666608,1.007029606444661
+E2_week_only,House Sparrow,12ft,House_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.7826,0.463075,1.0,0.5964,-0.13332500000000003,0.7764503688799463
+E2_week_only,Lesser Goldfinch,12ft,Lesser_Goldfinch_12ft.wav,True,True,True,1,False,True,True,2,True,0.443,0.20382499999999998,0.75,0.06257499999999999,0.14125,3.2572912504994007
+E2_week_only,Mourning Dove,12ft,Mourning_Dove_12ft.wav,True,True,True,1,True,True,True,1,True,0.9556,0.5309,1.0,0.7801,-0.24919999999999998,0.6805537751570312
+E2_week_only,Northern House Wren,12ft,Northern_House_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.9941,0.7785666666666667,1.0,0.7593666666666667,0.019199999999999995,1.0252842280848076
+E2_week_only,Northern Mockingbird,12ft,Northern_Mockingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.7178,0.3063,0.75,0.31210000000000004,-0.005800000000000027,0.9814162127523229
+E2_week_only,Northern Yellow Warbler,12ft,Northern_Yellow_Warbler_12ft.wav,True,True,True,1,True,True,True,1,True,0.8782,0.8782,1.0,0.9617,-0.08350000000000002,0.9131745866694395
+E2_week_only,Oak Titmouse,12ft,Oak_Titmouse_12ft.wav,True,True,True,1,True,True,True,1,True,0.9991,0.76805,1.0,0.910375,-0.14232500000000003,0.8436633255526569
+E2_week_only,Rock Pigeon,12ft,Rock_Pigeon_12ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9921666666666668,1.0,0.8856333333333333,0.10653333333333348,1.120290564191351
+E2_week_only,Song Sparrow,12ft,Song_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9502,0.9502,1.0,0.9159,0.0343,1.0374495032208757
+E2_week_only,Spotted Towhee,12ft,Spotted_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.9848,0.97085,1.0,0.9761,-0.005249999999999977,0.9946214527200082
+E2_week_only,American Robin,24ft,American_Robin_24ft.wav,True,True,True,1,True,True,True,1,True,0.6834,0.620475,1.0,0.9196,-0.299125,0.6747227055241409
+E2_week_only,Anna's Hummingbird,24ft,Annas_Hummingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.9968,0.915325,1.0,0.94445,-0.029124999999999956,0.9691619461061994
+E2_week_only,Barn Swallow,24ft,Barn_Swallow_24ft.wav,True,True,True,1,True,True,True,1,True,0.9924,0.7226333333333333,1.0,0.9812333333333334,-0.25860000000000005,0.7364541223630126
+E2_week_only,Bewick's Wren,24ft,Bewicks_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.1983,0.1983,1.0,0.8609,-0.6626,0.23034034150307817
+E2_week_only,Black Phoebe,24ft,Black_Phoebe_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9955750000000001,1.0,0.9997250000000001,-0.004149999999999987,0.99584885843607
+E2_week_only,California Towhee,24ft,California_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9971,0.9838,1.0,0.9981,-0.01429999999999998,0.9856727782787296
+E2_week_only,Dark-eyed Junco,24ft,Dark_eyed_Junco_24ft.wav,True,True,True,1,True,True,True,1,True,0.9113,0.7918000000000001,1.0,0.9764999999999999,-0.18469999999999986,0.8108550947260625
+E2_week_only,European Starling,24ft,European_Starling_24ft.wav,True,True,True,1,True,True,True,1,True,0.2317,0.076375,0.75,0.344325,-0.26795,0.22181078922529587
+E2_week_only,Hooded Oriole,24ft,Hooded_Oriole_24ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.639725,1.0,0.755325,-0.11560000000000004,0.846953298249098
+E2_week_only,House Finch,24ft,House_Finch_24ft.wav,True,True,True,1,True,True,True,1,True,0.4622,0.19163333333333332,1.0,0.6496333333333334,-0.4580000000000001,0.29498691569603364
+E2_week_only,House Sparrow,24ft,House_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.8031,0.5458999999999999,1.0,0.5964,-0.0505000000000001,0.9153252850435948
+E2_week_only,Lesser Goldfinch,24ft,Lesser_Goldfinch_24ft.wav,False,True,True,3,False,False,True,4,True,0.1727,0.08072499999999999,0.5,0.06257499999999999,0.01815,1.2900519376747903
+E2_week_only,Mourning Dove,24ft,Mourning_Dove_24ft.wav,True,True,True,1,True,True,True,1,True,0.9472,0.8266333333333334,1.0,0.7801,0.046533333333333426,1.0596504721616888
+E2_week_only,Northern House Wren,24ft,Northern_House_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.9771,0.7959333333333333,1.0,0.7593666666666667,0.036566666666666525,1.0481541635573501
+E2_week_only,Northern Mockingbird,24ft,Northern_Mockingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.3493,0.12229999999999999,0.75,0.31210000000000004,-0.18980000000000005,0.39186158282601724
+E2_week_only,Northern Yellow Warbler,24ft,Northern_Yellow_Warbler_24ft.wav,True,True,True,1,True,True,True,1,True,0.6093,0.6093,1.0,0.9617,-0.35240000000000005,0.6335655609857543
+E2_week_only,Oak Titmouse,24ft,Oak_Titmouse_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7583500000000001,1.0,0.910375,-0.15202499999999997,0.833008375669367
+E2_week_only,Rock Pigeon,24ft,Rock_Pigeon_24ft.wav,True,True,True,1,True,True,True,1,True,0.9938,0.9758333333333334,1.0,0.8856333333333333,0.09020000000000017,1.1018480183672703
+E2_week_only,Song Sparrow,24ft,Song_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.6543,0.6543,1.0,0.9159,-0.26160000000000005,0.7143792990501145
+E2_week_only,Spotted Towhee,24ft,Spotted_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9325,0.9065,1.0,0.9761,-0.0696,0.9286958303452515
+E2_week_only,American Robin,36ft,American_Robin_36ft.wav,True,True,True,1,True,True,True,1,True,0.5516,0.49185,1.0,0.9196,-0.42774999999999996,0.5348521096128752
+E2_week_only,Anna's Hummingbird,36ft,Annas_Hummingbird_36ft.wav,True,True,True,1,True,True,True,1,True,0.9977,0.941225,1.0,0.94445,-0.0032250000000000334,0.9965853142040341
+E2_week_only,Barn Swallow,36ft,Barn_Swallow_36ft.wav,True,True,True,1,True,True,True,1,True,0.9801,0.7431666666666666,1.0,0.9812333333333334,-0.23806666666666676,0.7573801678160138
+E2_week_only,Bewick's Wren,36ft,Bewicks_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.4043,0.4043,1.0,0.8609,-0.4566,0.4696248112440469
+E2_week_only,Black Phoebe,36ft,Black_Phoebe_36ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.99785,1.0,0.9997250000000001,-0.001875000000000071,0.998124484233164
+E2_week_only,California Towhee,36ft,California_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.9984,0.99195,1.0,0.9981,-0.006149999999999989,0.9938382927562368
+E2_week_only,Dark-eyed Junco,36ft,Dark_eyed_Junco_36ft.wav,True,True,True,1,True,True,True,1,True,0.8534,0.85165,1.0,0.9764999999999999,-0.1248499999999999,0.8721454173067077
+E2_week_only,European Starling,36ft,European_Starling_36ft.wav,False,False,True,5,False,False,False,8,True,0.059,0.03035,0.75,0.344325,-0.313975,0.08814346910622231
+E2_week_only,Hooded Oriole,36ft,Hooded_Oriole_36ft.wav,True,True,True,1,False,True,True,2,True,0.5376,0.257175,1.0,0.755325,-0.49815000000000004,0.3404825737265415
+E2_week_only,House Finch,36ft,House_Finch_36ft.wav,True,True,True,1,True,True,True,1,True,0.7507,0.48466666666666663,1.0,0.6496333333333334,-0.16496666666666676,0.7460618810611113
+E2_week_only,House Sparrow,36ft,House_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.5626,0.419625,1.0,0.5964,-0.17677500000000002,0.7035965794768612
+E2_week_only,Lesser Goldfinch,36ft,Lesser_Goldfinch_36ft.wav,True,True,True,1,True,True,True,1,True,0.3181,0.092525,0.5,0.06257499999999999,0.029950000000000004,1.478625649220935
+E2_week_only,Mourning Dove,36ft,Mourning_Dove_36ft.wav,True,True,True,1,True,True,True,1,True,0.9356,0.8233333333333333,1.0,0.7801,0.043233333333333235,1.0554202452677006
+E2_week_only,Northern House Wren,36ft,Northern_House_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.8912,0.6075666666666667,1.0,0.7593666666666667,-0.15180000000000005,0.8000965717044906
+E2_week_only,Northern Mockingbird,36ft,Northern_Mockingbird_36ft.wav,False,False,True,4,False,False,True,4,True,0.0809,0.0304,0.75,0.31210000000000004,-0.28170000000000006,0.0974046779878244
+E2_week_only,Northern Yellow Warbler,36ft,Northern_Yellow_Warbler_36ft.wav,True,True,True,1,True,True,True,1,True,0.5861,0.5861,1.0,0.9617,-0.37560000000000004,0.6094416138088801
+E2_week_only,Oak Titmouse,36ft,Oak_Titmouse_36ft.wav,True,True,True,1,True,True,True,1,True,0.9975,0.76155,1.0,0.910375,-0.1488250000000001,0.836523410682411
+E2_week_only,Rock Pigeon,36ft,Rock_Pigeon_36ft.wav,True,True,True,1,True,True,True,1,True,0.9825,0.9630666666666666,1.0,0.8856333333333333,0.07743333333333335,1.0874327223455909
+E2_week_only,Song Sparrow,36ft,Song_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.6727,0.6727,1.0,0.9159,-0.24320000000000008,0.7344688284747243
+E2_week_only,Spotted Towhee,36ft,Spotted_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.8397,0.823,1.0,0.9761,-0.1531,0.8431513164634771
+E2_week_only,American Robin,48ft,American_Robin_48ft.wav,False,True,True,2,False,True,True,2,True,0.2161,0.07375,0.5,0.9196,-0.84585,0.08019791213571117
+E2_week_only,Anna's Hummingbird,48ft,Anna_s_Hummingbird_48ft.wav,True,True,True,1,True,True,True,1,True,0.9961,0.730275,0.75,0.94445,-0.214175,0.7732278045423262
+E2_week_only,Barn Swallow,48ft,Barn_Swallow_48ft.wav,True,True,True,1,True,True,True,1,True,0.8637,0.3575333333333333,1.0,0.9812333333333334,-0.6237000000000001,0.3643713693650847
+E2_week_only,Bewick's Wren,48ft,Bewick_s_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.1707,0.1707,1.0,0.8609,-0.6902,0.19828086885817167
+E2_week_only,Black Phoebe,48ft,Black_Phoebe_48ft.wav,True,True,True,1,True,True,True,1,True,0.932,0.503175,0.75,0.9997250000000001,-0.49655000000000005,0.5033134111880767
+E2_week_only,California Towhee,48ft,California_Towhee_48ft.wav,True,True,True,1,True,True,True,1,True,0.6311,0.48965000000000003,1.0,0.9981,-0.50845,0.4905821060014027
+E2_week_only,Dark-eyed Junco,48ft,Dark_eyed_Junco_48ft.wav,True,True,True,1,True,True,True,1,True,0.5911,0.5517,1.0,0.9764999999999999,-0.42479999999999996,0.5649769585253457
+E2_week_only,European Starling,48ft,European_Starling_48ft.wav,False,False,False,7,False,False,False,7,True,0.0338,0.00845,0.25,0.344325,-0.335875,0.0245407681696072
+E2_week_only,Hooded Oriole,48ft,Hooded_Oriole_48ft.wav,False,True,True,2,False,True,True,2,True,0.3573,0.091825,0.5,0.755325,-0.6635,0.12157018501969351
+E2_week_only,House Finch,48ft,House_Finch_48ft.wav,True,True,True,1,True,True,True,1,True,0.9922,0.4684,1.0,0.6496333333333334,-0.1812333333333334,0.7210221150392528
+E2_week_only,House Sparrow,48ft,House_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.558,0.374925,0.75,0.5964,-0.22147500000000003,0.6286468812877263
+E2_week_only,Lesser Goldfinch,48ft,Lesser_Goldfinch_48ft.wav,True,True,True,1,True,True,True,1,True,0.8851,0.334775,0.5,0.06257499999999999,0.2722,5.349980023971235
+E2_week_only,Mourning Dove,48ft,Mourning_Dove_48ft.wav,True,True,True,1,True,True,True,1,True,0.9537,0.5191,1.0,0.7801,-0.261,0.6654275092936803
+E2_week_only,Northern House Wren,48ft,Northern_House_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.9277,0.31083333333333335,0.6666666666666666,0.7593666666666667,-0.4485333333333334,0.4093323383521355
+E2_week_only,Northern Mockingbird,48ft,Northern_Mockingbird_48ft.wav,True,True,True,1,False,True,True,2,True,0.2162,0.1022,0.75,0.31210000000000004,-0.20990000000000003,0.32745914770906753
+E2_week_only,Northern Yellow Warbler,48ft,Northern_Yellow_Warbler_48ft.wav,True,True,True,1,True,True,True,1,True,0.5094,0.5094,1.0,0.9617,-0.45230000000000004,0.5296870125818862
+E2_week_only,Oak Titmouse,48ft,Oak_Titmouse_48ft.wav,True,True,True,1,True,True,True,1,True,0.9687,0.31094999999999995,0.75,0.910375,-0.5994250000000001,0.3415625429081422
+E2_week_only,Rock Pigeon,48ft,Rock_Pigeon_48ft.wav,True,True,True,1,True,True,True,1,True,0.6812,0.2518,1.0,0.8856333333333333,-0.6338333333333332,0.2843163084798073
+E2_week_only,Song Sparrow,48ft,Song_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.299,0.299,1.0,0.9159,-0.6169,0.3264548531499072
+E2_week_only,Spotted Towhee,48ft,Spotted_Towhee_48ft.wav,False,True,True,2,False,True,True,2,True,0.0927,0.0597,1.0,0.9761,-0.9164,0.061161766212478236
+E3_location_only,American Robin,1ft,American_Robin_1ft.wav,True,True,True,1,True,True,True,1,True,0.9906,0.9196,1.0,0.9196,0.0,1.0
+E3_location_only,Anna's Hummingbird,1ft,Annas_Hummingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.9953,0.94445,1.0,0.94445,0.0,1.0
+E3_location_only,Barn Swallow,1ft,Barn_Swallow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9841,0.9812333333333334,1.0,0.9812333333333334,0.0,1.0
+E3_location_only,Bewick's Wren,1ft,Bewicks_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.8609,0.8609,1.0,0.8609,0.0,1.0
+E3_location_only,Black Phoebe,1ft,Black_Phoebe_1ft.wav,True,True,True,1,True,True,True,1,True,0.9998,0.9997250000000001,1.0,0.9997250000000001,0.0,1.0
+E3_location_only,California Towhee,1ft,California_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9981,1.0,0.9981,0.0,1.0
+E3_location_only,Dark-eyed Junco,1ft,Dark_eyed_Junco_1ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.9764999999999999,1.0,0.9764999999999999,0.0,1.0
+E3_location_only,European Starling,1ft,European_Starling_1ft.wav,True,True,True,1,True,True,True,1,True,0.7345,0.344325,1.0,0.344325,0.0,1.0
+E3_location_only,Hooded Oriole,1ft,Hooded_Oriole_1ft.wav,True,True,True,1,True,True,True,1,True,0.8867,0.755325,1.0,0.755325,0.0,1.0
+E3_location_only,House Finch,1ft,House_Finch_1ft.wav,True,True,True,1,True,True,True,1,True,0.6925,0.6496333333333334,1.0,0.6496333333333334,0.0,1.0
+E3_location_only,House Sparrow,1ft,House_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.8738,0.5964,1.0,0.5964,0.0,1.0
+E3_location_only,Lesser Goldfinch,1ft,Lesser_Goldfinch_1ft.wav,False,True,True,2,False,True,True,2,True,0.1137,0.06257499999999999,1.0,0.06257499999999999,0.0,1.0
+E3_location_only,Mourning Dove,1ft,Mourning_Dove_1ft.wav,True,True,True,1,True,True,True,1,True,0.9285,0.7801,1.0,0.7801,0.0,1.0
+E3_location_only,Northern House Wren,1ft,Northern_House_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.992,0.7593666666666667,1.0,0.7593666666666667,0.0,1.0
+E3_location_only,Northern Mockingbird,1ft,Northern_Mockingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.5772,0.31260000000000004,1.0,0.31260000000000004,0.0,1.0
+E3_location_only,Northern Yellow Warbler,1ft,Northern_Yellow_Warbler_1ft.wav,True,True,True,1,True,True,True,1,True,0.9617,0.9617,1.0,0.9617,0.0,1.0
+E3_location_only,Oak Titmouse,1ft,Oak_Titmouse_1ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.910375,1.0,0.910375,0.0,1.0
+E3_location_only,Rock Pigeon,1ft,Rock_Pigeon_1ft.wav,True,True,True,1,True,True,True,1,True,0.9875,0.8856333333333333,1.0,0.8856333333333333,0.0,1.0
+E3_location_only,Song Sparrow,1ft,Song_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9159,0.9159,1.0,0.9159,0.0,1.0
+E3_location_only,Spotted Towhee,1ft,Spotted_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9864,0.9761,1.0,0.9761,0.0,1.0
+E3_location_only,American Robin,4ft,American_Robin_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.937825,1.0,0.9196,0.018225000000000047,1.0198183993040453
+E3_location_only,Anna's Hummingbird,4ft,Annas_Hummingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.9993,0.9959749999999999,1.0,0.94445,0.05152499999999993,1.0545555614378739
+E3_location_only,Barn Swallow,4ft,Barn_Swallow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9994000000000001,1.0,0.9812333333333334,0.018166666666666664,1.0185141148894248
+E3_location_only,Bewick's Wren,4ft,Bewicks_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.7954,0.7954,1.0,0.8609,-0.0655,0.9239168312231386
+E3_location_only,Black Phoebe,4ft,Black_Phoebe_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.998875,1.0,0.9997250000000001,-0.0008500000000001284,0.999149766185701
+E3_location_only,California Towhee,4ft,California_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.99595,1.0,0.9981,-0.0021499999999999853,0.9978459072237251
+E3_location_only,Dark-eyed Junco,4ft,Dark_eyed_Junco_4ft.wav,True,True,True,1,True,True,True,1,True,0.983,0.9716,1.0,0.9764999999999999,-0.004899999999999904,0.9949820788530467
+E3_location_only,European Starling,4ft,European_Starling_4ft.wav,True,True,True,1,True,True,True,1,True,0.6804,0.2636,1.0,0.344325,-0.08072499999999999,0.7655557975749655
+E3_location_only,Hooded Oriole,4ft,Hooded_Oriole_4ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.928525,1.0,0.755325,0.17320000000000002,1.229305265945123
+E3_location_only,House Finch,4ft,House_Finch_4ft.wav,True,True,True,1,True,True,True,1,True,0.9675,0.8809333333333335,1.0,0.6496333333333334,0.23130000000000006,1.356047000872287
+E3_location_only,House Sparrow,4ft,House_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.6954,0.4852,1.0,0.5964,-0.11120000000000002,0.8135479543930247
+E3_location_only,Lesser Goldfinch,4ft,Lesser_Goldfinch_4ft.wav,True,True,True,1,False,True,True,2,True,0.4046,0.217675,1.0,0.06257499999999999,0.15510000000000002,3.4786256492209353
+E3_location_only,Mourning Dove,4ft,Mourning_Dove_4ft.wav,True,True,True,1,True,True,True,1,True,0.9449,0.8314666666666666,1.0,0.7801,0.05136666666666656,1.0658462590266204
+E3_location_only,Northern House Wren,4ft,Northern_House_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.9978,0.8470333333333334,1.0,0.7593666666666667,0.08766666666666667,1.115447083095562
+E3_location_only,Northern Mockingbird,4ft,Northern_Mockingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.8118,0.35974999999999996,1.0,0.31260000000000004,0.047149999999999914,1.1508317338451692
+E3_location_only,Northern Yellow Warbler,4ft,Northern_Yellow_Warbler_4ft.wav,True,True,True,1,True,True,True,1,True,0.9331,0.9331,1.0,0.9617,-0.02859999999999996,0.9702609961526464
+E3_location_only,Oak Titmouse,4ft,Oak_Titmouse_4ft.wav,True,True,True,1,True,True,True,1,True,0.9989,0.894675,1.0,0.910375,-0.015700000000000047,0.9827543594672524
+E3_location_only,Rock Pigeon,4ft,Rock_Pigeon_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9934666666666666,1.0,0.8856333333333333,0.10783333333333334,1.1217584402875531
+E3_location_only,Song Sparrow,4ft,Song_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9624,0.9624,1.0,0.9159,0.046499999999999986,1.050769734687193
+E3_location_only,Spotted Towhee,4ft,Spotted_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9896,0.9879,1.0,0.9761,0.011800000000000033,1.0120889253150291
+E3_location_only,American Robin,8ft,American_Robin_8ft.wav,True,True,True,1,True,True,True,1,True,0.969,0.85685,1.0,0.9196,-0.06274999999999997,0.9317638103523271
+E3_location_only,Anna's Hummingbird,8ft,Annas_Hummingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9588000000000001,1.0,0.94445,0.014350000000000085,1.015194028270422
+E3_location_only,Barn Swallow,8ft,Barn_Swallow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9903666666666666,1.0,0.9812333333333334,0.009133333333333216,1.0093080137242245
+E3_location_only,Bewick's Wren,8ft,Bewicks_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.8914,0.8914,1.0,0.8609,0.03049999999999997,1.0354280404228133
+E3_location_only,Black Phoebe,8ft,Black_Phoebe_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9988999999999999,1.0,0.9997250000000001,-0.0008250000000001867,0.9991747730625921
+E3_location_only,California Towhee,8ft,California_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9963500000000001,1.0,0.9981,-0.0017499999999999183,0.998246668670474
+E3_location_only,Dark-eyed Junco,8ft,Dark_eyed_Junco_8ft.wav,True,True,True,1,True,True,True,1,True,0.9858,0.97185,1.0,0.9764999999999999,-0.004649999999999932,0.9952380952380953
+E3_location_only,European Starling,8ft,European_Starling_8ft.wav,True,True,True,1,True,True,True,1,True,0.3068,0.144825,1.0,0.344325,-0.19949999999999998,0.42060553256371164
+E3_location_only,Hooded Oriole,8ft,Hooded_Oriole_8ft.wav,True,True,True,1,True,True,True,1,True,0.9939,0.6775,1.0,0.755325,-0.07782500000000003,0.8969648826664018
+E3_location_only,House Finch,8ft,House_Finch_8ft.wav,True,True,True,1,True,True,True,1,True,0.6912,0.29940000000000005,1.0,0.6496333333333334,-0.35023333333333334,0.46087536559084613
+E3_location_only,House Sparrow,8ft,House_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.3691,0.288925,1.0,0.5964,-0.30747500000000005,0.4844483568075117
+E3_location_only,Lesser Goldfinch,8ft,Lesser_Goldfinch_8ft.wav,True,True,True,1,True,True,True,1,True,0.4873,0.1922,1.0,0.06257499999999999,0.12962500000000002,3.0715141829804242
+E3_location_only,Mourning Dove,8ft,Mourning_Dove_8ft.wav,True,True,True,1,True,True,True,1,True,0.5156,0.21356666666666665,1.0,0.7801,-0.5665333333333333,0.2737683203008161
+E3_location_only,Northern House Wren,8ft,Northern_House_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.9958,0.7113666666666667,1.0,0.7593666666666667,-0.04800000000000004,0.9367894297879812
+E3_location_only,Northern Mockingbird,8ft,Northern_Mockingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.8684,0.4608,1.0,0.31260000000000004,0.14819999999999994,1.474088291746641
+E3_location_only,Northern Yellow Warbler,8ft,Northern_Yellow_Warbler_8ft.wav,True,True,True,1,True,True,True,1,True,0.9017,0.9017,1.0,0.9617,-0.06000000000000005,0.9376104814391182
+E3_location_only,Oak Titmouse,8ft,Oak_Titmouse_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7524,1.0,0.910375,-0.1579750000000001,0.8264726074419881
+E3_location_only,Rock Pigeon,8ft,Rock_Pigeon_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9980666666666668,1.0,0.8856333333333333,0.1124333333333335,1.1269524633971923
+E3_location_only,Song Sparrow,8ft,Song_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9496,0.9496,1.0,0.9159,0.03369999999999995,1.0367944098700732
+E3_location_only,Spotted Towhee,8ft,Spotted_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9755,0.9726,1.0,0.9761,-0.0034999999999999476,0.9964143018133389
+E3_location_only,American Robin,12ft,American_Robin_12ft.wav,True,True,True,1,True,True,True,1,True,0.8056,0.7108,1.0,0.9196,-0.20879999999999999,0.7729447585906916
+E3_location_only,Anna's Hummingbird,12ft,Annas_Hummingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.98305,1.0,0.94445,0.03859999999999997,1.0408703478214834
+E3_location_only,Barn Swallow,12ft,Barn_Swallow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9988,0.9975333333333335,1.0,0.9812333333333334,0.016300000000000092,1.0166117471209704
+E3_location_only,Bewick's Wren,12ft,Bewicks_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.8706,0.8706,1.0,0.8609,0.009700000000000042,1.0112672784295504
+E3_location_only,Black Phoebe,12ft,Black_Phoebe_12ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.994775,1.0,0.9997250000000001,-0.004950000000000121,0.9950486383755531
+E3_location_only,California Towhee,12ft,California_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.999,0.99515,1.0,0.9981,-0.002950000000000008,0.9970443843302275
+E3_location_only,Dark-eyed Junco,12ft,Dark_eyed_Junco_12ft.wav,True,True,True,1,True,True,True,1,True,0.9696,0.9493,1.0,0.9764999999999999,-0.02719999999999989,0.9721454173067078
+E3_location_only,European Starling,12ft,European_Starling_12ft.wav,True,True,True,1,True,True,True,1,True,0.562,0.192225,0.75,0.344325,-0.15209999999999999,0.5582661729470704
+E3_location_only,Hooded Oriole,12ft,Hooded_Oriole_12ft.wav,True,True,True,1,True,True,True,1,True,0.9354,0.6271499999999999,1.0,0.755325,-0.12817500000000015,0.8303048356667657
+E3_location_only,House Finch,12ft,House_Finch_12ft.wav,True,True,True,1,True,True,True,1,True,0.9257,0.6542,1.0,0.6496333333333334,0.004566666666666608,1.007029606444661
+E3_location_only,House Sparrow,12ft,House_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.7826,0.463075,1.0,0.5964,-0.13332500000000003,0.7764503688799463
+E3_location_only,Lesser Goldfinch,12ft,Lesser_Goldfinch_12ft.wav,True,True,True,1,True,True,True,1,True,0.443,0.20464999999999997,1.0,0.06257499999999999,0.14207499999999998,3.2704754294846183
+E3_location_only,Mourning Dove,12ft,Mourning_Dove_12ft.wav,True,True,True,1,True,True,True,1,True,0.9556,0.5309,1.0,0.7801,-0.24919999999999998,0.6805537751570312
+E3_location_only,Northern House Wren,12ft,Northern_House_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.9941,0.7785666666666667,1.0,0.7593666666666667,0.019199999999999995,1.0252842280848076
+E3_location_only,Northern Mockingbird,12ft,Northern_Mockingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.7178,0.3065,1.0,0.31260000000000004,-0.00610000000000005,0.9804862444017912
+E3_location_only,Northern Yellow Warbler,12ft,Northern_Yellow_Warbler_12ft.wav,True,True,True,1,True,True,True,1,True,0.8782,0.8782,1.0,0.9617,-0.08350000000000002,0.9131745866694395
+E3_location_only,Oak Titmouse,12ft,Oak_Titmouse_12ft.wav,True,True,True,1,True,True,True,1,True,0.9991,0.76805,1.0,0.910375,-0.14232500000000003,0.8436633255526569
+E3_location_only,Rock Pigeon,12ft,Rock_Pigeon_12ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9921666666666668,1.0,0.8856333333333333,0.10653333333333348,1.120290564191351
+E3_location_only,Song Sparrow,12ft,Song_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9502,0.9502,1.0,0.9159,0.0343,1.0374495032208757
+E3_location_only,Spotted Towhee,12ft,Spotted_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.9848,0.97085,1.0,0.9761,-0.005249999999999977,0.9946214527200082
+E3_location_only,American Robin,24ft,American_Robin_24ft.wav,True,True,True,1,True,True,True,1,True,0.6834,0.620475,1.0,0.9196,-0.299125,0.6747227055241409
+E3_location_only,Anna's Hummingbird,24ft,Annas_Hummingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.9968,0.915325,1.0,0.94445,-0.029124999999999956,0.9691619461061994
+E3_location_only,Barn Swallow,24ft,Barn_Swallow_24ft.wav,True,True,True,1,True,True,True,1,True,0.9924,0.7226333333333333,1.0,0.9812333333333334,-0.25860000000000005,0.7364541223630126
+E3_location_only,Bewick's Wren,24ft,Bewicks_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.1983,0.1983,1.0,0.8609,-0.6626,0.23034034150307817
+E3_location_only,Black Phoebe,24ft,Black_Phoebe_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9955750000000001,1.0,0.9997250000000001,-0.004149999999999987,0.99584885843607
+E3_location_only,California Towhee,24ft,California_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9971,0.9838,1.0,0.9981,-0.01429999999999998,0.9856727782787296
+E3_location_only,Dark-eyed Junco,24ft,Dark_eyed_Junco_24ft.wav,True,True,True,1,True,True,True,1,True,0.9113,0.7918000000000001,1.0,0.9764999999999999,-0.18469999999999986,0.8108550947260625
+E3_location_only,European Starling,24ft,European_Starling_24ft.wav,True,True,True,1,True,True,True,1,True,0.2317,0.077275,1.0,0.344325,-0.26705,0.22442459885282798
+E3_location_only,Hooded Oriole,24ft,Hooded_Oriole_24ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.639725,1.0,0.755325,-0.11560000000000004,0.846953298249098
+E3_location_only,House Finch,24ft,House_Finch_24ft.wav,True,True,True,1,True,True,True,1,True,0.4622,0.19163333333333332,1.0,0.6496333333333334,-0.4580000000000001,0.29498691569603364
+E3_location_only,House Sparrow,24ft,House_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.8031,0.5458999999999999,1.0,0.5964,-0.0505000000000001,0.9153252850435948
+E3_location_only,Lesser Goldfinch,24ft,Lesser_Goldfinch_24ft.wav,True,True,True,1,True,True,True,1,True,0.1727,0.08202499999999999,1.0,0.06257499999999999,0.019449999999999995,1.310827007590891
+E3_location_only,Mourning Dove,24ft,Mourning_Dove_24ft.wav,True,True,True,1,True,True,True,1,True,0.9472,0.8266333333333334,1.0,0.7801,0.046533333333333426,1.0596504721616888
+E3_location_only,Northern House Wren,24ft,Northern_House_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.9771,0.7959333333333333,1.0,0.7593666666666667,0.036566666666666525,1.0481541635573501
+E3_location_only,Northern Mockingbird,24ft,Northern_Mockingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.3493,0.12232499999999999,1.0,0.31260000000000004,-0.19027500000000006,0.3913147792706333
+E3_location_only,Northern Yellow Warbler,24ft,Northern_Yellow_Warbler_24ft.wav,True,True,True,1,True,True,True,1,True,0.6093,0.6093,1.0,0.9617,-0.35240000000000005,0.6335655609857543
+E3_location_only,Oak Titmouse,24ft,Oak_Titmouse_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7583500000000001,1.0,0.910375,-0.15202499999999997,0.833008375669367
+E3_location_only,Rock Pigeon,24ft,Rock_Pigeon_24ft.wav,True,True,True,1,True,True,True,1,True,0.9938,0.9758333333333334,1.0,0.8856333333333333,0.09020000000000017,1.1018480183672703
+E3_location_only,Song Sparrow,24ft,Song_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.6543,0.6543,1.0,0.9159,-0.26160000000000005,0.7143792990501145
+E3_location_only,Spotted Towhee,24ft,Spotted_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9325,0.9065,1.0,0.9761,-0.0696,0.9286958303452515
+E3_location_only,American Robin,36ft,American_Robin_36ft.wav,True,True,True,1,True,True,True,1,True,0.5516,0.49185,1.0,0.9196,-0.42774999999999996,0.5348521096128752
+E3_location_only,Anna's Hummingbird,36ft,Annas_Hummingbird_36ft.wav,True,True,True,1,True,True,True,1,True,0.9977,0.941225,1.0,0.94445,-0.0032250000000000334,0.9965853142040341
+E3_location_only,Barn Swallow,36ft,Barn_Swallow_36ft.wav,True,True,True,1,True,True,True,1,True,0.9801,0.7431666666666666,1.0,0.9812333333333334,-0.23806666666666676,0.7573801678160138
+E3_location_only,Bewick's Wren,36ft,Bewicks_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.4043,0.4043,1.0,0.8609,-0.4566,0.4696248112440469
+E3_location_only,Black Phoebe,36ft,Black_Phoebe_36ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.99785,1.0,0.9997250000000001,-0.001875000000000071,0.998124484233164
+E3_location_only,California Towhee,36ft,California_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.9984,0.99195,1.0,0.9981,-0.006149999999999989,0.9938382927562368
+E3_location_only,Dark-eyed Junco,36ft,Dark_eyed_Junco_36ft.wav,True,True,True,1,True,True,True,1,True,0.8534,0.85165,1.0,0.9764999999999999,-0.1248499999999999,0.8721454173067077
+E3_location_only,European Starling,36ft,European_Starling_36ft.wav,False,True,True,2,False,True,True,3,True,0.059,0.030875,1.0,0.344325,-0.31345,0.0896681913889494
+E3_location_only,Hooded Oriole,36ft,Hooded_Oriole_36ft.wav,True,True,True,1,False,True,True,2,True,0.5376,0.257175,1.0,0.755325,-0.49815000000000004,0.3404825737265415
+E3_location_only,House Finch,36ft,House_Finch_36ft.wav,True,True,True,1,True,True,True,1,True,0.7507,0.48466666666666663,1.0,0.6496333333333334,-0.16496666666666676,0.7460618810611113
+E3_location_only,House Sparrow,36ft,House_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.5626,0.419625,1.0,0.5964,-0.17677500000000002,0.7035965794768612
+E3_location_only,Lesser Goldfinch,36ft,Lesser_Goldfinch_36ft.wav,True,True,True,1,True,True,True,1,True,0.3181,0.093025,1.0,0.06257499999999999,0.030450000000000005,1.4866160607271275
+E3_location_only,Mourning Dove,36ft,Mourning_Dove_36ft.wav,True,True,True,1,True,True,True,1,True,0.9356,0.8233333333333333,1.0,0.7801,0.043233333333333235,1.0554202452677006
+E3_location_only,Northern House Wren,36ft,Northern_House_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.8912,0.6075666666666667,1.0,0.7593666666666667,-0.15180000000000005,0.8000965717044906
+E3_location_only,Northern Mockingbird,36ft,Northern_Mockingbird_36ft.wav,True,True,True,1,True,True,True,1,True,0.0809,0.0304,0.75,0.31260000000000004,-0.28220000000000006,0.09724888035828533
+E3_location_only,Northern Yellow Warbler,36ft,Northern_Yellow_Warbler_36ft.wav,True,True,True,1,True,True,True,1,True,0.5861,0.5861,1.0,0.9617,-0.37560000000000004,0.6094416138088801
+E3_location_only,Oak Titmouse,36ft,Oak_Titmouse_36ft.wav,True,True,True,1,True,True,True,1,True,0.9975,0.76155,1.0,0.910375,-0.1488250000000001,0.836523410682411
+E3_location_only,Rock Pigeon,36ft,Rock_Pigeon_36ft.wav,True,True,True,1,True,True,True,1,True,0.9825,0.9630666666666666,1.0,0.8856333333333333,0.07743333333333335,1.0874327223455909
+E3_location_only,Song Sparrow,36ft,Song_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.6727,0.6727,1.0,0.9159,-0.24320000000000008,0.7344688284747243
+E3_location_only,Spotted Towhee,36ft,Spotted_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.8397,0.823,1.0,0.9761,-0.1531,0.8431513164634771
+E3_location_only,American Robin,48ft,American_Robin_48ft.wav,True,True,True,1,True,True,True,1,True,0.2161,0.07375,0.5,0.9196,-0.84585,0.08019791213571117
+E3_location_only,Anna's Hummingbird,48ft,Anna_s_Hummingbird_48ft.wav,True,True,True,1,True,True,True,1,True,0.9961,0.73065,1.0,0.94445,-0.2138,0.7736248610302292
+E3_location_only,Barn Swallow,48ft,Barn_Swallow_48ft.wav,True,True,True,1,True,True,True,1,True,0.8637,0.3575333333333333,1.0,0.9812333333333334,-0.6237000000000001,0.3643713693650847
+E3_location_only,Bewick's Wren,48ft,Bewick_s_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.1707,0.1707,1.0,0.8609,-0.6902,0.19828086885817167
+E3_location_only,Black Phoebe,48ft,Black_Phoebe_48ft.wav,True,True,True,1,True,True,True,1,True,0.932,0.503175,0.75,0.9997250000000001,-0.49655000000000005,0.5033134111880767
+E3_location_only,California Towhee,48ft,California_Towhee_48ft.wav,True,True,True,1,True,True,True,1,True,0.6311,0.48965000000000003,1.0,0.9981,-0.50845,0.4905821060014027
+E3_location_only,Dark-eyed Junco,48ft,Dark_eyed_Junco_48ft.wav,True,True,True,1,True,True,True,1,True,0.5911,0.5517,1.0,0.9764999999999999,-0.42479999999999996,0.5649769585253457
+E3_location_only,European Starling,48ft,European_Starling_48ft.wav,False,True,True,3,False,True,True,3,True,0.0338,0.00955,0.5,0.344325,-0.334775,0.027735424381035358
+E3_location_only,Hooded Oriole,48ft,Hooded_Oriole_48ft.wav,False,True,True,2,False,True,True,2,True,0.3573,0.09255000000000001,0.75,0.755325,-0.662775,0.12253003673915203
+E3_location_only,House Finch,48ft,House_Finch_48ft.wav,True,True,True,1,True,True,True,1,True,0.9922,0.4684,1.0,0.6496333333333334,-0.1812333333333334,0.7210221150392528
+E3_location_only,House Sparrow,48ft,House_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.558,0.374925,0.75,0.5964,-0.22147500000000003,0.6286468812877263
+E3_location_only,Lesser Goldfinch,48ft,Lesser_Goldfinch_48ft.wav,True,True,True,1,True,True,True,1,True,0.8851,0.335575,1.0,0.06257499999999999,0.273,5.362764682381144
+E3_location_only,Mourning Dove,48ft,Mourning_Dove_48ft.wav,True,True,True,1,True,True,True,1,True,0.9537,0.5191,1.0,0.7801,-0.261,0.6654275092936803
+E3_location_only,Northern House Wren,48ft,Northern_House_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.9277,0.31083333333333335,0.6666666666666666,0.7593666666666667,-0.4485333333333334,0.4093323383521355
+E3_location_only,Northern Mockingbird,48ft,Northern_Mockingbird_48ft.wav,True,True,True,1,True,True,True,1,True,0.2162,0.1022,0.75,0.31260000000000004,-0.21040000000000003,0.32693538067818295
+E3_location_only,Northern Yellow Warbler,48ft,Northern_Yellow_Warbler_48ft.wav,True,True,True,1,True,True,True,1,True,0.5094,0.5094,1.0,0.9617,-0.45230000000000004,0.5296870125818862
+E3_location_only,Oak Titmouse,48ft,Oak_Titmouse_48ft.wav,True,True,True,1,True,True,True,1,True,0.9687,0.311275,1.0,0.910375,-0.5991,0.34191953865165453
+E3_location_only,Rock Pigeon,48ft,Rock_Pigeon_48ft.wav,True,True,True,1,True,True,True,1,True,0.6812,0.2518,1.0,0.8856333333333333,-0.6338333333333332,0.2843163084798073
+E3_location_only,Song Sparrow,48ft,Song_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.299,0.299,1.0,0.9159,-0.6169,0.3264548531499072
+E3_location_only,Spotted Towhee,48ft,Spotted_Towhee_48ft.wav,True,True,True,1,True,True,True,1,True,0.0927,0.0597,1.0,0.9761,-0.9164,0.061161766212478236
+E4_week_and_location,American Robin,1ft,American_Robin_1ft.wav,True,True,True,1,True,True,True,1,True,0.9906,0.9196,1.0,0.9196,0.0,1.0
+E4_week_and_location,Anna's Hummingbird,1ft,Annas_Hummingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.9953,0.94445,1.0,0.94445,0.0,1.0
+E4_week_and_location,Barn Swallow,1ft,Barn_Swallow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9841,0.9812333333333334,1.0,0.9812333333333334,0.0,1.0
+E4_week_and_location,Bewick's Wren,1ft,Bewicks_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.8609,0.8609,1.0,0.8609,0.0,1.0
+E4_week_and_location,Black Phoebe,1ft,Black_Phoebe_1ft.wav,True,True,True,1,True,True,True,1,True,0.9998,0.9997250000000001,1.0,0.9997250000000001,0.0,1.0
+E4_week_and_location,California Towhee,1ft,California_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9981,1.0,0.9981,0.0,1.0
+E4_week_and_location,Dark-eyed Junco,1ft,Dark_eyed_Junco_1ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.9764999999999999,1.0,0.9764999999999999,0.0,1.0
+E4_week_and_location,European Starling,1ft,European_Starling_1ft.wav,True,True,True,1,True,True,True,1,True,0.7345,0.344325,1.0,0.344325,0.0,1.0
+E4_week_and_location,Hooded Oriole,1ft,Hooded_Oriole_1ft.wav,True,True,True,1,True,True,True,1,True,0.8867,0.755325,1.0,0.755325,0.0,1.0
+E4_week_and_location,House Finch,1ft,House_Finch_1ft.wav,True,True,True,1,True,True,True,1,True,0.6925,0.6496333333333334,1.0,0.6496333333333334,0.0,1.0
+E4_week_and_location,House Sparrow,1ft,House_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.8738,0.5964,1.0,0.5964,0.0,1.0
+E4_week_and_location,Lesser Goldfinch,1ft,Lesser_Goldfinch_1ft.wav,False,True,True,2,False,True,True,2,True,0.1137,0.06257499999999999,1.0,0.06257499999999999,0.0,1.0
+E4_week_and_location,Mourning Dove,1ft,Mourning_Dove_1ft.wav,True,True,True,1,True,True,True,1,True,0.9285,0.7801,1.0,0.7801,0.0,1.0
+E4_week_and_location,Northern House Wren,1ft,Northern_House_Wren_1ft.wav,True,True,True,1,True,True,True,1,True,0.992,0.7593666666666667,1.0,0.7593666666666667,0.0,1.0
+E4_week_and_location,Northern Mockingbird,1ft,Northern_Mockingbird_1ft.wav,True,True,True,1,True,True,True,1,True,0.5772,0.31260000000000004,1.0,0.31260000000000004,0.0,1.0
+E4_week_and_location,Northern Yellow Warbler,1ft,Northern_Yellow_Warbler_1ft.wav,True,True,True,1,True,True,True,1,True,0.9617,0.9617,1.0,0.9617,0.0,1.0
+E4_week_and_location,Oak Titmouse,1ft,Oak_Titmouse_1ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.910375,1.0,0.910375,0.0,1.0
+E4_week_and_location,Rock Pigeon,1ft,Rock_Pigeon_1ft.wav,True,True,True,1,True,True,True,1,True,0.9875,0.8856333333333333,1.0,0.8856333333333333,0.0,1.0
+E4_week_and_location,Song Sparrow,1ft,Song_Sparrow_1ft.wav,True,True,True,1,True,True,True,1,True,0.9159,0.9159,1.0,0.9159,0.0,1.0
+E4_week_and_location,Spotted Towhee,1ft,Spotted_Towhee_1ft.wav,True,True,True,1,True,True,True,1,True,0.9864,0.9761,1.0,0.9761,0.0,1.0
+E4_week_and_location,American Robin,4ft,American_Robin_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.937825,1.0,0.9196,0.018225000000000047,1.0198183993040453
+E4_week_and_location,Anna's Hummingbird,4ft,Annas_Hummingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.9993,0.9959749999999999,1.0,0.94445,0.05152499999999993,1.0545555614378739
+E4_week_and_location,Barn Swallow,4ft,Barn_Swallow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9994000000000001,1.0,0.9812333333333334,0.018166666666666664,1.0185141148894248
+E4_week_and_location,Bewick's Wren,4ft,Bewicks_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.7954,0.7954,1.0,0.8609,-0.0655,0.9239168312231386
+E4_week_and_location,Black Phoebe,4ft,Black_Phoebe_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.998875,1.0,0.9997250000000001,-0.0008500000000001284,0.999149766185701
+E4_week_and_location,California Towhee,4ft,California_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.99595,1.0,0.9981,-0.0021499999999999853,0.9978459072237251
+E4_week_and_location,Dark-eyed Junco,4ft,Dark_eyed_Junco_4ft.wav,True,True,True,1,True,True,True,1,True,0.983,0.9716,1.0,0.9764999999999999,-0.004899999999999904,0.9949820788530467
+E4_week_and_location,European Starling,4ft,European_Starling_4ft.wav,True,True,True,1,True,True,True,1,True,0.6804,0.2636,1.0,0.344325,-0.08072499999999999,0.7655557975749655
+E4_week_and_location,Hooded Oriole,4ft,Hooded_Oriole_4ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.928525,1.0,0.755325,0.17320000000000002,1.229305265945123
+E4_week_and_location,House Finch,4ft,House_Finch_4ft.wav,True,True,True,1,True,True,True,1,True,0.9675,0.8809333333333335,1.0,0.6496333333333334,0.23130000000000006,1.356047000872287
+E4_week_and_location,House Sparrow,4ft,House_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.6954,0.4852,1.0,0.5964,-0.11120000000000002,0.8135479543930247
+E4_week_and_location,Lesser Goldfinch,4ft,Lesser_Goldfinch_4ft.wav,True,True,True,1,False,True,True,2,True,0.4046,0.217675,1.0,0.06257499999999999,0.15510000000000002,3.4786256492209353
+E4_week_and_location,Mourning Dove,4ft,Mourning_Dove_4ft.wav,True,True,True,1,True,True,True,1,True,0.9449,0.8314666666666666,1.0,0.7801,0.05136666666666656,1.0658462590266204
+E4_week_and_location,Northern House Wren,4ft,Northern_House_Wren_4ft.wav,True,True,True,1,True,True,True,1,True,0.9978,0.8470333333333334,1.0,0.7593666666666667,0.08766666666666667,1.115447083095562
+E4_week_and_location,Northern Mockingbird,4ft,Northern_Mockingbird_4ft.wav,True,True,True,1,True,True,True,1,True,0.8118,0.35974999999999996,1.0,0.31260000000000004,0.047149999999999914,1.1508317338451692
+E4_week_and_location,Northern Yellow Warbler,4ft,Northern_Yellow_Warbler_4ft.wav,True,True,True,1,True,True,True,1,True,0.9331,0.9331,1.0,0.9617,-0.02859999999999996,0.9702609961526464
+E4_week_and_location,Oak Titmouse,4ft,Oak_Titmouse_4ft.wav,True,True,True,1,True,True,True,1,True,0.9989,0.894675,1.0,0.910375,-0.015700000000000047,0.9827543594672524
+E4_week_and_location,Rock Pigeon,4ft,Rock_Pigeon_4ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9934666666666666,1.0,0.8856333333333333,0.10783333333333334,1.1217584402875531
+E4_week_and_location,Song Sparrow,4ft,Song_Sparrow_4ft.wav,True,True,True,1,True,True,True,1,True,0.9624,0.9624,1.0,0.9159,0.046499999999999986,1.050769734687193
+E4_week_and_location,Spotted Towhee,4ft,Spotted_Towhee_4ft.wav,True,True,True,1,True,True,True,1,True,0.9896,0.9879,1.0,0.9761,0.011800000000000033,1.0120889253150291
+E4_week_and_location,American Robin,8ft,American_Robin_8ft.wav,True,True,True,1,True,True,True,1,True,0.969,0.85685,1.0,0.9196,-0.06274999999999997,0.9317638103523271
+E4_week_and_location,Anna's Hummingbird,8ft,Annas_Hummingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9588000000000001,1.0,0.94445,0.014350000000000085,1.015194028270422
+E4_week_and_location,Barn Swallow,8ft,Barn_Swallow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9986,0.9903666666666666,1.0,0.9812333333333334,0.009133333333333216,1.0093080137242245
+E4_week_and_location,Bewick's Wren,8ft,Bewicks_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.8914,0.8914,1.0,0.8609,0.03049999999999997,1.0354280404228133
+E4_week_and_location,Black Phoebe,8ft,Black_Phoebe_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9988999999999999,1.0,0.9997250000000001,-0.0008250000000001867,0.9991747730625921
+E4_week_and_location,California Towhee,8ft,California_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9996,0.9963500000000001,1.0,0.9981,-0.0017499999999999183,0.998246668670474
+E4_week_and_location,Dark-eyed Junco,8ft,Dark_eyed_Junco_8ft.wav,True,True,True,1,True,True,True,1,True,0.9858,0.97185,1.0,0.9764999999999999,-0.004649999999999932,0.9952380952380953
+E4_week_and_location,European Starling,8ft,European_Starling_8ft.wav,True,True,True,1,True,True,True,1,True,0.3068,0.144825,1.0,0.344325,-0.19949999999999998,0.42060553256371164
+E4_week_and_location,Hooded Oriole,8ft,Hooded_Oriole_8ft.wav,True,True,True,1,True,True,True,1,True,0.9939,0.6775,1.0,0.755325,-0.07782500000000003,0.8969648826664018
+E4_week_and_location,House Finch,8ft,House_Finch_8ft.wav,True,True,True,1,True,True,True,1,True,0.6912,0.29940000000000005,1.0,0.6496333333333334,-0.35023333333333334,0.46087536559084613
+E4_week_and_location,House Sparrow,8ft,House_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.3691,0.288925,1.0,0.5964,-0.30747500000000005,0.4844483568075117
+E4_week_and_location,Lesser Goldfinch,8ft,Lesser_Goldfinch_8ft.wav,True,True,True,1,True,True,True,1,True,0.4873,0.1922,1.0,0.06257499999999999,0.12962500000000002,3.0715141829804242
+E4_week_and_location,Mourning Dove,8ft,Mourning_Dove_8ft.wav,True,True,True,1,True,True,True,1,True,0.5156,0.21356666666666665,1.0,0.7801,-0.5665333333333333,0.2737683203008161
+E4_week_and_location,Northern House Wren,8ft,Northern_House_Wren_8ft.wav,True,True,True,1,True,True,True,1,True,0.9958,0.7113666666666667,1.0,0.7593666666666667,-0.04800000000000004,0.9367894297879812
+E4_week_and_location,Northern Mockingbird,8ft,Northern_Mockingbird_8ft.wav,True,True,True,1,True,True,True,1,True,0.8684,0.4608,1.0,0.31260000000000004,0.14819999999999994,1.474088291746641
+E4_week_and_location,Northern Yellow Warbler,8ft,Northern_Yellow_Warbler_8ft.wav,True,True,True,1,True,True,True,1,True,0.9017,0.9017,1.0,0.9617,-0.06000000000000005,0.9376104814391182
+E4_week_and_location,Oak Titmouse,8ft,Oak_Titmouse_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7524,1.0,0.910375,-0.1579750000000001,0.8264726074419881
+E4_week_and_location,Rock Pigeon,8ft,Rock_Pigeon_8ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9980666666666668,1.0,0.8856333333333333,0.1124333333333335,1.1269524633971923
+E4_week_and_location,Song Sparrow,8ft,Song_Sparrow_8ft.wav,True,True,True,1,True,True,True,1,True,0.9496,0.9496,1.0,0.9159,0.03369999999999995,1.0367944098700732
+E4_week_and_location,Spotted Towhee,8ft,Spotted_Towhee_8ft.wav,True,True,True,1,True,True,True,1,True,0.9755,0.9726,1.0,0.9761,-0.0034999999999999476,0.9964143018133389
+E4_week_and_location,American Robin,12ft,American_Robin_12ft.wav,True,True,True,1,True,True,True,1,True,0.8056,0.7108,1.0,0.9196,-0.20879999999999999,0.7729447585906916
+E4_week_and_location,Anna's Hummingbird,12ft,Annas_Hummingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.98305,1.0,0.94445,0.03859999999999997,1.0408703478214834
+E4_week_and_location,Barn Swallow,12ft,Barn_Swallow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9988,0.9975333333333335,1.0,0.9812333333333334,0.016300000000000092,1.0166117471209704
+E4_week_and_location,Bewick's Wren,12ft,Bewicks_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.8706,0.8706,1.0,0.8609,0.009700000000000042,1.0112672784295504
+E4_week_and_location,Black Phoebe,12ft,Black_Phoebe_12ft.wav,True,True,True,1,True,True,True,1,True,0.9997,0.994775,1.0,0.9997250000000001,-0.004950000000000121,0.9950486383755531
+E4_week_and_location,California Towhee,12ft,California_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.999,0.99515,1.0,0.9981,-0.002950000000000008,0.9970443843302275
+E4_week_and_location,Dark-eyed Junco,12ft,Dark_eyed_Junco_12ft.wav,True,True,True,1,True,True,True,1,True,0.9696,0.9493,1.0,0.9764999999999999,-0.02719999999999989,0.9721454173067078
+E4_week_and_location,European Starling,12ft,European_Starling_12ft.wav,True,True,True,1,True,True,True,1,True,0.562,0.192225,0.75,0.344325,-0.15209999999999999,0.5582661729470704
+E4_week_and_location,Hooded Oriole,12ft,Hooded_Oriole_12ft.wav,True,True,True,1,True,True,True,1,True,0.9354,0.6271499999999999,1.0,0.755325,-0.12817500000000015,0.8303048356667657
+E4_week_and_location,House Finch,12ft,House_Finch_12ft.wav,True,True,True,1,True,True,True,1,True,0.9257,0.6542,1.0,0.6496333333333334,0.004566666666666608,1.007029606444661
+E4_week_and_location,House Sparrow,12ft,House_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.7826,0.463075,1.0,0.5964,-0.13332500000000003,0.7764503688799463
+E4_week_and_location,Lesser Goldfinch,12ft,Lesser_Goldfinch_12ft.wav,True,True,True,1,True,True,True,1,True,0.443,0.20464999999999997,1.0,0.06257499999999999,0.14207499999999998,3.2704754294846183
+E4_week_and_location,Mourning Dove,12ft,Mourning_Dove_12ft.wav,True,True,True,1,True,True,True,1,True,0.9556,0.5309,1.0,0.7801,-0.24919999999999998,0.6805537751570312
+E4_week_and_location,Northern House Wren,12ft,Northern_House_Wren_12ft.wav,True,True,True,1,True,True,True,1,True,0.9941,0.7785666666666667,1.0,0.7593666666666667,0.019199999999999995,1.0252842280848076
+E4_week_and_location,Northern Mockingbird,12ft,Northern_Mockingbird_12ft.wav,True,True,True,1,True,True,True,1,True,0.7178,0.3065,1.0,0.31260000000000004,-0.00610000000000005,0.9804862444017912
+E4_week_and_location,Northern Yellow Warbler,12ft,Northern_Yellow_Warbler_12ft.wav,True,True,True,1,True,True,True,1,True,0.8782,0.8782,1.0,0.9617,-0.08350000000000002,0.9131745866694395
+E4_week_and_location,Oak Titmouse,12ft,Oak_Titmouse_12ft.wav,True,True,True,1,True,True,True,1,True,0.9991,0.76805,1.0,0.910375,-0.14232500000000003,0.8436633255526569
+E4_week_and_location,Rock Pigeon,12ft,Rock_Pigeon_12ft.wav,True,True,True,1,True,True,True,1,True,0.9948,0.9921666666666668,1.0,0.8856333333333333,0.10653333333333348,1.120290564191351
+E4_week_and_location,Song Sparrow,12ft,Song_Sparrow_12ft.wav,True,True,True,1,True,True,True,1,True,0.9502,0.9502,1.0,0.9159,0.0343,1.0374495032208757
+E4_week_and_location,Spotted Towhee,12ft,Spotted_Towhee_12ft.wav,True,True,True,1,True,True,True,1,True,0.9848,0.97085,1.0,0.9761,-0.005249999999999977,0.9946214527200082
+E4_week_and_location,American Robin,24ft,American_Robin_24ft.wav,True,True,True,1,True,True,True,1,True,0.6834,0.620475,1.0,0.9196,-0.299125,0.6747227055241409
+E4_week_and_location,Anna's Hummingbird,24ft,Annas_Hummingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.9968,0.915325,1.0,0.94445,-0.029124999999999956,0.9691619461061994
+E4_week_and_location,Barn Swallow,24ft,Barn_Swallow_24ft.wav,True,True,True,1,True,True,True,1,True,0.9924,0.7226333333333333,1.0,0.9812333333333334,-0.25860000000000005,0.7364541223630126
+E4_week_and_location,Bewick's Wren,24ft,Bewicks_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.1983,0.1983,1.0,0.8609,-0.6626,0.23034034150307817
+E4_week_and_location,Black Phoebe,24ft,Black_Phoebe_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.9955750000000001,1.0,0.9997250000000001,-0.004149999999999987,0.99584885843607
+E4_week_and_location,California Towhee,24ft,California_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9971,0.9838,1.0,0.9981,-0.01429999999999998,0.9856727782787296
+E4_week_and_location,Dark-eyed Junco,24ft,Dark_eyed_Junco_24ft.wav,True,True,True,1,True,True,True,1,True,0.9113,0.7918000000000001,1.0,0.9764999999999999,-0.18469999999999986,0.8108550947260625
+E4_week_and_location,European Starling,24ft,European_Starling_24ft.wav,True,True,True,1,True,True,True,1,True,0.2317,0.077275,1.0,0.344325,-0.26705,0.22442459885282798
+E4_week_and_location,Hooded Oriole,24ft,Hooded_Oriole_24ft.wav,True,True,True,1,True,True,True,1,True,0.9843,0.639725,1.0,0.755325,-0.11560000000000004,0.846953298249098
+E4_week_and_location,House Finch,24ft,House_Finch_24ft.wav,True,True,True,1,True,True,True,1,True,0.4622,0.19163333333333332,1.0,0.6496333333333334,-0.4580000000000001,0.29498691569603364
+E4_week_and_location,House Sparrow,24ft,House_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.8031,0.5458999999999999,1.0,0.5964,-0.0505000000000001,0.9153252850435948
+E4_week_and_location,Lesser Goldfinch,24ft,Lesser_Goldfinch_24ft.wav,True,True,True,1,True,True,True,1,True,0.1727,0.08202499999999999,1.0,0.06257499999999999,0.019449999999999995,1.310827007590891
+E4_week_and_location,Mourning Dove,24ft,Mourning_Dove_24ft.wav,True,True,True,1,True,True,True,1,True,0.9472,0.8266333333333334,1.0,0.7801,0.046533333333333426,1.0596504721616888
+E4_week_and_location,Northern House Wren,24ft,Northern_House_Wren_24ft.wav,True,True,True,1,True,True,True,1,True,0.9771,0.7959333333333333,1.0,0.7593666666666667,0.036566666666666525,1.0481541635573501
+E4_week_and_location,Northern Mockingbird,24ft,Northern_Mockingbird_24ft.wav,True,True,True,1,True,True,True,1,True,0.3493,0.12232499999999999,1.0,0.31260000000000004,-0.19027500000000006,0.3913147792706333
+E4_week_and_location,Northern Yellow Warbler,24ft,Northern_Yellow_Warbler_24ft.wav,True,True,True,1,True,True,True,1,True,0.6093,0.6093,1.0,0.9617,-0.35240000000000005,0.6335655609857543
+E4_week_and_location,Oak Titmouse,24ft,Oak_Titmouse_24ft.wav,True,True,True,1,True,True,True,1,True,0.9995,0.7583500000000001,1.0,0.910375,-0.15202499999999997,0.833008375669367
+E4_week_and_location,Rock Pigeon,24ft,Rock_Pigeon_24ft.wav,True,True,True,1,True,True,True,1,True,0.9938,0.9758333333333334,1.0,0.8856333333333333,0.09020000000000017,1.1018480183672703
+E4_week_and_location,Song Sparrow,24ft,Song_Sparrow_24ft.wav,True,True,True,1,True,True,True,1,True,0.6543,0.6543,1.0,0.9159,-0.26160000000000005,0.7143792990501145
+E4_week_and_location,Spotted Towhee,24ft,Spotted_Towhee_24ft.wav,True,True,True,1,True,True,True,1,True,0.9325,0.9065,1.0,0.9761,-0.0696,0.9286958303452515
+E4_week_and_location,American Robin,36ft,American_Robin_36ft.wav,True,True,True,1,True,True,True,1,True,0.5516,0.49185,1.0,0.9196,-0.42774999999999996,0.5348521096128752
+E4_week_and_location,Anna's Hummingbird,36ft,Annas_Hummingbird_36ft.wav,True,True,True,1,True,True,True,1,True,0.9977,0.941225,1.0,0.94445,-0.0032250000000000334,0.9965853142040341
+E4_week_and_location,Barn Swallow,36ft,Barn_Swallow_36ft.wav,True,True,True,1,True,True,True,1,True,0.9801,0.7431666666666666,1.0,0.9812333333333334,-0.23806666666666676,0.7573801678160138
+E4_week_and_location,Bewick's Wren,36ft,Bewicks_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.4043,0.4043,1.0,0.8609,-0.4566,0.4696248112440469
+E4_week_and_location,Black Phoebe,36ft,Black_Phoebe_36ft.wav,True,True,True,1,True,True,True,1,True,0.9994,0.99785,1.0,0.9997250000000001,-0.001875000000000071,0.998124484233164
+E4_week_and_location,California Towhee,36ft,California_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.9984,0.99195,1.0,0.9981,-0.006149999999999989,0.9938382927562368
+E4_week_and_location,Dark-eyed Junco,36ft,Dark_eyed_Junco_36ft.wav,True,True,True,1,True,True,True,1,True,0.8534,0.85165,1.0,0.9764999999999999,-0.1248499999999999,0.8721454173067077
+E4_week_and_location,European Starling,36ft,European_Starling_36ft.wav,False,True,True,2,False,True,True,3,True,0.059,0.030875,1.0,0.344325,-0.31345,0.0896681913889494
+E4_week_and_location,Hooded Oriole,36ft,Hooded_Oriole_36ft.wav,True,True,True,1,False,True,True,2,True,0.5376,0.257175,1.0,0.755325,-0.49815000000000004,0.3404825737265415
+E4_week_and_location,House Finch,36ft,House_Finch_36ft.wav,True,True,True,1,True,True,True,1,True,0.7507,0.48466666666666663,1.0,0.6496333333333334,-0.16496666666666676,0.7460618810611113
+E4_week_and_location,House Sparrow,36ft,House_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.5626,0.419625,1.0,0.5964,-0.17677500000000002,0.7035965794768612
+E4_week_and_location,Lesser Goldfinch,36ft,Lesser_Goldfinch_36ft.wav,True,True,True,1,True,True,True,1,True,0.3181,0.093025,1.0,0.06257499999999999,0.030450000000000005,1.4866160607271275
+E4_week_and_location,Mourning Dove,36ft,Mourning_Dove_36ft.wav,True,True,True,1,True,True,True,1,True,0.9356,0.8233333333333333,1.0,0.7801,0.043233333333333235,1.0554202452677006
+E4_week_and_location,Northern House Wren,36ft,Northern_House_Wren_36ft.wav,True,True,True,1,True,True,True,1,True,0.8912,0.6075666666666667,1.0,0.7593666666666667,-0.15180000000000005,0.8000965717044906
+E4_week_and_location,Northern Mockingbird,36ft,Northern_Mockingbird_36ft.wav,True,True,True,1,True,True,True,1,True,0.0809,0.0304,0.75,0.31260000000000004,-0.28220000000000006,0.09724888035828533
+E4_week_and_location,Northern Yellow Warbler,36ft,Northern_Yellow_Warbler_36ft.wav,True,True,True,1,True,True,True,1,True,0.5861,0.5861,1.0,0.9617,-0.37560000000000004,0.6094416138088801
+E4_week_and_location,Oak Titmouse,36ft,Oak_Titmouse_36ft.wav,True,True,True,1,True,True,True,1,True,0.9975,0.76155,1.0,0.910375,-0.1488250000000001,0.836523410682411
+E4_week_and_location,Rock Pigeon,36ft,Rock_Pigeon_36ft.wav,True,True,True,1,True,True,True,1,True,0.9825,0.9630666666666666,1.0,0.8856333333333333,0.07743333333333335,1.0874327223455909
+E4_week_and_location,Song Sparrow,36ft,Song_Sparrow_36ft.wav,True,True,True,1,True,True,True,1,True,0.6727,0.6727,1.0,0.9159,-0.24320000000000008,0.7344688284747243
+E4_week_and_location,Spotted Towhee,36ft,Spotted_Towhee_36ft.wav,True,True,True,1,True,True,True,1,True,0.8397,0.823,1.0,0.9761,-0.1531,0.8431513164634771
+E4_week_and_location,American Robin,48ft,American_Robin_48ft.wav,True,True,True,1,True,True,True,1,True,0.2161,0.07375,0.5,0.9196,-0.84585,0.08019791213571117
+E4_week_and_location,Anna's Hummingbird,48ft,Anna_s_Hummingbird_48ft.wav,True,True,True,1,True,True,True,1,True,0.9961,0.73065,1.0,0.94445,-0.2138,0.7736248610302292
+E4_week_and_location,Barn Swallow,48ft,Barn_Swallow_48ft.wav,True,True,True,1,True,True,True,1,True,0.8637,0.3575333333333333,1.0,0.9812333333333334,-0.6237000000000001,0.3643713693650847
+E4_week_and_location,Bewick's Wren,48ft,Bewick_s_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.1707,0.1707,1.0,0.8609,-0.6902,0.19828086885817167
+E4_week_and_location,Black Phoebe,48ft,Black_Phoebe_48ft.wav,True,True,True,1,True,True,True,1,True,0.932,0.503175,0.75,0.9997250000000001,-0.49655000000000005,0.5033134111880767
+E4_week_and_location,California Towhee,48ft,California_Towhee_48ft.wav,True,True,True,1,True,True,True,1,True,0.6311,0.48965000000000003,1.0,0.9981,-0.50845,0.4905821060014027
+E4_week_and_location,Dark-eyed Junco,48ft,Dark_eyed_Junco_48ft.wav,True,True,True,1,True,True,True,1,True,0.5911,0.5517,1.0,0.9764999999999999,-0.42479999999999996,0.5649769585253457
+E4_week_and_location,European Starling,48ft,European_Starling_48ft.wav,False,True,True,3,False,True,True,3,True,0.0338,0.00955,0.5,0.344325,-0.334775,0.027735424381035358
+E4_week_and_location,Hooded Oriole,48ft,Hooded_Oriole_48ft.wav,False,True,True,2,False,True,True,2,True,0.3573,0.09255000000000001,0.75,0.755325,-0.662775,0.12253003673915203
+E4_week_and_location,House Finch,48ft,House_Finch_48ft.wav,True,True,True,1,True,True,True,1,True,0.9922,0.4684,1.0,0.6496333333333334,-0.1812333333333334,0.7210221150392528
+E4_week_and_location,House Sparrow,48ft,House_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.558,0.374925,0.75,0.5964,-0.22147500000000003,0.6286468812877263
+E4_week_and_location,Lesser Goldfinch,48ft,Lesser_Goldfinch_48ft.wav,True,True,True,1,True,True,True,1,True,0.8851,0.335575,1.0,0.06257499999999999,0.273,5.362764682381144
+E4_week_and_location,Mourning Dove,48ft,Mourning_Dove_48ft.wav,True,True,True,1,True,True,True,1,True,0.9537,0.5191,1.0,0.7801,-0.261,0.6654275092936803
+E4_week_and_location,Northern House Wren,48ft,Northern_House_Wren_48ft.wav,True,True,True,1,True,True,True,1,True,0.9277,0.31083333333333335,0.6666666666666666,0.7593666666666667,-0.4485333333333334,0.4093323383521355
+E4_week_and_location,Northern Mockingbird,48ft,Northern_Mockingbird_48ft.wav,True,True,True,1,True,True,True,1,True,0.2162,0.1022,0.75,0.31260000000000004,-0.21040000000000003,0.32693538067818295
+E4_week_and_location,Northern Yellow Warbler,48ft,Northern_Yellow_Warbler_48ft.wav,True,True,True,1,True,True,True,1,True,0.5094,0.5094,1.0,0.9617,-0.45230000000000004,0.5296870125818862
+E4_week_and_location,Oak Titmouse,48ft,Oak_Titmouse_48ft.wav,True,True,True,1,True,True,True,1,True,0.9687,0.311275,1.0,0.910375,-0.5991,0.34191953865165453
+E4_week_and_location,Rock Pigeon,48ft,Rock_Pigeon_48ft.wav,True,True,True,1,True,True,True,1,True,0.6812,0.2518,1.0,0.8856333333333333,-0.6338333333333332,0.2843163084798073
+E4_week_and_location,Song Sparrow,48ft,Song_Sparrow_48ft.wav,True,True,True,1,True,True,True,1,True,0.299,0.299,1.0,0.9159,-0.6169,0.3264548531499072
+E4_week_and_location,Spotted Towhee,48ft,Spotted_Towhee_48ft.wav,True,True,True,1,True,True,True,1,True,0.0927,0.0597,1.0,0.9761,-0.9164,0.061161766212478236

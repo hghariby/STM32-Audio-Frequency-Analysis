@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Junco hyemalis,Dark-eyed Junco,0.8534,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga pinus,Pine Warbler,0.0872,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spizella passerina,Chipping Sparrow,0.0732,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Emberiza cirlus,Cirl Bunting,0.0383,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza georgiana,Swamp Sparrow,0.0250,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Loxia leucoptera,White-winged Crossbill,0.0159,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga graciae,Grace's Warbler,0.0142,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo solitarius,Blue-headed Vireo,0.0093,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga coronata,Yellow-rumped Warbler,0.0076,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Certhia americana,Brown Creeper,0.0064,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Leiothlypis celata,Orange-crowned Warbler,0.0047,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.0042,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Setophaga ruticilla,American Redstart,0.0035,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Picoides dorsalis,American Three-toed Woodpecker,0.0030,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sitta canadensis,Red-breasted Nuthatch,0.0030,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0029,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Phylloscopus borealis,Arctic Warbler,0.0027,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo olivaceus,Red-eyed Vireo,0.0026,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0023,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+0.0,3.0,Empidonax minimus,Least Flycatcher,0.0022,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.1311,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0564,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Bubo bubo,Eurasian Eagle-Owl,0.0109,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Parkesia motacilla,Louisiana Waterthrush,0.0070,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates villosus,Hairy Woodpecker,0.0066,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0062,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cinclus mexicanus,American Dipper,0.0054,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Loxia leucoptera,White-winged Crossbill,0.0051,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0051,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0051,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cardinalis cardinalis,Northern Cardinal,0.0047,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0046,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo olivaceus,Red-eyed Vireo,0.0045,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Alcedo atthis,Common Kingfisher,0.0044,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Phylloscopus tenellipes,Pale-legged Leaf Warbler,0.0042,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Scolopax minor,American Woodcock,0.0041,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Serinus canaria,Island Canary,0.0041,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0040,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Buteo platypterus,Broad-winged Hawk,0.0040,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+3.0,6.0,Columba palumbus,Common Wood-Pigeon,0.0038,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Junco hyemalis,Dark-eyed Junco,0.8499,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Emberiza cirlus,Cirl Bunting,0.1280,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga pinus,Pine Warbler,0.0851,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0604,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia leucoptera,White-winged Crossbill,0.0206,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Certhia americana,Brown Creeper,0.0132,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga coronata,Yellow-rumped Warbler,0.0095,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza georgiana,Swamp Sparrow,0.0093,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga graciae,Grace's Warbler,0.0067,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Vireo solitarius,Blue-headed Vireo,0.0058,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0057,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis celata,Orange-crowned Warbler,0.0057,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Asio otus,Long-eared Owl,0.0053,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Picoides dorsalis,American Three-toed Woodpecker,0.0046,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Seiurus aurocapilla,Ovenbird,0.0041,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax oberholseri,Dusky Flycatcher,0.0040,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Zonotrichia albicollis,White-throated Sparrow,0.0037,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga ruticilla,American Redstart,0.0037,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga occidentalis,Hermit Warbler,0.0035,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza lincolnii,Lincoln's Sparrow,0.0034,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Haematopus ostralegus,Eurasian Oystercatcher,0.0221,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Microeca fascinans,Jacky-winter,0.0211,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus philomelos,Song Thrush,0.0203,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Mimus polyglottos,Northern Mockingbird,0.0143,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Contopus cooperi,Olive-sided Flycatcher,0.0140,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Chamaea fasciata,Wrentit,0.0136,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Setophaga dominica,Yellow-throated Warbler,0.0130,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Corthylio calendula,Ruby-crowned Kinglet,0.0088,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0088,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Leiothlypis ruficapilla,Nashville Warbler,0.0084,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Setophaga pinus,Pine Warbler,0.0068,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Siren,Siren,0.0067,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Geothlypis formosa,Kentucky Warbler,0.0067,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Parkesia motacilla,Louisiana Waterthrush,0.0063,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Mimus gilvus,Tropical Mockingbird,0.0057,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Meleagris gallopavo,Wild Turkey,0.0055,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bonasa umbellus,Ruffed Grouse,0.0054,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Icteria virens,Yellow-breasted Chat,0.0053,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dryocopus martius,Black Woodpecker,0.0051,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01
+9.0,10.0,Gallinago delicata,Wilson's Snipe,0.0048,Birdsongs Recordings\36ft\Dark_eyed_Junco_36ft.wav,-1,-1,-1,0.01

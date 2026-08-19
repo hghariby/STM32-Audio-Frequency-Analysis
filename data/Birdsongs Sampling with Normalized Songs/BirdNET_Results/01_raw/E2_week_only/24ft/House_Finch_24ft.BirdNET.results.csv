@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Haemorhous mexicanus,House Finch,0.4622,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Chloris chloris,European Greenfinch,0.2704,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Erithacus rubecula,European Robin,0.1936,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Copsychus saularis,Oriental Magpie-Robin,0.0345,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Elaenia flavogaster,Yellow-bellied Elaenia,0.0199,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0189,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Sylvia atricapilla,Eurasian Blackcap,0.0148,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Icterus spurius,Orchard Oriole,0.0066,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Turdus philomelos,Song Thrush,0.0058,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Mimus polyglottos,Northern Mockingbird,0.0042,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Linaria cannabina,Eurasian Linnet,0.0031,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Oenanthe fusca,Brown Rock Chat,0.0026,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Engine,Engine,0.0024,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Monticola solitarius,Blue Rock-Thrush,0.0019,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Tyrannus melancholicus,Tropical Kingbird,0.0015,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Myiothlypis coronata,Russet-crowned Warbler,0.0015,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Cyanoptila cyanomelana,Blue-and-white Flycatcher,0.0015,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Plectrophenax nivalis,Snow Bunting,0.0012,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Oenanthe leucura,Black Wheatear,0.0012,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+0.0,3.0,Passerella iliaca,Fox Sparrow,0.0010,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Microeca flavigaster,Lemon-bellied Flycatcher,0.0211,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Passerina caerulea,Blue Grosbeak,0.0201,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Ficedula zanthopygia,Yellow-rumped Flycatcher,0.0193,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Turdus serranus,Glossy-black Thrush,0.0121,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Haemorhous purpureus,Purple Finch,0.0095,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Tarsiger cyanurus,Red-flanked Bluetail,0.0092,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Elaenia flavogaster,Yellow-bellied Elaenia,0.0090,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Pycnonotus jocosus,Red-whiskered Bulbul,0.0035,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0024,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Pinicola enucleator,Pine Grosbeak,0.0022,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Copsychus saularis,Oriental Magpie-Robin,0.0017,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Chloropsis hardwickii,Orange-bellied Leafbird,0.0016,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Mimus gilvus,Tropical Mockingbird,0.0015,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Turdus flavipes,Yellow-legged Thrush,0.0011,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Pycnonotus aurigaster,Sooty-headed Bulbul,0.0009,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Sylvietta ruficapilla,Red-capped Crombec,0.0009,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0008,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Coccothraustes vespertinus,Evening Grosbeak,0.0008,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Vireo chivi,Chivi Vireo,0.0007,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+3.0,6.0,Mimus polyglottos,Northern Mockingbird,0.0007,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.1103,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Copsychus saularis,Oriental Magpie-Robin,0.0476,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Icterus spurius,Orchard Oriole,0.0401,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Elaenia flavogaster,Yellow-bellied Elaenia,0.0123,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Oenanthe leucura,Black Wheatear,0.0123,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Erithacus rubecula,European Robin,0.0120,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Plectrophenax nivalis,Snow Bunting,0.0111,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0086,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Monticola solitarius,Blue Rock-Thrush,0.0085,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Cossypha semirufa,Rüppell's Robin-Chat,0.0055,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Chloris chloris,European Greenfinch,0.0052,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Ficedula zanthopygia,Yellow-rumped Flycatcher,0.0035,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Oenanthe fusca,Brown Rock Chat,0.0028,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Saxicola caprata,Pied Bushchat,0.0025,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Passerella iliaca,Fox Sparrow,0.0023,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Turdus iliacus,Redwing,0.0020,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Zonotrichia leucophrys,White-crowned Sparrow,0.0016,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Andropadus importunus,Sombre Greenbul,0.0016,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Gracupica contra,Asian Pied Starling,0.0016,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+6.0,9.0,Cyanoptila cyanomelana,Blue-and-white Flycatcher,0.0015,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Engine,Engine,0.0319,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Corvus splendens,House Crow,0.0111,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Power tools,Power tools,0.0082,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Athene brama,Spotted Owlet,0.0072,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Acridotheres tristis,Common Myna,0.0058,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Human vocal,Human vocal,0.0058,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0056,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Vanellus malabaricus,Yellow-wattled Lapwing,0.0053,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0053,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Eudynamys scolopaceus,Asian Koel,0.0053,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Ketupa zeylonensis,Brown Fish-Owl,0.0046,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0046,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Pseudibis papillosa,Red-naped Ibis,0.0046,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Spilornis cheela,Crested Serpent-Eagle,0.0044,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Corvus macrorhynchos,Large-billed Crow,0.0041,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Dendrocitta vagabunda,Rufous Treepie,0.0039,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0039,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Siren,Siren,0.0039,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Corvus ossifragus,Fish Crow,0.0038,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01
+9.0,10.0,Psittacula eupatria,Alexandrine Parakeet,0.0036,Birdsongs Recordings\24ft\House_Finch_24ft.wav,-1,-1,27,0.01

@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Hirundo rustica,Barn Swallow,0.9801,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0023,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Ardea herodias,Great Blue Heron,0.0016,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0014,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Anas platyrhynchos,Mallard,0.0012,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Tyrannus verticalis,Western Kingbird,0.0011,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0011,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Rallus limicola,Virginia Rail,0.0011,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0010,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Aeronautes saxatalis,White-throated Swift,0.0008,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Actitis macularius,Spotted Sandpiper,0.0008,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Riparia riparia,Bank Swallow,0.0008,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates villosus,Hairy Woodpecker,0.0008,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0007,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Bucephala albeola,Bufflehead,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Geothlypis trichas,Common Yellowthroat,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Mergus merganser,Common Merganser,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+0.0,3.0,Dryocopus pileatus,Pileated Woodpecker,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Hirundo rustica,Barn Swallow,0.7880,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0313,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Tyrannus verticalis,Western Kingbird,0.0094,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Tachycineta thalassina,Violet-green Swallow,0.0047,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Passer domesticus,House Sparrow,0.0031,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Haemorhous mexicanus,House Finch,0.0030,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates villosus,Hairy Woodpecker,0.0029,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Melospiza lincolnii,Lincoln's Sparrow,0.0021,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Tachycineta bicolor,Tree Swallow,0.0019,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0014,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Rallus limicola,Virginia Rail,0.0013,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Bubo virginianus,Great Horned Owl,0.0013,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Piranga ludoviciana,Western Tanager,0.0013,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates nuttallii,Nuttall's Woodpecker,0.0012,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Pipilo chlorurus,Green-tailed Towhee,0.0011,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0010,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0010,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Colaptes auratus,Northern Flicker,0.0009,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Callipepla californica,California Quail,0.0009,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+3.0,6.0,Geococcyx californianus,Greater Roadrunner,0.0009,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Hirundo rustica,Barn Swallow,0.4614,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Petrochelidon pyrrhonota,Cliff Swallow,0.0020,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Tyrannus verticalis,Western Kingbird,0.0014,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0010,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Aeronautes saxatalis,White-throated Swift,0.0009,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Anas platyrhynchos,Mallard,0.0008,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Nycticorax nycticorax,Black-crowned Night-Heron,0.0007,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spizella breweri,Brewer's Sparrow,0.0007,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Artemisiospiza belli,Bell's Sparrow,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Catharus ustulatus,Swainson's Thrush,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Catherpes mexicanus,Canyon Wren,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Quiscalus mexicanus,Great-tailed Grackle,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Stelgidopteryx serripennis,Northern Rough-winged Swallow,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Mergus merganser,Common Merganser,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Podilymbus podiceps,Pied-billed Grebe,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Tachycineta thalassina,Violet-green Swallow,0.0003,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Spizella atrogularis,Black-chinned Sparrow,0.0003,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+6.0,9.0,Melospiza lincolnii,Lincoln's Sparrow,0.0003,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Setophaga nigrescens,Black-throated Gray Warbler,0.0016,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Leiothlypis ruficapilla,Nashville Warbler,0.0014,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Accipiter striatus,Sharp-shinned Hawk,0.0011,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryobates villosus,Hairy Woodpecker,0.0009,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Setophaga petechia,Yellow Warbler,0.0008,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Sayornis nigricans,Black Phoebe,0.0007,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Passerina amoena,Lazuli Bunting,0.0007,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Troglodytes aedon,House Wren,0.0007,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Geothlypis tolmiei,MacGillivray's Warbler,0.0006,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Spinus pinus,Pine Siskin,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Cardellina pusilla,Wilson's Warbler,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Setophaga occidentalis,Hermit Warbler,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Leiothlypis celata,Orange-crowned Warbler,0.0005,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Contopus cooperi,Olive-sided Flycatcher,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Tachycineta thalassina,Violet-green Swallow,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Dryocopus pileatus,Pileated Woodpecker,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Certhia americana,Brown Creeper,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Empidonax hammondii,Hammond's Flycatcher,0.0004,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Geothlypis trichas,Common Yellowthroat,0.0003,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01
+9.0,10.0,Melospiza melodia,Song Sparrow,0.0003,Birdsongs Recordings\36ft\Barn_Swallow_36ft.wav,34.0522,-118.2437,-1,0.01

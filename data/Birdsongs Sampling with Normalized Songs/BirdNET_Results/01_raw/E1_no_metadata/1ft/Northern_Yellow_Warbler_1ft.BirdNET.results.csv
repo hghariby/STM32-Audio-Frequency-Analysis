@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.4381,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Chordeiles minor,Common Nighthawk,0.0743,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0528,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0425,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0397,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous mexicanus,House Finch,0.0248,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0237,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0219,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Vireo olivaceus,Red-eyed Vireo,0.0206,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.0202,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Orchelimum agile,Agile Meadow Katydid,0.0157,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Dumetella carolinensis,Gray Catbird,0.0153,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Conocephalus brevipennis,Short-winged Meadow Katydid,0.0145,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0145,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cyanocitta cristata,Blue Jay,0.0144,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.0143,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0138,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Passer domesticus,House Sparrow,0.0102,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Myiarchus crinitus,Great Crested Flycatcher,0.0080,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza lincolnii,Lincoln's Sparrow,0.0077,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga petechia,Yellow Warbler,0.9617,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga ruticilla,American Redstart,0.0107,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Empidonax traillii,Willow Flycatcher,0.0077,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0062,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cardellina pusilla,Wilson's Warbler,0.0054,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Leiothlypis ruficapilla,Nashville Warbler,0.0028,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.0021,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0017,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga coronata,Yellow-rumped Warbler,0.0016,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Contopus sordidulus,Western Wood-Pewee,0.0016,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Icterus galbula,Baltimore Oriole,0.0013,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Vireo gilvus,Warbling Vireo,0.0012,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerella iliaca,Fox Sparrow,0.0011,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Molothrus ater,Brown-headed Cowbird,0.0011,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0010,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Empidonax alnorum,Alder Flycatcher,0.0010,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerina amoena,Lazuli Bunting,0.0010,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Leiothlypis luciae,Lucy's Warbler,0.0008,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Setophaga striata,Blackpoll Warbler,0.0008,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Mniotilta varia,Black-and-white Warbler,0.0007,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.1782,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga ruticilla,American Redstart,0.1740,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phylloscopus trochiloides,Greenish Warbler,0.0894,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Phylloscopus nitidus,Green Warbler,0.0500,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax minimus,Least Flycatcher,0.0416,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga americana,Northern Parula,0.0289,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga cerulea,Cerulean Warbler,0.0261,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Protonotaria citrea,Prothonotary Warbler,0.0218,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga citrina,Hooded Warbler,0.0199,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0165,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Leiothlypis ruficapilla,Nashville Warbler,0.0151,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga pensylvanica,Chestnut-sided Warbler,0.0137,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Helmitheros vermivorum,Worm-eating Warbler,0.0131,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Dryobates villosus,Hairy Woodpecker,0.0129,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Larvivora brunnea,Indian Blue Robin,0.0128,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spizella passerina,Chipping Sparrow,0.0123,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Larvivora cyane,Siberian Blue Robin,0.0121,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Odocoileus virginianus,White-tailed Deer,0.0098,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Setophaga petechia,Yellow Warbler,0.0098,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax difficilis,Pacific-slope Flycatcher,0.0089,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0444,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0287,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0101,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0085,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Strix varia,Barred Owl,0.0084,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ketupa zeylonensis,Brown Fish-Owl,0.0078,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo bubo,Eurasian Eagle-Owl,0.0054,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Power tools,Power tools,0.0053,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Megascops asio,Eastern Screech-Owl,0.0047,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Siren,Siren,0.0045,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0045,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Aegolius acadicus,Northern Saw-whet Owl,0.0044,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Tetrao urogallus,Western Capercaillie,0.0043,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0042,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Serinus canaria,Island Canary,0.0042,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ciccaba albitarsis,Rufous-banded Owl,0.0040,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Amblycorypha alexanderi,Clicker Round-winged Katydid,0.0038,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Gun,Gun,0.0037,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Asio otus,Long-eared Owl,0.0036,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Cygnus buccinator,Trumpeter Swan,0.0032,Birdsongs Recordings\1ft\Northern_Yellow_Warbler_1ft.wav,-1,-1,-1,0.01

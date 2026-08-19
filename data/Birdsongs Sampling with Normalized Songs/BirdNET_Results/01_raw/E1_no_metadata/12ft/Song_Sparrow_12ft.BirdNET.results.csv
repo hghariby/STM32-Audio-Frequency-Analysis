@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.2343,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Engine,Engine,0.0681,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Pycnonotus jocosus,Red-whiskered Bulbul,0.0397,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Otus bakkamoena,Indian Scops-Owl,0.0350,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Ketupa zeylonensis,Brown Fish-Owl,0.0280,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Copsychus saularis,Oriental Magpie-Robin,0.0110,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Corvus macrorhynchos,Large-billed Crow,0.0098,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0095,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Motacilla maderaspatensis,White-browed Wagtail,0.0092,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0090,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Centropus sinensis,Greater Coucal,0.0087,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Pycnonotus cafer,Red-vented Bulbul,0.0066,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Dendronanthus indicus,Forest Wagtail,0.0064,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Prinia inornata,Plain Prinia,0.0063,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0062,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Eudynamys scolopaceus,Asian Koel,0.0059,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0059,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Caprimulgus atripennis,Jerdon's Nightjar,0.0059,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Conocephalus brevipennis,Short-winged Meadow Katydid,0.0058,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+0.0,3.0,Phylloscopus trochiloides,Greenish Warbler,0.0056,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.9502,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza georgiana,Swamp Sparrow,0.0033,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0022,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerculus sandwichensis,Savannah Sparrow,0.0018,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Rallus limicola,Virginia Rail,0.0018,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Agelaius phoeniceus,Red-winged Blackbird,0.0013,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Junco hyemalis,Dark-eyed Junco,0.0013,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Actitis macularius,Spotted Sandpiper,0.0009,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Colaptes auratus,Northern Flicker,0.0009,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Geothlypis trichas,Common Yellowthroat,0.0008,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pooecetes gramineus,Vesper Sparrow,0.0008,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Branta canadensis,Canada Goose,0.0008,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Thryomanes bewickii,Bewick's Wren,0.0008,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0007,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Tyrannus tyrannus,Eastern Kingbird,0.0005,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Empidonax traillii,Willow Flycatcher,0.0005,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0005,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0004,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Engine,Engine,0.0004,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pipilo maculatus,Spotted Towhee,0.0004,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.1852,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.1051,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia curvirostra,Red Crossbill,0.0897,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0366,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Branta canadensis,Canada Goose,0.0338,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0249,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Prinia inornata,Plain Prinia,0.0246,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia leucoptera,White-winged Crossbill,0.0222,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Loxia pytyopsittacus,Parrot Crossbill,0.0191,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Luscinia svecica,Bluethroat,0.0155,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0138,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0133,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Motacilla maderaspatensis,White-browed Wagtail,0.0125,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Ketupa zeylonensis,Brown Fish-Owl,0.0120,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Falco peregrinus,Peregrine Falcon,0.0115,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Merops orientalis,Green Bee-eater,0.0101,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Human vocal,Human vocal,0.0093,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Parus major,Great Tit,0.0087,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Corvus brachyrhynchos,American Crow,0.0079,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+6.0,9.0,Cyanocitta cristata,Blue Jay,0.0072,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Burhinus indicus,Indian Thick-knee,0.0610,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Haliaeetus leucocephalus,Bald Eagle,0.0290,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ninox scutulata,Brown Boobook,0.0285,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ketupa zeylonensis,Brown Fish-Owl,0.0248,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo nipalensis,Spot-bellied Eagle-Owl,0.0231,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Myadestes occidentalis,Brown-backed Solitaire,0.0192,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ocyceros birostris,Indian Gray Hornbill,0.0151,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Batrachostomus moniliger,Sri Lanka Frogmouth,0.0141,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Athene brama,Spotted Owlet,0.0124,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Himantopus himantopus,Black-winged Stilt,0.0081,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Otus spilocephalus,Mountain Scops-Owl,0.0073,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Pernis ptilorhynchus,Oriental Honey-buzzard,0.0071,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Loxia leucoptera,White-winged Crossbill,0.0064,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Milvus migrans,Black Kite,0.0064,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0062,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dendrocitta vagabunda,Rufous Treepie,0.0061,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Lophotriorchis kienerii,Rufous-bellied Eagle,0.0060,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Falco peregrinus,Peregrine Falcon,0.0054,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Francolinus pictus,Painted Francolin,0.0053,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01
+9.0,10.0,Tyto alba,Barn Owl,0.0053,Birdsongs Recordings\12ft\Song_Sparrow_12ft.wav,-1,-1,-1,0.01

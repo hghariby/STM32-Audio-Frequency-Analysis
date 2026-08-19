@@ -1,0 +1,81 @@
+Start (s),End (s),Scientific name,Common name,Confidence,File,lat,lon,week,min_conf
+0.0,3.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.1784,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sitta pygmaea,Pygmy Nuthatch,0.1193,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Branta canadensis,Canada Goose,0.0546,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Cardinalis cardinalis,Northern Cardinal,0.0542,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Melospiza melodia,Song Sparrow,0.0516,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Dumetella carolinensis,Gray Catbird,0.0470,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Spinus tristis,American Goldfinch,0.0385,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Haemorhous purpureus,Purple Finch,0.0329,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Tyrannus couchii,Couch's Kingbird,0.0326,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Charadrius vociferus,Killdeer,0.0271,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Corvus brachyrhynchos,American Crow,0.0263,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Seiurus aurocapilla,Ovenbird,0.0223,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Apus melba,Alpine Swift,0.0192,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Chordeiles minor,Common Nighthawk,0.0174,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Engine,Engine,0.0172,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Sitta carolinensis,White-breasted Nuthatch,0.0154,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Limnodromus scolopaceus,Long-billed Dowitcher,0.0147,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Dryobates pubescens,Downy Woodpecker,0.0134,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Tringa glareola,Wood Sandpiper,0.0125,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+0.0,3.0,Megaceryle alcyon,Belted Kingfisher,0.0116,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza melodia,Song Sparrow,0.9159,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Melospiza georgiana,Swamp Sparrow,0.0088,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Rallus limicola,Virginia Rail,0.0063,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Passerculus sandwichensis,Savannah Sparrow,0.0052,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Agelaius phoeniceus,Red-winged Blackbird,0.0027,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Thryothorus ludovicianus,Carolina Wren,0.0023,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Troglodytes pacificus,Pacific Wren,0.0021,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Pooecetes gramineus,Vesper Sparrow,0.0020,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spizella pallida,Clay-colored Sparrow,0.0018,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sayornis phoebe,Eastern Phoebe,0.0018,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Dryobates pubescens,Downy Woodpecker,0.0017,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Tyrannus tyrannus,Eastern Kingbird,0.0015,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cistothorus palustris,Marsh Wren,0.0015,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Rallus elegans,King Rail,0.0015,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Cyanocitta cristata,Blue Jay,0.0015,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Amphispiza bilineata,Black-throated Sparrow,0.0014,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Spinus tristis,American Goldfinch,0.0012,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0011,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Gun,Gun,0.0011,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+3.0,6.0,Sitta carolinensis,White-breasted Nuthatch,0.0011,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Passer domesticus,House Sparrow,0.0490,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Branta canadensis,Canada Goose,0.0403,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Engine,Engine,0.0266,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sitta pygmaea,Pygmy Nuthatch,0.0227,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Amblycorypha longinicta,Common Virtuoso Katydid,0.0222,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Empidonax hammondii,Hammond's Flycatcher,0.0174,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Melospiza melodia,Song Sparrow,0.0163,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Cardinalis cardinalis,Northern Cardinal,0.0137,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Certhia americana,Brown Creeper,0.0113,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Nephelomyias lintoni,Orange-banded Flycatcher,0.0103,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sitta carolinensis,White-breasted Nuthatch,0.0094,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous purpureus,Purple Finch,0.0091,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Catherpes mexicanus,Canyon Wren,0.0089,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Chordeiles minor,Common Nighthawk,0.0083,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Cyanocitta cristata,Blue Jay,0.0079,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Spinus tristis,American Goldfinch,0.0076,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Dryobates pubescens,Downy Woodpecker,0.0073,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Tyrannus couchii,Couch's Kingbird,0.0070,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Haemorhous mexicanus,House Finch,0.0066,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+6.0,9.0,Sayornis nigricans,Black Phoebe,0.0064,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Engine,Engine,0.0240,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Fireworks,Fireworks,0.0077,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo bubo,Eurasian Eagle-Owl,0.0066,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Human vocal,Human vocal,0.0062,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Ciccaba albitarsis,Rufous-banded Owl,0.0053,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Gun,Gun,0.0050,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Columba livia,Rock Pigeon,0.0047,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Turdus fuscater,Great Thrush,0.0046,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Scudderia furcata,Fork-tailed Bush Katydid,0.0042,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Scolopax minor,American Woodcock,0.0041,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Bubo virginianus,Great Horned Owl,0.0039,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Tetrao urogallus,Western Capercaillie,0.0037,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Buteo platypterus,Broad-winged Hawk,0.0035,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Regulus regulus,Goldcrest,0.0032,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Megascops asio,Eastern Screech-Owl,0.0032,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Dendragapus fuliginosus,Sooty Grouse,0.0029,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Siren,Siren,0.0029,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Picoides dorsalis,American Three-toed Woodpecker,0.0029,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Cyanolyca armillata,Black-collared Jay,0.0028,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
+9.0,10.0,Diglossa humeralis,Black Flowerpiercer,0.0028,Birdsongs Recordings\1ft\Song_Sparrow_1ft.wav,-1,-1,-1,0.01
