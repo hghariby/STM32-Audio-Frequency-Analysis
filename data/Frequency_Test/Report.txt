@@ -1,0 +1,42 @@
+Found 12 WAV files.
+
+[1/12] dc_test_1in_10000hz.wav
+[2/12] dc_test_1in_12000hz.wav
+[3/12] dc_test_1in_14000hz.wav
+[4/12] dc_test_1in_4000hz.wav
+[5/12] dc_test_1in_6000hz.wav
+[6/12] dc_test_1in_8000hz.wav
+[7/12] dc_test_1in_Black_Phoebe.wav
+[8/12] dc_test_1in_House_Sparrow.wav
+[9/12] dc_test_1in_Mocking_Bird.wav
+[10/12] dc_test_1in_Northern_Mockingbird.wav
+[11/12] dc_test_1in_Oak_Titmouse.wav
+[12/12] dc_test_background.wav
+
+============================================================
+DC OFFSET SUMMARY
+============================================================
+Files analyzed: 12
+Mean absolute DC offset: 8042.83 counts
+Median absolute DC offset: 6437.17 counts
+Minimum absolute DC offset: 6426.05 counts
+Maximum absolute DC offset: 12866.23 counts
+90th percentile: 12858.71 counts
+95th percentile: 12862.26 counts
+99th percentile: 12865.43 counts
+
+Largest DC offsets:
+                                file  mean_dc_offset_counts  absolute_dc_offset_counts  dc_offset_percent_full_scale
+             dc_test_1in_14000hz.wav          -12866.225055               12866.225055                     39.264603
+             dc_test_1in_12000hz.wav          -12859.011850               12859.011850                     39.242590
+             dc_test_1in_10000hz.wav          -12855.998242               12855.998242                     39.233393
+              dc_test_1in_6000hz.wav           -6467.558341                6467.558341                     19.737422
+              dc_test_1in_4000hz.wav           -6448.119135                6448.119135                     19.678098
+              dc_test_background.wav           -6437.231831                6437.231831                     19.644873
+              dc_test_1in_8000hz.wav           -6437.108557                6437.108557                     19.644496
+dc_test_1in_Northern_Mockingbird.wav           -6429.850188                6429.850188                     19.622346
+        dc_test_1in_Oak_Titmouse.wav           -6429.449191                6429.449191                     19.621122
+        dc_test_1in_Black_Phoebe.wav           -6429.161645                6429.161645                     19.620244
+
+Full report saved to:
+STM32\data\Frequency_Test\Frequency_Test\dc_offset_analysis.csv
